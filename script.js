@@ -100,6 +100,7 @@ function renderFeed() {
           const localized = getLocalized(a);
           return `
           <div class="article">
+            ${a.image ? `<img class="article-thumb" src="${a.image}" alt="" loading="lazy" onerror="this.remove()">` : ""}
             <div class="article-meta">
               <span class="tag ${cat.color}">${categoryLabels[a.category]}</span>
               <span class="source">${a.source}</span>
