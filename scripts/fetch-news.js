@@ -76,6 +76,24 @@ function slugId(url) {
   return "a_" + Buffer.from(url).toString("base64url").slice(0, 16);
 }
 
+// Tries several common places RSS feeds put an article's lead image.
+function extractImage(item) {
+  if (item.enclosure?.url && (item.enclosure.type || "").startsWith("image")) {
+    return item.enclosure.url;
+  }
+  if (Array.isArray(item.mediaContent) && item.mediaContent.length) {
+    const withUrl = item.mediaContent.find((m) => m?.$?.url);
+    if (withUrl) return withUrl.$.url;
+  }
+  if (item.mediaThumbnail?.$?.url) {
+    return item.mediaThumbnail.$.url;
+  }
+  const html = item["content:encoded"] || item.content || "";
+  const match = html.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (match) return match[1];
+  return null;
+}
+
 async function main() {
   if (!ANTHROPIC_API_KEY) {
     throw new Error("ANTHROPIC_API_KEY is not set. Add it as a GitHub Actions secret.");
@@ -85,7 +103,14 @@ async function main() {
   const existing = await loadJson(DATA_PATH);
   const knownUrls = new Set(existing.map((a) => a.url));
 
-  const parser = new Parser();
+  const parser = new Parser({
+    customFields: {
+      item: [
+        ["media:content", "mediaContent", { keepArray: true }],
+        ["media:thumbnail", "mediaThumbnail"],
+      ],
+    },
+  });
   const newArticles = [];
 
   for (const feed of feeds) {
@@ -107,6 +132,7 @@ async function main() {
             category: result.category,
             source: feed.source,
             url: item.link,
+            image: extractImage(item),
             i18n: { en: result.en, ja: result.ja },
           });
           knownUrls.add(item.link);
