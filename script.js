@@ -1,6 +1,7 @@
 let activeRegion = "all";
 let currentLang = localStorage.getItem("officewire_lang") || detectBrowserLang();
 let favorites = JSON.parse(localStorage.getItem("officewire_favs") || "[]");
+let ARTICLES = null;
 
 function detectBrowserLang() {
   const nav = (navigator.language || DEFAULT_LANG).slice(0, 2);
@@ -75,6 +76,12 @@ function renderTabs() {
 
 function renderFeed() {
   const feed = document.getElementById("feed");
+
+  if (ARTICLES === null) {
+    feed.innerHTML = `<p style="color:var(--ink-faint);font-size:14px;">${t(currentLang, "loading")}</p>`;
+    return;
+  }
+
   const filtered = ARTICLES.filter((a) => activeRegion === "all" || a.region === activeRegion);
   const grouped = groupByDate(filtered);
   const categoryLabels = t(currentLang, "categoryLabels");
@@ -195,7 +202,25 @@ function renderAll() {
   updateClocks();
 }
 
+async function loadArticles() {
+  try {
+    const res = await fetch(ARTICLES_URL, { cache: "no-store" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    ARTICLES = await res.json();
+  } catch (err) {
+    console.error("Failed to load articles.json:", err);
+    ARTICLES = [];
+  }
+  renderFeed();
+}
+
 renderLangSwitcher();
-renderAll();
+renderStaticText();
+renderToday();
+renderTabs();
+renderCategories();
+updateClocks();
+renderFeed(); // shows the loading state immediately
+loadArticles(); // then fetches real data and re-renders the feed
 setInterval(updateClocks, 30000);
 initDarkMode();

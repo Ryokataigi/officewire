@@ -1,0 +1,12 @@
+// Static config — rarely changes, so it's separate from the auto-generated
+// article data in data/articles.json.
+const REGIONS = ["all", "global", "na", "eu", "asia"];
+
+const CATEGORIES = [
+  { id: "design", color: "teal" },
+  { id: "work", color: "amber" },
+  { id: "estate", color: "blue" },
+  { id: "culture", color: "coral" },
+];
+
+const ARTICLES_URL = "./data/articles.json";
