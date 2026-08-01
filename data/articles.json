@@ -1,26 +1,26 @@
 [
   {
-    "id": "a1",
+    "id": "a3",
     "date": "2026-08-01",
-    "region": "na",
-    "category": "estate",
-    "source": "WeWork News",
+    "region": "eu",
+    "category": "work",
+    "source": "Fast Company",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "Office return-to-work hits record occupancy in major cities",
+        "title": "London mid-size firm rolls out permanent four-day week",
         "bullets": [
-          "Office occupancy in New York, Chicago and other hubs reaches its highest level since the pandemic",
-          "More companies now require 4+ days in office per week",
-          "Demand for flexible office space is growing at the same time"
+          "A one-year trial confirmed productivity held steady",
+          "Employee turnover improved sharply year over year",
+          "Other industries are now watching closely"
         ]
       },
       "ja": {
-        "title": "オフィス出社回帰、主要都市で稼働率が過去最高に",
+        "title": "4日勤務制トライアル、ロンドンの中堅企業で本格導入へ",
         "bullets": [
-          "ニューヨーク・シカゴなどでオフィス稼働率がパンデミック後最高水準に到達",
-          "週4日以上の出社を義務化する企業が増加傾向",
-          "フレックス型オフィス需要も同時に拡大中"
+          "1年間の試験導入を経て生産性維持を確認",
+          "離職率が前年比で大きく改善",
+          "他業種への波及も注目されている"
         ]
       }
     }
@@ -52,53 +52,53 @@
     }
   },
   {
-    "id": "a3",
+    "id": "a1",
     "date": "2026-08-01",
-    "region": "eu",
-    "category": "work",
-    "source": "Fast Company",
+    "region": "na",
+    "category": "estate",
+    "source": "WeWork News",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "London mid-size firm rolls out permanent four-day week",
+        "title": "Office return-to-work hits record occupancy in major cities",
         "bullets": [
-          "A one-year trial confirmed productivity held steady",
-          "Employee turnover improved sharply year over year",
-          "Other industries are now watching closely"
+          "Office occupancy in New York, Chicago and other hubs reaches its highest level since the pandemic",
+          "More companies now require 4+ days in office per week",
+          "Demand for flexible office space is growing at the same time"
         ]
       },
       "ja": {
-        "title": "4日勤務制トライアル、ロンドンの中堅企業で本格導入へ",
+        "title": "オフィス出社回帰、主要都市で稼働率が過去最高に",
         "bullets": [
-          "1年間の試験導入を経て生産性維持を確認",
-          "離職率が前年比で大きく改善",
-          "他業種への波及も注目されている"
+          "ニューヨーク・シカゴなどでオフィス稼働率がパンデミック後最高水準に到達",
+          "週4日以上の出社を義務化する企業が増加傾向",
+          "フレックス型オフィス需要も同時に拡大中"
         ]
       }
     }
   },
   {
-    "id": "a4",
+    "id": "a6",
     "date": "2026-07-31",
-    "region": "na",
-    "category": "design",
-    "source": "Dezeen",
+    "region": "eu",
+    "category": "estate",
+    "source": "CBRE Europe",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "Silicon Valley firms redesign offices around \"focus zones\"",
+        "title": "Paris green-certified offices command a widening rent premium",
         "bullets": [
-          "Open-plan floors are giving way to semi-enclosed work pods",
-          "Spending on acoustic design is up sharply year over year",
-          "More companies treat space investment as a recruiting tool"
+          "Certified green buildings rent for 15% more than uncertified stock",
+          "Demand is led by tenants with ESG mandates",
+          "Retrofit demand for older buildings is rising in parallel"
         ]
       },
       "ja": {
-        "title": "シリコンバレー企業、オフィス再設計で「集中ゾーン」重視へ",
+        "title": "パリ、グリーンビルディング認証オフィスの賃料プレミアムが拡大",
         "bullets": [
-          "オープンフロアから半個室スペースへの回帰が加速",
-          "音響設計への投資が前年比で大幅増",
-          "採用競争力の一環として空間投資を位置づける企業が増加"
+          "環境認証取得オフィスの賃料が非認証比で15%高",
+          "ESG方針を持つテナントの移転需要が牽引",
+          "旧世代ビルの改修需要も同時に増加"
         ]
       }
     }
@@ -130,27 +130,131 @@
     }
   },
   {
-    "id": "a6",
+    "id": "a4",
     "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "CBRE Europe",
+    "region": "na",
+    "category": "design",
+    "source": "Dezeen",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "Paris green-certified offices command a widening rent premium",
+        "title": "Silicon Valley firms redesign offices around \"focus zones\"",
         "bullets": [
-          "Certified green buildings rent for 15% more than uncertified stock",
-          "Demand is led by tenants with ESG mandates",
-          "Retrofit demand for older buildings is rising in parallel"
+          "Open-plan floors are giving way to semi-enclosed work pods",
+          "Spending on acoustic design is up sharply year over year",
+          "More companies treat space investment as a recruiting tool"
         ]
       },
       "ja": {
-        "title": "パリ、グリーンビルディング認証オフィスの賃料プレミアムが拡大",
+        "title": "シリコンバレー企業、オフィス再設計で「集中ゾーン」重視へ",
         "bullets": [
-          "環境認証取得オフィスの賃料が非認証比で15%高",
-          "ESG方針を持つテナントの移転需要が牽引",
-          "旧世代ビルの改修需要も同時に増加"
+          "オープンフロアから半個室スペースへの回帰が加速",
+          "音響設計への投資が前年比で大幅増",
+          "採用競争力の一環として空間投資を位置づける企業が増加"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
+    "i18n": {
+      "en": {
+        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
+        "bullets": [
+          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
+          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
+          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
+        ]
+      },
+      "ja": {
+        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
+        "bullets": [
+          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
+          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
+          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
+        "bullets": [
+          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
+          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
+          "The freeze highlights financial pressures facing the company's UK operations."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
+        "bullets": [
+          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
+          "この措置は同社の資金繰り問題が続いていることを示している。",
+          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
+    "i18n": {
+      "en": {
+        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
+        "bullets": [
+          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
+          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
+          "The seller was Edison Properties, a New Jersey-based real estate firm."
+        ]
+      },
+      "ja": {
+        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
+        "bullets": [
+          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
+          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
+          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "work",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "i18n": {
+      "en": {
+        "title": "American workers grow more skeptical of AI even as usage rises",
+        "bullets": [
+          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
+          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
+          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
+        ]
+      },
+      "ja": {
+        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
+        "bullets": [
+          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
+          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
+          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
         ]
       }
     }
