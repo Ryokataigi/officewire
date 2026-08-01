@@ -94,6 +94,28 @@ function extractImage(item) {
   return null;
 }
 
+// Fallback for feeds that don't include an image: fetch the article page itself
+// and look for its Open Graph / Twitter Card image meta tag (almost every
+// modern news site sets one, even when the RSS feed omits it).
+async function fetchPageImage(url) {
+  try {
+    const res = await fetch(url, {
+      headers: { "user-agent": "Mozilla/5.0 (compatible; OfficeWireBot/1.0)" },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return null;
+    const html = await res.text();
+    const og =
+      html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+      html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+      html.match(/<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']/i);
+    return og ? og[1] : null;
+  } catch (err) {
+    console.error(`Could not fetch page image for ${url}:`, err.message);
+    return null;
+  }
+}
+
 async function main() {
   if (!ANTHROPIC_API_KEY) {
     throw new Error("ANTHROPIC_API_KEY is not set. Add it as a GitHub Actions secret.");
@@ -132,7 +154,7 @@ async function main() {
             category: result.category,
             source: feed.source,
             url: item.link,
-            image: extractImage(item),
+            image: extractImage(item) || (await fetchPageImage(item.link)),
             i18n: { en: result.en, ja: result.ja },
           });
           knownUrls.add(item.link);
