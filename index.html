@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ja" data-mode="light">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OfficeWire — 世界のオフィスニュース</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap masthead-top">
+    <div class="logo">Office<span>Wire</span></div>
+    <div class="masthead-actions">
+      <span id="today"></span>
+      <select id="lang-switcher" aria-label="Language"></select>
+      <button id="mode-toggle">ダークモード</button>
+    </div>
+  </div>
+  <div class="wrap">
+    <div class="clock-strip" id="clock-strip"></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <h1 id="hero-title">世界のオフィスニュース</h1>
+    <p id="hero-subtitle"></p>
+  </section>
+
+  <div class="tabs" id="tabs"></div>
+
+  <div class="layout">
+    <div id="feed"></div>
+
+    <aside class="sidebar">
+      <div class="sidebar-block">
+        <h4 id="categories-heading">カテゴリー</h4>
+        <div id="category-list"></div>
+      </div>
+    </aside>
+  </div>
+</div>
+
+<footer id="footer-text">OfficeWire</footer>
+
+<script src="i18n.js"></script>
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
