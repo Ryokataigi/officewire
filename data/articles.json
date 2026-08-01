@@ -1,26 +1,26 @@
 [
   {
-    "id": "a3",
+    "id": "a1",
     "date": "2026-08-01",
-    "region": "eu",
-    "category": "work",
-    "source": "Fast Company",
+    "region": "na",
+    "category": "estate",
+    "source": "WeWork News",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "London mid-size firm rolls out permanent four-day week",
+        "title": "Office return-to-work hits record occupancy in major cities",
         "bullets": [
-          "A one-year trial confirmed productivity held steady",
-          "Employee turnover improved sharply year over year",
-          "Other industries are now watching closely"
+          "Office occupancy in New York, Chicago and other hubs reaches its highest level since the pandemic",
+          "More companies now require 4+ days in office per week",
+          "Demand for flexible office space is growing at the same time"
         ]
       },
       "ja": {
-        "title": "4日勤務制トライアル、ロンドンの中堅企業で本格導入へ",
+        "title": "オフィス出社回帰、主要都市で稼働率が過去最高に",
         "bullets": [
-          "1年間の試験導入を経て生産性維持を確認",
-          "離職率が前年比で大きく改善",
-          "他業種への波及も注目されている"
+          "ニューヨーク・シカゴなどでオフィス稼働率がパンデミック後最高水準に到達",
+          "週4日以上の出社を義務化する企業が増加傾向",
+          "フレックス型オフィス需要も同時に拡大中"
         ]
       }
     }
@@ -52,27 +52,27 @@
     }
   },
   {
-    "id": "a1",
+    "id": "a3",
     "date": "2026-08-01",
-    "region": "na",
-    "category": "estate",
-    "source": "WeWork News",
+    "region": "eu",
+    "category": "work",
+    "source": "Fast Company",
     "url": "#",
     "i18n": {
       "en": {
-        "title": "Office return-to-work hits record occupancy in major cities",
+        "title": "London mid-size firm rolls out permanent four-day week",
         "bullets": [
-          "Office occupancy in New York, Chicago and other hubs reaches its highest level since the pandemic",
-          "More companies now require 4+ days in office per week",
-          "Demand for flexible office space is growing at the same time"
+          "A one-year trial confirmed productivity held steady",
+          "Employee turnover improved sharply year over year",
+          "Other industries are now watching closely"
         ]
       },
       "ja": {
-        "title": "オフィス出社回帰、主要都市で稼働率が過去最高に",
+        "title": "4日勤務制トライアル、ロンドンの中堅企業で本格導入へ",
         "bullets": [
-          "ニューヨーク・シカゴなどでオフィス稼働率がパンデミック後最高水準に到達",
-          "週4日以上の出社を義務化する企業が増加傾向",
-          "フレックス型オフィス需要も同時に拡大中"
+          "1年間の試験導入を経て生産性維持を確認",
+          "離職率が前年比で大きく改善",
+          "他業種への波及も注目されている"
         ]
       }
     }
@@ -81,155 +81,24 @@
     "id": "a_aHR0cHM6Ly93d3cu",
     "date": "2026-07-31",
     "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
-    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
+    "category": "work",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
     "i18n": {
       "en": {
-        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
+        "title": "American workers grow more skeptical of AI even as usage rises",
         "bullets": [
-          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
-          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
-          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
+          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
+          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
+          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
         ]
       },
       "ja": {
-        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
+        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
         "bullets": [
-          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
-          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
-          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a6",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "CBRE Europe",
-    "url": "#",
-    "i18n": {
-      "en": {
-        "title": "Paris green-certified offices command a widening rent premium",
-        "bullets": [
-          "Certified green buildings rent for 15% more than uncertified stock",
-          "Demand is led by tenants with ESG mandates",
-          "Retrofit demand for older buildings is rising in parallel"
-        ]
-      },
-      "ja": {
-        "title": "パリ、グリーンビルディング認証オフィスの賃料プレミアムが拡大",
-        "bullets": [
-          "環境認証取得オフィスの賃料が非認証比で15%高",
-          "ESG方針を持つテナントの移転需要が牽引",
-          "旧世代ビルの改修需要も同時に増加"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a5",
-    "date": "2026-07-31",
-    "region": "asia",
-    "category": "culture",
-    "source": "Nikkei Asia",
-    "url": "#",
-    "i18n": {
-      "en": {
-        "title": "Singapore firms formalize a company-wide \"no meeting day\"",
-        "bullets": [
-          "Policy adopted company-wide to protect focused work time",
-          "Employee satisfaction surveys show strong approval",
-          "Other major Asian business hubs are following suit"
-        ]
-      },
-      "ja": {
-        "title": "シンガポール企業、週1日の「ノー会議デー」を制度化",
-        "bullets": [
-          "集中作業時間の確保を目的に制度を全社導入",
-          "導入企業の従業員満足度調査で高評価",
-          "他のアジア主要都市の企業も追随する動き"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a4",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "design",
-    "source": "Dezeen",
-    "url": "#",
-    "i18n": {
-      "en": {
-        "title": "Silicon Valley firms redesign offices around \"focus zones\"",
-        "bullets": [
-          "Open-plan floors are giving way to semi-enclosed work pods",
-          "Spending on acoustic design is up sharply year over year",
-          "More companies treat space investment as a recruiting tool"
-        ]
-      },
-      "ja": {
-        "title": "シリコンバレー企業、オフィス再設計で「集中ゾーン」重視へ",
-        "bullets": [
-          "オープンフロアから半個室スペースへの回帰が加速",
-          "音響設計への投資が前年比で大幅増",
-          "採用競争力の一環として空間投資を位置づける企業が増加"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
-    "i18n": {
-      "en": {
-        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
-        "bullets": [
-          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
-          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
-          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
-        ]
-      },
-      "ja": {
-        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
-        "bullets": [
-          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
-          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
-          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "i18n": {
-      "en": {
-        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
-        "bullets": [
-          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
-          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
-          "The freeze highlights financial pressures facing the company's UK operations."
-        ]
-      },
-      "ja": {
-        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
-        "bullets": [
-          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
-          "この措置は同社の資金繰り問題が続いていることを示している。",
-          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
+          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
+          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
         ]
       }
     }
@@ -263,25 +132,183 @@
   {
     "id": "a_aHR0cHM6Ly93d3cu",
     "date": "2026-07-31",
-    "region": "na",
-    "category": "work",
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
     "i18n": {
       "en": {
-        "title": "American workers grow more skeptical of AI even as usage rises",
+        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
         "bullets": [
-          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
-          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
-          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
+          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
+          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
+          "The freeze highlights financial pressures facing the company's UK operations."
         ]
       },
       "ja": {
-        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
+        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
         "bullets": [
-          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
-          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
-          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
+          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
+          "この措置は同社の資金繰り問題が続いていることを示している。",
+          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
+    "i18n": {
+      "en": {
+        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
+        "bullets": [
+          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
+          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
+          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
+        ]
+      },
+      "ja": {
+        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
+        "bullets": [
+          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
+          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
+          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a4",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "design",
+    "source": "Dezeen",
+    "url": "#",
+    "i18n": {
+      "en": {
+        "title": "Silicon Valley firms redesign offices around \"focus zones\"",
+        "bullets": [
+          "Open-plan floors are giving way to semi-enclosed work pods",
+          "Spending on acoustic design is up sharply year over year",
+          "More companies treat space investment as a recruiting tool"
+        ]
+      },
+      "ja": {
+        "title": "シリコンバレー企業、オフィス再設計で「集中ゾーン」重視へ",
+        "bullets": [
+          "オープンフロアから半個室スペースへの回帰が加速",
+          "音響設計への投資が前年比で大幅増",
+          "採用競争力の一環として空間投資を位置づける企業が増加"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a5",
+    "date": "2026-07-31",
+    "region": "asia",
+    "category": "culture",
+    "source": "Nikkei Asia",
+    "url": "#",
+    "i18n": {
+      "en": {
+        "title": "Singapore firms formalize a company-wide \"no meeting day\"",
+        "bullets": [
+          "Policy adopted company-wide to protect focused work time",
+          "Employee satisfaction surveys show strong approval",
+          "Other major Asian business hubs are following suit"
+        ]
+      },
+      "ja": {
+        "title": "シンガポール企業、週1日の「ノー会議デー」を制度化",
+        "bullets": [
+          "集中作業時間の確保を目的に制度を全社導入",
+          "導入企業の従業員満足度調査で高評価",
+          "他のアジア主要都市の企業も追随する動き"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a6",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "CBRE Europe",
+    "url": "#",
+    "i18n": {
+      "en": {
+        "title": "Paris green-certified offices command a widening rent premium",
+        "bullets": [
+          "Certified green buildings rent for 15% more than uncertified stock",
+          "Demand is led by tenants with ESG mandates",
+          "Retrofit demand for older buildings is rising in parallel"
+        ]
+      },
+      "ja": {
+        "title": "パリ、グリーンビルディング認証オフィスの賃料プレミアムが拡大",
+        "bullets": [
+          "環境認証取得オフィスの賃料が非認証比で15%高",
+          "ESG方針を持つテナントの移転需要が牽引",
+          "旧世代ビルの改修需要も同時に増加"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
+    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
+    "i18n": {
+      "en": {
+        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
+        "bullets": [
+          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
+          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
+          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
+        ]
+      },
+      "ja": {
+        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
+        "bullets": [
+          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
+          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
+          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&amp;crop=0px%2C57px%2C2000px%2C1050px&amp;resize=1200%2C630&amp;strip\t",
+    "i18n": {
+      "en": {
+        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
+        "bullets": [
+          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
+          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
+          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
+        ]
+      },
+      "ja": {
+        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
+        "bullets": [
+          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
+          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
+          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
         ]
       }
     }
