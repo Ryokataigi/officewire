@@ -113,6 +113,7 @@ header.masthead {
   gap: 0;
   border-top: 1px solid var(--line);
   font-family: 'IBM Plex Mono', monospace;
+  font-size: 12px;
 }
 
 .clock-item {
@@ -284,6 +285,13 @@ header.masthead {
 .tag.blue { background: var(--blue-bg); color: var(--blue); }
 .tag.coral { background: var(--coral-bg); color: var(--coral); }
 .tag.violet { background: var(--violet-bg); color: var(--violet); }
+
+.tag.case-study-tag {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--ink);
+  font-weight: 700;
+}
 
 .source {
   font-size: 12px;

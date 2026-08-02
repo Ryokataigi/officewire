@@ -101,6 +101,7 @@ function renderFeed() {
             ${a.image ? `<img class="article-thumb" src="${a.image}" alt="" loading="lazy" onerror="this.remove()">` : ""}
             <div class="article-meta">
               <span class="tag ${cat.color}">${categoryLabels[a.category]}</span>
+              ${a.caseStudy ? `<span class="tag case-study-tag">${t(currentLang, "caseStudy")}</span>` : ""}
               <span class="source">${a.source}</span>
             </div>
             <h3><a href="${a.url}" target="_blank" rel="noopener">${localized.title}</a></h3>
