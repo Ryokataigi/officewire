@@ -1,6 +1,6 @@
 // Static config — rarely changes, so it's separate from the auto-generated
 // article data in data/articles.json.
-const REGIONS = ["all", "global", "na", "eu", "asia"];
+const REGIONS = ["all", "global", "na", "eu", "asia", "jp"];
 
 const CATEGORIES = [
   { id: "design", color: "teal" },

@@ -23,7 +23,7 @@ const I18N = {
     darkMode: "Dark mode",
     lightMode: "Light mode",
     footer: "OfficeWire — Global workplace news, every day.",
-    regions: { all: "All", global: "Global", na: "North America", eu: "Europe", asia: "Asia" },
+    regions: { all: "All", global: "Global", na: "North America", eu: "Europe", asia: "Asia", jp: "Japan" },
     categoryLabels: {
       design: "Office Design",
       work: "Way of Work",
@@ -62,7 +62,7 @@ const I18N = {
     darkMode: "ダークモード",
     lightMode: "ライトモード",
     footer: "OfficeWire — 世界のオフィス・ワークプレイスニュースを毎日配信",
-    regions: { all: "すべて", global: "グローバル", na: "北米", eu: "欧州", asia: "アジア" },
+    regions: { all: "すべて", global: "グローバル", na: "北米", eu: "欧州", asia: "アジア", jp: "日本" },
     categoryLabels: {
       design: "オフィスデザイン",
       work: "働き方",
@@ -101,7 +101,7 @@ const I18N = {
     darkMode: "深色模式",
     lightMode: "浅色模式",
     footer: "OfficeWire — 每日推送全球办公室新闻。",
-    regions: { all: "全部", global: "全球", na: "北美", eu: "欧洲", asia: "亚洲" },
+    regions: { all: "全部", global: "全球", na: "北美", eu: "欧洲", asia: "亚洲", jp: "日本" },
     categoryLabels: { design: "办公室设计", work: "工作方式", estate: "房地产", culture: "企业文化", ai: "AI与数字化" },
     categoryDescriptions: {
       design: "全球办公空间趋势",
@@ -134,7 +134,7 @@ const I18N = {
     darkMode: "다크 모드",
     lightMode: "라이트 모드",
     footer: "OfficeWire — 전 세계 오피스 뉴스를 매일 전해드립니다.",
-    regions: { all: "전체", global: "글로벌", na: "북미", eu: "유럽", asia: "아시아" },
+    regions: { all: "전체", global: "글로벌", na: "북미", eu: "유럽", asia: "아시아", jp: "일본" },
     categoryLabels: { design: "오피스 디자인", work: "근무 방식", estate: "부동산", culture: "기업 문화", ai: "AI·디지털" },
     categoryDescriptions: {
       design: "전 세계 오피스 공간 트렌드",
