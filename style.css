@@ -113,7 +113,6 @@ header.masthead {
   gap: 0;
   border-top: 1px solid var(--line);
   font-family: 'IBM Plex Mono', monospace;
-  font-size: 12px;
 }
 
 .clock-item {
@@ -193,6 +192,11 @@ header.masthead {
 
 @media (max-width: 760px) {
   .hero p { max-width: 100%; }
+  .hero h1 { font-size: 26px; }
+  .clock-strip, .ticker-strip { flex-wrap: wrap; }
+  .clock-item, .ticker-item { flex: 0 0 50%; border-bottom: 1px solid var(--line); }
+  .clock-item:nth-child(2n), .ticker-item:nth-child(2n) { border-right: none; }
+  .ticker-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 }
 
 /* Region tabs */
