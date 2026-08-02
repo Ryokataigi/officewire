@@ -32,6 +32,7 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
 {
   "region": "na" | "eu" | "asia" | "jp" | "global",
   "category": "design" | "work" | "estate" | "culture" | "ai",
+  "caseStudy": boolean,
   "en": { "title": string, "bullets": [string, string, string] },
   "ja": { "title": string, "bullets": [string, string, string] },
   "zh": { "title": string, "bullets": [string, string, string] },
@@ -41,6 +42,7 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
 Rules:
 - "region": the geography the story is mainly about. Use "jp" specifically for stories about Japan, "asia" for other Asian countries/regions, and "global" if it's not tied to one region.
 - "category": "design" = office space/architecture, "work" = general hybrid/remote/work policy (not AI-driven), "estate" = office building/commercial office space (leasing, vacancy, rent, office REITs, office construction/conversion) — NOT hotels, warehouses/industrial, retail, residential, or parking facilities, "culture" = HR/company culture/org policy, "ai" = how AI or digital tools/automation are specifically changing offices, jobs, workflows, or office real estate demand. If a story is about work policy or real estate but AI/automation is the central driver, prefer "ai" over "work" or "estate".
+- "caseStudy": true if the article describes a SPECIFIC, named company or organization's completed, opened, or renovated office project (a concrete example — e.g. "Company X unveils new headquarters", "Company Y redesigns its Tokyo office"). false for general trend pieces, market data, policy news, or anything not tied to one specific named office project.
 - If the article is not actually about office space, office buildings, office-adjacent commercial real estate, workplace culture/policy, or hybrid work — for example if it's about hotels, industrial/warehouse property, retail, residential real estate, parking facilities, or general business news unrelated to offices — respond with {"skip": true} instead.
 - Titles: concise, factual, no clickbait.
 - Bullets: exactly 3, each one factual sentence, no fluff.
@@ -154,6 +156,7 @@ async function main() {
             date: (item.isoDate || new Date().toISOString()).slice(0, 10),
             region: result.region,
             category: result.category,
+            caseStudy: !!result.caseStudy,
             source: feed.source,
             url: item.link,
             image: extractImage(item) || (await fetchPageImage(item.link)),

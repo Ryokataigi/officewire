@@ -3,5 +3,7 @@
   { "source": "Fast Company - Work Life", "url": "https://www.fastcompany.com/work-life/rss" },
   { "source": "Commercial Observer", "url": "https://commercialobserver.com/feed/" },
   { "source": "Bisnow", "url": "https://www.bisnow.com/rss" },
-  { "source": "Nikkei Asia - Business", "url": "https://asia.nikkei.com/rss/feed/nar" }
+  { "source": "Nikkei Asia - Business", "url": "https://asia.nikkei.com/rss/feed/nar" },
+  { "source": "Officelovin'", "url": "https://officelovin.com/feed/" },
+  { "source": "Work Design Magazine", "url": "https://www.workdesign.com/feed/" }
 ]
