@@ -30,7 +30,7 @@ async function classifyAndSummarize(item, source) {
 
 Given this article, respond with ONLY a JSON object (no markdown, no commentary) in this exact shape:
 {
-  "region": "na" | "eu" | "asia" | "global",
+  "region": "na" | "eu" | "asia" | "jp" | "global",
   "category": "design" | "work" | "estate" | "culture" | "ai",
   "en": { "title": string, "bullets": [string, string, string] },
   "ja": { "title": string, "bullets": [string, string, string] },
@@ -39,7 +39,7 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
 }
 
 Rules:
-- "region": the geography the story is mainly about. Use "global" if it's not tied to one region.
+- "region": the geography the story is mainly about. Use "jp" specifically for stories about Japan, "asia" for other Asian countries/regions, and "global" if it's not tied to one region.
 - "category": "design" = office space/architecture, "work" = general hybrid/remote/work policy (not AI-driven), "estate" = commercial real estate/rent/vacancy, "culture" = HR/company culture/org policy, "ai" = how AI or digital tools/automation are specifically changing offices, jobs, workflows, or real estate demand. If a story is about work policy or real estate but AI/automation is the central driver, prefer "ai" over "work" or "estate".
 - Titles: concise, factual, no clickbait.
 - Bullets: exactly 3, each one factual sentence, no fluff.
