@@ -73,7 +73,7 @@ Article summary/content: ${(item.contentSnippet || item.content || "").slice(0, 
 }
 
 function slugId(url) {
-  return "a_" + Buffer.from(url).toString("base64url").slice(0, 16);
+  return "a_" + Buffer.from(url).toString("base64url").slice(0, 32);
 }
 
 // Tries several common places RSS feeds put an article's lead image.
