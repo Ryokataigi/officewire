@@ -7,6 +7,7 @@ const CATEGORIES = [
   { id: "work", color: "amber" },
   { id: "estate", color: "blue" },
   { id: "culture", color: "coral" },
+  { id: "ai", color: "violet" },
 ];
 
 const ARTICLES_URL = "./data/articles.json";

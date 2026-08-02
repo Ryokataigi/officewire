@@ -15,6 +15,8 @@
   --blue-bg: #dfe9f2;
   --coral: #a3402c;
   --coral-bg: #f3e0da;
+  --violet: #5b3fa0;
+  --violet-bg: #e7e1f3;
   --radius: 10px;
 }
 
@@ -29,6 +31,7 @@
   --amber-bg: #33260f;
   --blue-bg: #18293a;
   --coral-bg: #351f18;
+  --violet-bg: #2a2140;
 }
 
 * { box-sizing: border-box; }
@@ -271,6 +274,7 @@ header.masthead {
 .tag.amber { background: var(--amber-bg); color: var(--amber); }
 .tag.blue { background: var(--blue-bg); color: var(--blue); }
 .tag.coral { background: var(--coral-bg); color: var(--coral); }
+.tag.violet { background: var(--violet-bg); color: var(--violet); }
 
 .source {
   font-size: 12px;
