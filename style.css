@@ -186,7 +186,7 @@ header.masthead {
   color: var(--ink-soft);
   font-size: 15px;
   margin: 0;
-  max-width: 620px;
+  max-width: 100%;
   line-height: 1.9;
 }
 
