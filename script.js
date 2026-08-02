@@ -40,7 +40,6 @@ function renderStaticText() {
   document.getElementById("hero-title").textContent = t(currentLang, "heroTitle");
   document.getElementById("hero-subtitle").textContent = t(currentLang, "heroSubtitle");
   document.getElementById("categories-heading").textContent = t(currentLang, "categories");
-  document.getElementById("footer-text").textContent = t(currentLang, "footer");
   document.getElementById("mode-toggle").textContent =
     document.documentElement.dataset.mode === "dark" ? t(currentLang, "lightMode") : t(currentLang, "darkMode");
   document.documentElement.lang = currentLang;
