@@ -40,11 +40,11 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
 
 Rules:
 - "region": the geography the story is mainly about. Use "jp" specifically for stories about Japan, "asia" for other Asian countries/regions, and "global" if it's not tied to one region.
-- "category": "design" = office space/architecture, "work" = general hybrid/remote/work policy (not AI-driven), "estate" = commercial real estate/rent/vacancy, "culture" = HR/company culture/org policy, "ai" = how AI or digital tools/automation are specifically changing offices, jobs, workflows, or real estate demand. If a story is about work policy or real estate but AI/automation is the central driver, prefer "ai" over "work" or "estate".
+- "category": "design" = office space/architecture, "work" = general hybrid/remote/work policy (not AI-driven), "estate" = office building/commercial office space (leasing, vacancy, rent, office REITs, office construction/conversion) — NOT hotels, warehouses/industrial, retail, residential, or parking facilities, "culture" = HR/company culture/org policy, "ai" = how AI or digital tools/automation are specifically changing offices, jobs, workflows, or office real estate demand. If a story is about work policy or real estate but AI/automation is the central driver, prefer "ai" over "work" or "estate".
+- If the article is not actually about office space, office buildings, office-adjacent commercial real estate, workplace culture/policy, or hybrid work — for example if it's about hotels, industrial/warehouse property, retail, residential real estate, parking facilities, or general business news unrelated to offices — respond with {"skip": true} instead.
 - Titles: concise, factual, no clickbait.
 - Bullets: exactly 3, each one factual sentence, no fluff.
 - "ja" must be natural Japanese, "zh" natural Simplified Chinese, "ko" natural Korean — all real translations, not literal word-for-word ones.
-- If the article is not actually about offices/workplaces/commercial real estate/hybrid work, respond with {"skip": true} instead.
 
 Article source: ${source}
 Article title: ${item.title}
