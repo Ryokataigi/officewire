@@ -33,7 +33,9 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
   "region": "na" | "eu" | "asia" | "global",
   "category": "design" | "work" | "estate" | "culture",
   "en": { "title": string, "bullets": [string, string, string] },
-  "ja": { "title": string, "bullets": [string, string, string] }
+  "ja": { "title": string, "bullets": [string, string, string] },
+  "zh": { "title": string, "bullets": [string, string, string] },
+  "ko": { "title": string, "bullets": [string, string, string] }
 }
 
 Rules:
@@ -41,7 +43,7 @@ Rules:
 - "category": "design" = office space/architecture, "work" = hybrid/remote/work policy, "estate" = commercial real estate/rent/vacancy, "culture" = HR/company culture/org policy.
 - Titles: concise, factual, no clickbait.
 - Bullets: exactly 3, each one factual sentence, no fluff.
-- "ja" must be a natural Japanese translation, not a literal word-for-word one.
+- "ja" must be natural Japanese, "zh" natural Simplified Chinese, "ko" natural Korean — all real translations, not literal word-for-word ones.
 - If the article is not actually about offices/workplaces/commercial real estate/hybrid work, respond with {"skip": true} instead.
 
 Article source: ${source}
@@ -57,7 +59,7 @@ Article summary/content: ${(item.contentSnippet || item.content || "").slice(0, 
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 1000,
+      max_tokens: 1600,
       messages: [{ role: "user", content: prompt }],
     }),
   });
@@ -155,7 +157,7 @@ async function main() {
             source: feed.source,
             url: item.link,
             image: extractImage(item) || (await fetchPageImage(item.link)),
-            i18n: { en: result.en, ja: result.ja },
+            i18n: { en: result.en, ja: result.ja, zh: result.zh, ko: result.ko },
           });
           knownUrls.add(item.link);
         } catch (err) {
