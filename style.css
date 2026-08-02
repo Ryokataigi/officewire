@@ -187,7 +187,12 @@ header.masthead {
   color: var(--ink-soft);
   font-size: 15px;
   margin: 0;
-  max-width: 480px;
+  max-width: 620px;
+  line-height: 1.9;
+}
+
+@media (max-width: 760px) {
+  .hero p { max-width: 100%; }
 }
 
 /* Region tabs */
