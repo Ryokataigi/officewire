@@ -1,5 +1,48 @@
 [
   {
+    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "date": "2026-08-02",
+    "region": "na",
+    "category": "culture",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582081/the-after-hours-advantage-why-your-life-outside-of-work-matters?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91582081-Work-Life-What-you-do-outside-of-work-matters-in-the-AI-economy.jpg",
+    "i18n": {
+      "en": {
+        "title": "Why Personal Life Outside Work Boosts Workplace Creativity",
+        "bullets": [
+          "Research links after-hours hobbies and activities to greater workplace creativity, a key differentiator as AI takes over routine tasks.",
+          "Americans are increasingly spending free time on TV and social media instead of socializing, hobbies, reading, or sports.",
+          "Experts note that family life, community ties, psychological detachment from work, and identity outside one's job all support workplace resilience, yet these are declining."
+        ]
+      },
+      "ja": {
+        "title": "仕事以外の私生活が職場での創造性を高める理由",
+        "bullets": [
+          "就業後の趣味や活動が職場での創造性を高めるという研究結果があり、AIが定型業務を担う時代における重要な差別化要因となっている。",
+          "米国人は社交や趣味、読書、スポーツよりもテレビ視聴やSNSの利用に自由時間を費やす傾向が強まっている。",
+          "家族生活やコミュニティとのつながり、仕事からの心理的切り離し、仕事以外のアイデンティティが職場での回復力を支えるとされるが、これらは減少傾向にある。"
+        ]
+      },
+      "zh": {
+        "title": "工作之外的生活为何能提升职场创造力",
+        "bullets": [
+          "研究显示,下班后的爱好和活动有助于提升职场创造力,而在AI承担更多重复性工作的时代,这一点愈发重要。",
+          "美国人将更多闲暇时间用于看电视和刷社交媒体,而非社交、娱乐、阅读或运动。",
+          "研究还表明,健康的家庭生活、社区联系、下班后与工作的心理脱离以及独立于职业的自我认同,都有助于增强职场韧性,但这些方面正在减少。"
+        ]
+      },
+      "ko": {
+        "title": "업무 외 개인 생활이 직장 창의성을 높이는 이유",
+        "bullets": [
+          "연구에 따르면 퇴근 후 취미나 활동이 직장에서의 창의성을 높이며, AI가 반복 업무를 대체하는 시대에 중요한 차별화 요소가 되고 있다.",
+          "미국인들은 사교, 취미, 독서, 운동보다 TV 시청과 소셜미디어 이용에 더 많은 여가 시간을 쓰고 있다.",
+          "건강한 가정생활과 공동체 유대, 업무로부터의 심리적 분리, 직업과 별개인 자아 정체성이 직장 내 회복력에 기여한다는 연구도 있지만 이러한 요소들은 감소하고 있다."
+        ]
+      }
+    }
+  },
+  {
     "id": "a_aHR0cHM6Ly93d3cu",
     "date": "2026-08-01",
     "region": "na",
@@ -27,159 +70,28 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21t",
+    "id": "a_aHR0cHM6Ly93d3cu7",
     "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
-    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
-    "i18n": {
-      "en": {
-        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
-        "bullets": [
-          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
-          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
-          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
-        ]
-      },
-      "ja": {
-        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
-        "bullets": [
-          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
-          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
-          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu2",
-    "date": "2026-07-31",
-    "region": "na",
+    "region": "global",
     "category": "estate",
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
-    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
+    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
     "i18n": {
       "en": {
-        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
+        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
         "bullets": [
-          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
-          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
-          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
+          "Property management firms are increasingly integrating AI tools into daily workflows.",
+          "Roughly half a million property manager positions could be affected by this shift.",
+          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
         ]
       },
       "ja": {
-        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
+        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
         "bullets": [
-          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
-          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
-          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu3",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
-    "i18n": {
-      "en": {
-        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
-        "bullets": [
-          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
-          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
-          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
-        ]
-      },
-      "ja": {
-        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
-        "bullets": [
-          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
-          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
-          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu4",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "i18n": {
-      "en": {
-        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
-        "bullets": [
-          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
-          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
-          "The freeze highlights financial pressures facing the company's UK operations."
-        ]
-      },
-      "ja": {
-        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
-        "bullets": [
-          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
-          "この措置は同社の資金繰り問題が続いていることを示している。",
-          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21t2",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
-    "i18n": {
-      "en": {
-        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
-        "bullets": [
-          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
-          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
-          "The seller was Edison Properties, a New Jersey-based real estate firm."
-        ]
-      },
-      "ja": {
-        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
-        "bullets": [
-          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
-          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
-          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu5",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "work",
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "i18n": {
-      "en": {
-        "title": "American workers grow more skeptical of AI even as usage rises",
-        "bullets": [
-          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
-          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
-          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
-        ]
-      },
-      "ja": {
-        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
-        "bullets": [
-          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
-          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
-          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
+          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
+          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
+          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
         ]
       }
     }
@@ -212,28 +124,374 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cu7",
+    "id": "a_aHR0cHM6Ly93d3cu5",
     "date": "2026-07-31",
-    "region": "global",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
+    "region": "na",
+    "category": "work",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
     "i18n": {
       "en": {
-        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
+        "title": "American workers grow more skeptical of AI even as usage rises",
         "bullets": [
-          "Property management firms are increasingly integrating AI tools into daily workflows.",
-          "Roughly half a million property manager positions could be affected by this shift.",
-          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
+          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
+          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
+          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
         ]
       },
       "ja": {
-        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
+        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
         "bullets": [
-          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
-          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
-          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
+          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
+          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
+          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
+    "i18n": {
+      "en": {
+        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
+        "bullets": [
+          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
+          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
+          "The seller was Edison Properties, a New Jersey-based real estate firm."
+        ]
+      },
+      "ja": {
+        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
+        "bullets": [
+          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
+          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
+          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu4",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
+        "bullets": [
+          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
+          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
+          "The freeze highlights financial pressures facing the company's UK operations."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
+        "bullets": [
+          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
+          "この措置は同社の資金繰り問題が続いていることを示している。",
+          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu3",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
+    "i18n": {
+      "en": {
+        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
+        "bullets": [
+          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
+          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
+          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
+        ]
+      },
+      "ja": {
+        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
+        "bullets": [
+          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
+          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
+          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
+    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
+    "i18n": {
+      "en": {
+        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
+        "bullets": [
+          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
+          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
+          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
+        ]
+      },
+      "ja": {
+        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
+        "bullets": [
+          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
+          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
+          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
+    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
+    "i18n": {
+      "en": {
+        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
+        "bullets": [
+          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
+          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
+          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
+        ]
+      },
+      "ja": {
+        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
+        "bullets": [
+          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
+          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
+          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1243x848/633c7e38b4/6a6ccf9908a5c-avisonyoungforleasesalesign.jpeg",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Accounts Frozen Over Unpaid Taxes",
+        "bullets": [
+          "A UK court order had frozen Avison Young's bank accounts after the brokerage failed to pay taxes owed to the government.",
+          "A judge has since lifted the freeze, allowing the company's UK entities to settle the outstanding tax bill.",
+          "The amount owed to UK tax authorities is reported to be in the millions of pounds."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング、未納税で英国口座が凍結",
+        "bullets": [
+          "英国の裁判所命令により、不動産仲介大手エイビソン・ヤングの銀行口座が未納税を理由に凍結された。",
+          "その後、裁判官が凍結を解除し、同社の英国法人が未払い税を納付できるようになった。",
+          "政府に対する未払い税額は数百万ポンド規模とされている。"
+        ]
+      },
+      "zh": {
+        "title": "Avison Young英国账户因欠税被冻结",
+        "bullets": [
+          "英国法院此前下令冻结房地产经纪公司Avison Young的银行账户,原因是该公司欠缴税款。",
+          "此后法官解除了冻结令,使该公司英国子公司得以偿还所欠税款。",
+          "据报道,该公司拖欠英国政府的税款达数百万英镑。"
+        ]
+      },
+      "ko": {
+        "title": "에이비슨 영, 세금 체납으로 英 계좌 동결",
+        "bullets": [
+          "영국 법원이 부동산 중개업체 에이비슨 영의 은행 계좌를 세금 체납을 이유로 동결한 바 있다.",
+          "이후 판사가 동결 조치를 해제해 회사의 영국 법인들이 밀린 세금을 납부할 수 있게 됐다.",
+          "영국 정부에 체납한 세액은 수백만 파운드에 달하는 것으로 알려졌다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/houston/deal-sheet/the-wideman-co-buys-downtown-tower-from-brookfield-the-houston-deal-sheet-135649",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1331x908/9a49979c58/6a6cdcef37ca3-screenshot-2026-07-31-at-12-30-42-pm.png",
+    "i18n": {
+      "en": {
+        "title": "The Wideman Co. Buys Downtown Houston Tower From Brookfield",
+        "bullets": [
+          "Orlando-based The Wideman Co. acquired a downtown Houston office tower from Brookfield, expanding its holdings in the area.",
+          "Avison Young named a new market leader for its Houston operations.",
+          "The deal is part of a broader roundup of recent Houston commercial real estate transactions."
+        ]
+      },
+      "ja": {
+        "title": "ザ・ワイドマン・カンパニー、ブルックフィールドからヒューストン中心部のオフィスタワーを取得",
+        "bullets": [
+          "オーランド拠点のザ・ワイドマン・カンパニーが、ブルックフィールドからヒューストン中心部のオフィスタワーを買収し、同エリアでの保有物件を拡大した。",
+          "エイビソン・ヤングはヒューストン市場担当の新責任者を任命した。",
+          "この取引は、ヒューストンの商業用不動産市場における最近の動向の一つとして報じられた。"
+        ]
+      },
+      "zh": {
+        "title": "The Wideman Co. 从Brookfield手中收购休斯顿市中心写字楼",
+        "bullets": [
+          "总部位于奥兰多的The Wideman Co.从Brookfield手中收购了休斯顿市中心的一栋写字楼，扩大了其在该地区的物业组合。",
+          "Avison Young任命了新的休斯顿市场负责人。",
+          "该交易是休斯顿近期商业地产系列交易之一。"
+        ]
+      },
+      "ko": {
+        "title": "와이드먼컴퍼니, 브룩필드로부터 휴스턴 다운타운 오피스타워 매입",
+        "bullets": [
+          "올랜도에 본사를 둔 더 와이드먼 컴퍼니가 브룩필드로부터 휴스턴 다운타운의 오피스타워를 인수하며 해당 지역 보유 자산을 확대했다.",
+          "에이비슨 영은 휴스턴 시장 담당 신임 책임자를 임명했다.",
+          "이번 거래는 최근 휴스턴 상업용 부동산 시장의 여러 거래 중 하나로 소개되었다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/denver/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1696x1155/971adbf6c2/6202c57b3b7fa-skyline.jpeg",
+    "i18n": {
+      "en": {
+        "title": "Federal Government to Sell Nearly 31K SF Office Property in Denver's Five Points",
+        "bullets": [
+          "The U.S. federal government is putting a nearly 31,000-square-foot property in Denver's Five Points neighborhood up for sale.",
+          "The listing is part of this week's roundup of top commercial real estate deals in the Denver area.",
+          "The sale reflects ongoing federal efforts to offload underutilized office space amid changing space needs."
+        ]
+      },
+      "ja": {
+        "title": "米連邦政府、デンバーのファイブポインツ地区で約2,880㎡のオフィス物件を売却へ",
+        "bullets": [
+          "米連邦政府がデンバーのファイブポインツ地区にある約31,000平方フィート（約2,880㎡)の物件を売却に出した。",
+          "この売却案件は、デンバー地域における今週の主要商業不動産取引まとめの一つとして紹介されている。",
+          "この売却は、利用率の低いオフィススペースを削減しようとする連邦政府の継続的な取り組みを反映している。"
+        ]
+      },
+      "zh": {
+        "title": "美国联邦政府拟出售丹佛五点区约2880平方米办公物业",
+        "bullets": [
+          "美国联邦政府正将丹佛五点区（Five Points）一处约31,000平方英尺（约2880平方米）的物业挂牌出售。",
+          "该交易是本周丹佛地区主要商业地产交易汇总中的一项。",
+          "此次出售反映了联邦政府持续清理利用率低的办公空间的做法。"
+        ]
+      },
+      "ko": {
+        "title": "美 연방정부, 덴버 파이브포인츠 지역 약 2,880㎡ 오피스 매각 추진",
+        "bullets": [
+          "미국 연방정부가 덴버 파이브포인츠 지역의 약 31,000평방피트(약 2,880㎡) 규모 부동산을 매각 대상으로 내놓았다.",
+          "이번 매각은 덴버 지역의 이번 주 주요 상업용 부동산 거래 목록에 포함됐다.",
+          "이는 활용도가 낮은 연방정부 오피스 공간을 정리하려는 지속적인 노력의 일환으로 풀이된다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Kenneth-Schuckman-Whitestone-Queens-credit-Getty-Images.jpg?quality=80&amp;crop=0px%2C29px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
+    "i18n": {
+      "en": {
+        "title": "Schuckman-Led Fund Buys Queens Shopping Center for $56M",
+        "bullets": [
+          "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, acquired the Whitestone Shopping Center in Queens for $56 million.",
+          "The property, anchored by a Key Food supermarket, is located at 153-15 Cross Island Parkway.",
+          "The seller was Punia & Marx Real Estate, according to a deed transfer filed in property records."
+        ]
+      },
+      "ja": {
+        "title": "シャックマン率いるファンド、クイーンズのショッピングセンターを5600万ドルで取得",
+        "bullets": [
+          "ケネス・シャックマン氏とアーロン・マリンスキー氏率いるBTFキャピタルファンドが、クイーンズのホワイトストーン・ショッピングセンターを5600万ドルで買収した。",
+          "同物件はキー・フードのスーパーマーケットを核店舗とし、クロス・アイランド・パークウェイ153-15番地に位置する。",
+          "売主はプニア&マークス・リアルエステートで、不動産記録に登録された譲渡証書により明らかになった。"
+        ]
+      },
+      "zh": {
+        "title": "舒克曼旗下基金以5600万美元收购皇后区购物中心",
+        "bullets": [
+          "由肯尼斯·舒克曼和亚伦·马林斯基领导的BTF资本基金，以5600万美元收购了皇后区的白石购物中心。",
+          "该物业以Key Food超市为主力店，位于Cross Island Parkway 153-15号。",
+          "卖方为Punia & Marx地产公司，交易信息来自房产记录中提交的产权转让文件。"
+        ]
+      },
+      "ko": {
+        "title": "슈크먼 주도 펀드, 퀸즈 쇼핑센터 5600만 달러에 인수",
+        "bullets": [
+          "케네스 슈크먼과 아론 말린스키가 이끄는 BTF캐피털펀드가 퀸즈의 화이트스톤 쇼핑센터를 5600만 달러에 매입했다.",
+          "이 부동산은 키푸드 슈퍼마켓을 앵커로 두고 있으며, 크로스 아일랜드 파크웨이 153-15번지에 위치한다.",
+          "매도자는 푸니아앤드마크스 부동산으로, 금요일 등록된 부동산 양도 증서를 통해 확인됐다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Publix-Walmart-Neighborhood-Market-credit-Getty-Images.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
+    "i18n": {
+      "en": {
+        "title": "Kimco Realty Acquires Two Broward County Retail Centers for $109M",
+        "bullets": [
+          "Kimco Realty purchased two grocery-anchored retail centers in Broward County, Florida from KPR Centers for a combined $109 million.",
+          "The largest deal involved a $56 million payment for Sunshine Plaza, a 245,744-square-foot property on West Commercial Boulevard.",
+          "Kimco is one of the largest owners of grocery-anchored retail centers in the United States."
+        ]
+      },
+      "ja": {
+        "title": "キムコ・リアルティ、フロリダ州ブロワード郡の小売センター2棟を1億900万ドルで取得",
+        "bullets": [
+          "キムコ・リアルティは、KPRセンターズからフロリダ州ブロワード郡のグロサリー併設型小売センター2棟を合計1億900万ドルで購入した。",
+          "最大の取引はサンシャイン・プラザで、ウェスト・コマーシャル・ブールバード沿いの延べ床面積24万5744平方フィートの物件を5600万ドルで取得した。",
+          "キムコは全米最大級のグロサリー併設型小売センター保有企業の一つである。"
+        ]
+      },
+      "zh": {
+        "title": "金科房地产以1.09亿美元收购布劳沃德县两处零售中心",
+        "bullets": [
+          "金科房地产(Kimco Realty)从KPR Centers手中收购了佛罗里达州布劳沃德县两处以超市为主力店的零售中心,总价1.09亿美元。",
+          "其中最大一笔交易为以5600万美元收购Sunshine Plaza,该物业位于西商业大道,建筑面积达245,744平方英尺。",
+          "金科是美国最大的超市主力店零售中心业主之一。"
+        ]
+      },
+      "ko": {
+        "title": "킴코 리얼티, 브로워드 카운티 소매 센터 2곳 1억 900만 달러에 인수",
+        "bullets": [
+          "킴코 리얼티는 KPR 센터스로부터 플로리다주 브로워드 카운티의 식료품점 앵커형 소매 센터 2곳을 총 1억 900만 달러에 인수했다.",
+          "최대 규모 거래는 웨스트 커머셜 대로에 위치한 24만 5744평방피트 규모의 선샤인 플라자로, 매입가는 5600만 달러였다.",
+          "킴코는 미국에서 식료품점 앵커형 소매 센터를 가장 많이 보유한 기업 중 하나다."
         ]
       }
     }
