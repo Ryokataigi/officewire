@@ -30,11 +30,10 @@ function groupByDate(articles) {
 function formatDateLabel(dateStr) {
   const d = new Date(dateStr + "T00:00:00");
   const days = t(currentLang, "days");
-  return currentLang === "ja"
-    ? `${d.getMonth() + 1}月${d.getDate()}日（${days[d.getDay()]}）`
-    : currentLang === "zh"
-    ? `${d.getMonth() + 1}月${d.getDate()}日 ${days[d.getDay()]}`
-    : `${days[d.getDay()]}, ${d.toLocaleString(currentLang, { month: "short" })} ${d.getDate()}`;
+  if (currentLang === "ja") return `${d.getMonth() + 1}月${d.getDate()}日（${days[d.getDay()]}）`;
+  if (currentLang === "zh") return `${d.getMonth() + 1}月${d.getDate()}日 ${days[d.getDay()]}`;
+  if (currentLang === "ko") return `${d.getMonth() + 1}월 ${d.getDate()}일 (${days[d.getDay()]})`;
+  return `${days[d.getDay()]}, ${d.toLocaleString(currentLang, { month: "short" })} ${d.getDate()}`;
 }
 
 function renderStaticText() {
@@ -173,6 +172,66 @@ function updateClocks() {
     .join("");
 }
 
+function renderTicker() {
+  const el = document.getElementById("ticker-strip");
+  if (!ARTICLES || ARTICLES.length === 0) {
+    el.innerHTML = "";
+    return;
+  }
+
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const sevenDaysAgo = new Date();
+  sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+  const recent = ARTICLES.filter((a) => new Date(a.date) >= sevenDaysAgo);
+
+  const todayCount = ARTICLES.filter((a) => a.date === todayStr).length;
+  const weekCount = recent.length;
+
+  const countBy = (list, key) => {
+    const counts = {};
+    list.forEach((a) => {
+      counts[a[key]] = (counts[a[key]] || 0) + 1;
+    });
+    const top = Object.entries(counts).sort((a, b) => b[1] - a[1])[0];
+    return top ? top[0] : null;
+  };
+
+  const topCategory = countBy(recent, "category");
+  const topRegion = countBy(recent, "region");
+  const categoryLabels = t(currentLang, "categoryLabels");
+  const regionLabels = t(currentLang, "regions");
+
+  const items = [
+    { label: t(currentLang, "tickerToday"), value: `${todayCount}` },
+    { label: t(currentLang, "ticker7d"), value: `${weekCount}` },
+    { label: t(currentLang, "tickerTopCategory"), value: topCategory ? categoryLabels[topCategory] : "—" },
+    { label: t(currentLang, "tickerTopRegion"), value: topRegion ? regionLabels[topRegion] : "—" },
+  ];
+
+  el.innerHTML = items
+    .map((i) => `<div class="ticker-item"><div class="ticker-label">${i.label}</div><div class="ticker-value">${i.value}</div></div>`)
+    .join("");
+}
+
+function renderFooter() {
+  document.getElementById("footer-tagline").textContent = t(currentLang, "tagline");
+  document.getElementById("footer-sources-heading").textContent = t(currentLang, "footerSourcesHeading");
+  document.getElementById("footer-about-heading").textContent = t(currentLang, "footerAboutHeading");
+  document.getElementById("footer-about-text").textContent = t(currentLang, "footerAboutText");
+  document.getElementById("footer-copyright").textContent = t(currentLang, "footerCopyright").replace(
+    "{year}",
+    new Date().getFullYear()
+  );
+
+  const sourcesEl = document.getElementById("footer-sources");
+  if (!ARTICLES || ARTICLES.length === 0) {
+    sourcesEl.innerHTML = "";
+    return;
+  }
+  const sources = [...new Set(ARTICLES.map((a) => a.source))].sort();
+  sourcesEl.innerHTML = sources.map((s) => `<span class="footer-source-tag">${s}</span>`).join("");
+}
+
 function initDarkMode() {
   const btn = document.getElementById("mode-toggle");
   const stored = localStorage.getItem("officewire_mode");
@@ -191,6 +250,8 @@ function renderToday() {
   document.getElementById("today").textContent =
     currentLang === "ja" || currentLang === "zh"
       ? `${now.getFullYear()}.${now.getMonth() + 1}.${now.getDate()} (${days[now.getDay()]})`
+      : currentLang === "ko"
+      ? `${now.getFullYear()}. ${now.getMonth() + 1}. ${now.getDate()}. (${days[now.getDay()]})`
       : `${days[now.getDay()]}, ${now.toLocaleString(currentLang, { month: "short" })} ${now.getDate()}, ${now.getFullYear()}`;
 }
 
@@ -201,6 +262,8 @@ function renderAll() {
   renderFeed();
   renderCategories();
   updateClocks();
+  renderTicker();
+  renderFooter();
 }
 
 async function loadArticles() {
@@ -213,6 +276,8 @@ async function loadArticles() {
     ARTICLES = [];
   }
   renderFeed();
+  renderTicker();
+  renderFooter();
 }
 
 renderLangSwitcher();
@@ -222,6 +287,7 @@ renderTabs();
 renderCategories();
 updateClocks();
 renderFeed(); // shows the loading state immediately
+renderFooter();
 loadArticles(); // then fetches real data and re-renders the feed
 setInterval(updateClocks, 30000);
 initDarkMode();
