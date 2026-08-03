@@ -164,7 +164,11 @@ async function main() {
   const knownUrls = new Set(existing.map((a) => a.url));
 
   const parser = new Parser({
-    timeout: 10000,
+    timeout: 15000,
+    headers: {
+      "User-Agent":
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
+    },
     customFields: {
       item: [
         ["media:content", "mediaContent", { keepArray: true }],
@@ -180,6 +184,9 @@ async function main() {
       const candidates = (parsed.items || [])
         .filter((item) => item.link && !knownUrls.has(item.link))
         .slice(0, MAX_NEW_PER_FEED);
+      console.log(
+        `${feed.source}: fetched ${parsed.items?.length ?? 0} item(s), ${candidates.length} new candidate(s).`
+      );
 
       for (const item of candidates) {
         try {
