@@ -130,6 +130,7 @@ async function main() {
   const knownUrls = new Set(existing.map((a) => a.url));
 
   const parser = new Parser({
+    timeout: 10000,
     customFields: {
       item: [
         ["media:content", "mediaContent", { keepArray: true }],
