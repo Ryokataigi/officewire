@@ -1,44 +1,88 @@
 [
   {
+    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "date": "2026-08-03",
+    "region": "global",
+    "category": "ai",
+    "caseStudy": false,
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91580226/how-to-use-ai-to-boost-your-creativity?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91580226-Work-Life-CREATIVITY-AT-WORK-You-can-use-AI-to-unleash-creativity.jpg",
+    "i18n": {
+      "en": {
+        "title": "Using AI to Spark Creative Problem-Solving at Work",
+        "bullets": [
+          "The article argues most workplace tasks rely on experience-based pattern matching rather than true creativity.",
+          "Creative problem solving is needed when past experience offers no ready solution, and analogies can provide fresh insight.",
+          "The author suggests using large language models like Claude to help distill a problem to its essence and generate useful analogies."
+        ]
+      },
+      "ja": {
+        "title": "AIで創造的な問題解決力を高める方法",
+        "bullets": [
+          "職場のほとんどの業務は創造性よりも過去の経験に基づく対応で成り立っていると筆者は指摘する。",
+          "過去の経験が通用しない場面では創造的な問題解決が必要となり、類推が有効な手段となる。",
+          "筆者はClaudeなどの大規模言語モデルを使い、問題の本質を抽出して有用な類推を導き出す方法を提案している。"
+        ]
+      },
+      "zh": {
+        "title": "如何利用AI激发工作中的创造力",
+        "bullets": [
+          "文章指出，大多数工作任务依靠的是基于经验的模式匹配，而非真正的创造力。",
+          "当过往经验无法提供现成解决方案时，就需要创造性思维，而类比可以带来新的启发。",
+          "作者建议使用Claude等大型语言模型，帮助提炼问题本质并生成有用的类比。"
+        ]
+      },
+      "ko": {
+        "title": "AI로 업무 창의력을 높이는 방법",
+        "bullets": [
+          "대부분의 업무는 진정한 창의성보다는 경험에 기반한 패턴 매칭에 의존한다고 저자는 지적한다.",
+          "과거 경험이 해결책을 제시하지 못할 때 창의적 문제 해결이 필요하며, 유추가 통찰을 제공할 수 있다.",
+          "저자는 클로드와 같은 대형 언어모델을 활용해 문제의 본질을 추출하고 유용한 유추를 이끌어내는 방법을 제안한다."
+        ]
+      }
+    }
+  },
+  {
     "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
     "date": "2026-08-03",
     "region": "na",
     "category": "estate",
     "caseStudy": false,
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/cmbs-distress-2026-cred-iq-2/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/crediq_distress_report_july2026_1200x1200.png?w=1200&amp;h=630&amp;crop=1\t",
+    "url": "https://commercialobserver.com/2026/08/invesco-real-estates-chase-bolding-interview/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/chasebolding-21-Edit.jpg?quality=80&amp;crop=0px%2C64px%2C2048px%2C1076px&amp;resize=1200%2C630&amp;strip\t",
     "i18n": {
       "en": {
-        "title": "CMBS Distress Reaches 2026 High",
+        "title": "Invesco Real Estate CIO Discusses U.S. Market Opportunities",
         "bullets": [
-          "CRED iQ's July 2026 report shows overall CMBS distress climbing to its highest level so far this year.",
-          "The data offers a loan-level breakdown of distress across the more-than-$600 billion CMBS universe.",
-          "Analysis is segmented by servicing status and deal type to help investors, brokers and lenders track risk more precisely."
+          "Chase Bolding is chief investment officer and head of North American real estate at Invesco Real Estate, a $90 billion subsidiary of Invesco.",
+          "Bolding oversees portfolios covering roughly $40 billion of commercial real estate assets from New York City.",
+          "He discussed current market opportunities after 16 years at the firm, reflecting on shifts in commercial real estate investment strategy."
         ]
       },
       "ja": {
-        "title": "CMBS(商業不動産担保証券)の不良債権率、2026年最高値に",
+        "title": "インベスコ・リアルエステートCIOが米市場の投資機会を語る",
         "bullets": [
-          "CRED iQの2026年7月レポートによると、CMBS全体の不良債権率が今年最高値に達した。",
-          "データは6000億ドル超のCMBS市場をローン単位で分析し、不良債権の実態を明らかにしている。",
-          "サービシング状況やディール種別ごとに分類され、投資家や仲介業者、貸し手がリスクをより精緻に把握できるようにしている。"
+          "チェイス・ボールディング氏は、インベスコの900億ドル規模の子会社インベスコ・リアルエステートで、最高投資責任者兼北米不動産責任者を務めている。",
+          "ニューヨークを拠点に、約400億ドル規模の商業不動産資産を含む複数のポートフォリオを管理している。",
+          "入社16年を経て、商業不動産投資戦略の変化を踏まえた現在の市場機会について語った。"
         ]
       },
       "zh": {
-        "title": "CMBS(商业地产抵押贷款证券)违约率创2026年新高",
+        "title": "景顺房地产首席投资官谈美国市场机遇",
         "bullets": [
-          "CRED iQ发布的2026年7月报告显示,整体CMBS不良率升至今年以来最高水平。",
-          "该数据以贷款为单位,对规模超过6000亿美元的CMBS市场进行了细分分析。",
-          "报告按贷款服务状态和交易类型分类,帮助投资者、经纪人和贷款机构更精准地评估风险。"
+          "查斯·博尔丁是景顺旗下900亿美元子公司景顺房地产的首席投资官兼北美房地产业务负责人。",
+          "他常驻纽约,管理着涵盖约400亿美元商业地产资产的多个投资组合。",
+          "加入公司16年后,他谈及了商业地产投资策略的演变以及当前的市场机遇。"
         ]
       },
       "ko": {
-        "title": "CMBS 부실률, 2026년 최고치 기록",
+        "title": "인베스코 리얼에스테이트 CIO, 미국 시장 기회 논의",
         "bullets": [
-          "CRED iQ의 2026년 7월 보고서에 따르면 전체 CMBS 부실률이 올해 최고 수준에 도달했다.",
-          "이 데이터는 6000억 달러가 넘는 CMBS 시장을 대출 단위로 세분화해 분석했다.",
-          "서비싱 상태와 딜 유형별로 구분되어 투자자, 중개업체, 대출기관이 리스크를 더 정밀하게 파악할 수 있도록 돕는다."
+          "체이스 볼딩은 인베스코의 900억 달러 규모 자회사인 인베스코 리얼에스테이트에서 최고투자책임자 겸 북미 부동산 책임자를 맡고 있다.",
+          "그는 뉴욕을 기반으로 약 400억 달러 규모의 상업용 부동산 자산을 포함한 여러 포트폴리오를 관리하고 있다.",
+          "입사 16년을 맞아 상업용 부동산 투자 전략의 변화와 현재 시장 기회에 대해 이야기했다."
         ]
       }
     }
@@ -94,83 +138,83 @@
     "category": "estate",
     "caseStudy": false,
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/invesco-real-estates-chase-bolding-interview/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/chasebolding-21-Edit.jpg?quality=80&amp;crop=0px%2C64px%2C2048px%2C1076px&amp;resize=1200%2C630&amp;strip\t",
+    "url": "https://commercialobserver.com/2026/08/cmbs-distress-2026-cred-iq-2/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/crediq_distress_report_july2026_1200x1200.png?w=1200&amp;h=630&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "Invesco Real Estate CIO Discusses U.S. Market Opportunities",
+        "title": "CMBS Distress Reaches 2026 High",
         "bullets": [
-          "Chase Bolding is chief investment officer and head of North American real estate at Invesco Real Estate, a $90 billion subsidiary of Invesco.",
-          "Bolding oversees portfolios covering roughly $40 billion of commercial real estate assets from New York City.",
-          "He discussed current market opportunities after 16 years at the firm, reflecting on shifts in commercial real estate investment strategy."
+          "CRED iQ's July 2026 report shows overall CMBS distress climbing to its highest level so far this year.",
+          "The data offers a loan-level breakdown of distress across the more-than-$600 billion CMBS universe.",
+          "Analysis is segmented by servicing status and deal type to help investors, brokers and lenders track risk more precisely."
         ]
       },
       "ja": {
-        "title": "インベスコ・リアルエステートCIOが米市場の投資機会を語る",
+        "title": "CMBS(商業不動産担保証券)の不良債権率、2026年最高値に",
         "bullets": [
-          "チェイス・ボールディング氏は、インベスコの900億ドル規模の子会社インベスコ・リアルエステートで、最高投資責任者兼北米不動産責任者を務めている。",
-          "ニューヨークを拠点に、約400億ドル規模の商業不動産資産を含む複数のポートフォリオを管理している。",
-          "入社16年を経て、商業不動産投資戦略の変化を踏まえた現在の市場機会について語った。"
+          "CRED iQの2026年7月レポートによると、CMBS全体の不良債権率が今年最高値に達した。",
+          "データは6000億ドル超のCMBS市場をローン単位で分析し、不良債権の実態を明らかにしている。",
+          "サービシング状況やディール種別ごとに分類され、投資家や仲介業者、貸し手がリスクをより精緻に把握できるようにしている。"
         ]
       },
       "zh": {
-        "title": "景顺房地产首席投资官谈美国市场机遇",
+        "title": "CMBS(商业地产抵押贷款证券)违约率创2026年新高",
         "bullets": [
-          "查斯·博尔丁是景顺旗下900亿美元子公司景顺房地产的首席投资官兼北美房地产业务负责人。",
-          "他常驻纽约,管理着涵盖约400亿美元商业地产资产的多个投资组合。",
-          "加入公司16年后,他谈及了商业地产投资策略的演变以及当前的市场机遇。"
+          "CRED iQ发布的2026年7月报告显示,整体CMBS不良率升至今年以来最高水平。",
+          "该数据以贷款为单位,对规模超过6000亿美元的CMBS市场进行了细分分析。",
+          "报告按贷款服务状态和交易类型分类,帮助投资者、经纪人和贷款机构更精准地评估风险。"
         ]
       },
       "ko": {
-        "title": "인베스코 리얼에스테이트 CIO, 미국 시장 기회 논의",
+        "title": "CMBS 부실률, 2026년 최고치 기록",
         "bullets": [
-          "체이스 볼딩은 인베스코의 900억 달러 규모 자회사인 인베스코 리얼에스테이트에서 최고투자책임자 겸 북미 부동산 책임자를 맡고 있다.",
-          "그는 뉴욕을 기반으로 약 400억 달러 규모의 상업용 부동산 자산을 포함한 여러 포트폴리오를 관리하고 있다.",
-          "입사 16년을 맞아 상업용 부동산 투자 전략의 변화와 현재 시장 기회에 대해 이야기했다."
+          "CRED iQ의 2026년 7월 보고서에 따르면 전체 CMBS 부실률이 올해 최고 수준에 도달했다.",
+          "이 데이터는 6000억 달러가 넘는 CMBS 시장을 대출 단위로 세분화해 분석했다.",
+          "서비싱 상태와 딜 유형별로 구분되어 투자자, 중개업체, 대출기관이 리스크를 더 정밀하게 파악할 수 있도록 돕는다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
     "date": "2026-08-03",
-    "region": "global",
-    "category": "ai",
-    "caseStudy": false,
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91580226/how-to-use-ai-to-boost-your-creativity?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91580226-Work-Life-CREATIVITY-AT-WORK-You-can-use-AI-to-unleash-creativity.jpg",
+    "region": "na",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Office Snapshots",
+    "url": "https://officesnapshots.com/2026/08/03/confidential-client-offices-san-francisco-2/",
+    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/450pacificsomdaveburk002-700x386.jpg",
     "i18n": {
       "en": {
-        "title": "Using AI to Spark Creative Problem-Solving at Work",
+        "title": "Financial Firm Opens New Office in San Francisco's Jackson Square",
         "bullets": [
-          "The article argues most workplace tasks rely on experience-based pattern matching rather than true creativity.",
-          "Creative problem solving is needed when past experience offers no ready solution, and analogies can provide fresh insight.",
-          "The author suggests using large language models like Claude to help distill a problem to its essence and generate useful analogies."
+          "The workplace is located in San Francisco's historic Jackson Square District.",
+          "The office was designed for an unnamed financial services firm.",
+          "The project reflects a trend of finance companies investing in high-quality physical office space."
         ]
       },
       "ja": {
-        "title": "AIで創造的な問題解決力を高める方法",
+        "title": "金融企業、サンフランシスコのジャクソンスクエアに新オフィスを開設",
         "bullets": [
-          "職場のほとんどの業務は創造性よりも過去の経験に基づく対応で成り立っていると筆者は指摘する。",
-          "過去の経験が通用しない場面では創造的な問題解決が必要となり、類推が有効な手段となる。",
-          "筆者はClaudeなどの大規模言語モデルを使い、問題の本質を抽出して有用な類推を導き出す方法を提案している。"
+          "このオフィスはサンフランシスコの歴史あるジャクソンスクエア地区に位置している。",
+          "クライアント名は非公開だが、金融サービス企業向けにデザインされたオフィスである。",
+          "金融業界が質の高い物理的オフィス空間に投資する傾向を反映したプロジェクトである。"
         ]
       },
       "zh": {
-        "title": "如何利用AI激发工作中的创造力",
+        "title": "某金融公司在旧金山杰克逊广场开设新办公室",
         "bullets": [
-          "文章指出，大多数工作任务依靠的是基于经验的模式匹配，而非真正的创造力。",
-          "当过往经验无法提供现成解决方案时，就需要创造性思维，而类比可以带来新的启发。",
-          "作者建议使用Claude等大型语言模型，帮助提炼问题本质并生成有用的类比。"
+          "该办公室位于旧金山历史悠久的杰克逊广场区。",
+          "客户身份保密，该项目是为一家金融服务公司设计的。",
+          "该项目体现了金融企业投资高品质实体办公空间的趋势。"
         ]
       },
       "ko": {
-        "title": "AI로 업무 창의력을 높이는 방법",
+        "title": "한 금융회사, 샌프란시스코 잭슨스퀘어에 신규 오피스 오픈",
         "bullets": [
-          "대부분의 업무는 진정한 창의성보다는 경험에 기반한 패턴 매칭에 의존한다고 저자는 지적한다.",
-          "과거 경험이 해결책을 제시하지 못할 때 창의적 문제 해결이 필요하며, 유추가 통찰을 제공할 수 있다.",
-          "저자는 클로드와 같은 대형 언어모델을 활용해 문제의 본질을 추출하고 유용한 유추를 이끌어내는 방법을 제안한다."
+          "이 오피스는 샌프란시스코의 유서 깊은 잭슨스퀘어 지구에 위치해 있다.",
+          "고객사명은 비공개이며, 금융 서비스 기업을 위해 설계되었다.",
+          "이는 금융업계가 고품질 실물 오피스 공간에 투자하는 추세를 보여주는 사례다."
         ]
       }
     }
@@ -214,33 +258,6 @@
           "연구에 따르면 퇴근 후 취미나 활동이 직장에서의 창의성을 높이며, AI가 반복 업무를 대체하는 시대에 중요한 차별화 요소가 되고 있다.",
           "미국인들은 사교, 취미, 독서, 운동보다 TV 시청과 소셜미디어 이용에 더 많은 여가 시간을 쓰고 있다.",
           "건강한 가정생활과 공동체 유대, 업무로부터의 심리적 분리, 직업과 별개인 자아 정체성이 직장 내 회복력에 기여한다는 연구도 있지만 이러한 요소들은 감소하고 있다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu",
-    "date": "2026-08-01",
-    "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/dallas-ft-worth/capital-markets/jvp-development-betting-37m-of-its-own-money-that-frisco-is-ready-for-spec-office-135655",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1920x1306/103f486bce/6a6d02e325380-office-lobby-1-1.jpeg",
-    "i18n": {
-      "en": {
-        "title": "Developer Bets $37M on Speculative Office Building in Frisco, Texas",
-        "bullets": [
-          "JVP Development is self-funding a $37 million speculative office building in Frisco, part of the Dallas-Fort Worth metro area.",
-          "New office construction nationwide has fallen to historic lows, making this project an outlier.",
-          "DFW remains one of the few U.S. markets where developers are willing to build office space without pre-leased tenants."
-        ]
-      },
-      "ja": {
-        "title": "デベロッパーが3700万ドルを投じ、テキサス州フリスコに投機的オフィスビルを開発",
-        "bullets": [
-          "JVPデベロップメントは、ダラス・フォートワース都市圏にあるフリスコで、自己資金3700万ドルによる投機的オフィスビル開発を進めている。",
-          "全米的にオフィスの新規建設は歴史的低水準にあり、この案件は異例のケースとなっている。",
-          "DFWは、テナントの事前契約なしにオフィス開発に踏み切るデベロッパーが依然として存在する数少ない米市場の一つである。"
         ]
       }
     }
@@ -290,87 +307,28 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
-    "date": "2026-07-31",
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-08-01",
     "region": "na",
     "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Publix-Walmart-Neighborhood-Market-credit-Getty-Images.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/dallas-ft-worth/capital-markets/jvp-development-betting-37m-of-its-own-money-that-frisco-is-ready-for-spec-office-135655",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1920x1306/103f486bce/6a6d02e325380-office-lobby-1-1.jpeg",
     "i18n": {
       "en": {
-        "title": "Kimco Realty Acquires Two Broward County Retail Centers for $109M",
+        "title": "Developer Bets $37M on Speculative Office Building in Frisco, Texas",
         "bullets": [
-          "Kimco Realty purchased two grocery-anchored retail centers in Broward County, Florida from KPR Centers for a combined $109 million.",
-          "The largest deal involved a $56 million payment for Sunshine Plaza, a 245,744-square-foot property on West Commercial Boulevard.",
-          "Kimco is one of the largest owners of grocery-anchored retail centers in the United States."
+          "JVP Development is self-funding a $37 million speculative office building in Frisco, part of the Dallas-Fort Worth metro area.",
+          "New office construction nationwide has fallen to historic lows, making this project an outlier.",
+          "DFW remains one of the few U.S. markets where developers are willing to build office space without pre-leased tenants."
         ]
       },
       "ja": {
-        "title": "キムコ・リアルティ、フロリダ州ブロワード郡の小売センター2棟を1億900万ドルで取得",
+        "title": "デベロッパーが3700万ドルを投じ、テキサス州フリスコに投機的オフィスビルを開発",
         "bullets": [
-          "キムコ・リアルティは、KPRセンターズからフロリダ州ブロワード郡のグロサリー併設型小売センター2棟を合計1億900万ドルで購入した。",
-          "最大の取引はサンシャイン・プラザで、ウェスト・コマーシャル・ブールバード沿いの延べ床面積24万5744平方フィートの物件を5600万ドルで取得した。",
-          "キムコは全米最大級のグロサリー併設型小売センター保有企業の一つである。"
-        ]
-      },
-      "zh": {
-        "title": "金科房地产以1.09亿美元收购布劳沃德县两处零售中心",
-        "bullets": [
-          "金科房地产(Kimco Realty)从KPR Centers手中收购了佛罗里达州布劳沃德县两处以超市为主力店的零售中心,总价1.09亿美元。",
-          "其中最大一笔交易为以5600万美元收购Sunshine Plaza,该物业位于西商业大道,建筑面积达245,744平方英尺。",
-          "金科是美国最大的超市主力店零售中心业主之一。"
-        ]
-      },
-      "ko": {
-        "title": "킴코 리얼티, 브로워드 카운티 소매 센터 2곳 1억 900만 달러에 인수",
-        "bullets": [
-          "킴코 리얼티는 KPR 센터스로부터 플로리다주 브로워드 카운티의 식료품점 앵커형 소매 센터 2곳을 총 1억 900만 달러에 인수했다.",
-          "최대 규모 거래는 웨스트 커머셜 대로에 위치한 24만 5744평방피트 규모의 선샤인 플라자로, 매입가는 5600만 달러였다.",
-          "킴코는 미국에서 식료품점 앵커형 소매 센터를 가장 많이 보유한 기업 중 하나다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Kenneth-Schuckman-Whitestone-Queens-credit-Getty-Images.jpg?quality=80&amp;crop=0px%2C29px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
-    "i18n": {
-      "en": {
-        "title": "Schuckman-Led Fund Buys Queens Shopping Center for $56M",
-        "bullets": [
-          "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, acquired the Whitestone Shopping Center in Queens for $56 million.",
-          "The property, anchored by a Key Food supermarket, is located at 153-15 Cross Island Parkway.",
-          "The seller was Punia & Marx Real Estate, according to a deed transfer filed in property records."
-        ]
-      },
-      "ja": {
-        "title": "シャックマン率いるファンド、クイーンズのショッピングセンターを5600万ドルで取得",
-        "bullets": [
-          "ケネス・シャックマン氏とアーロン・マリンスキー氏率いるBTFキャピタルファンドが、クイーンズのホワイトストーン・ショッピングセンターを5600万ドルで買収した。",
-          "同物件はキー・フードのスーパーマーケットを核店舗とし、クロス・アイランド・パークウェイ153-15番地に位置する。",
-          "売主はプニア&マークス・リアルエステートで、不動産記録に登録された譲渡証書により明らかになった。"
-        ]
-      },
-      "zh": {
-        "title": "舒克曼旗下基金以5600万美元收购皇后区购物中心",
-        "bullets": [
-          "由肯尼斯·舒克曼和亚伦·马林斯基领导的BTF资本基金，以5600万美元收购了皇后区的白石购物中心。",
-          "该物业以Key Food超市为主力店，位于Cross Island Parkway 153-15号。",
-          "卖方为Punia & Marx地产公司，交易信息来自房产记录中提交的产权转让文件。"
-        ]
-      },
-      "ko": {
-        "title": "슈크먼 주도 펀드, 퀸즈 쇼핑센터 5600만 달러에 인수",
-        "bullets": [
-          "케네스 슈크먼과 아론 말린스키가 이끄는 BTF캐피털펀드가 퀸즈의 화이트스톤 쇼핑센터를 5600만 달러에 매입했다.",
-          "이 부동산은 키푸드 슈퍼마켓을 앵커로 두고 있으며, 크로스 아일랜드 파크웨이 153-15번지에 위치한다.",
-          "매도자는 푸니아앤드마크스 부동산으로, 금요일 등록된 부동산 양도 증서를 통해 확인됐다."
+          "JVPデベロップメントは、ダラス・フォートワース都市圏にあるフリスコで、自己資金3700万ドルによる投機的オフィスビル開発を進めている。",
+          "全米的にオフィスの新規建設は歴史的低水準にあり、この案件は異例のケースとなっている。",
+          "DFWは、テナントの事前契約なしにオフィス開発に踏み切るデベロッパーが依然として存在する数少ない米市場の一つである。"
         ]
       }
     }
@@ -380,40 +338,296 @@
     "date": "2026-07-31",
     "region": "na",
     "category": "estate",
+    "caseStudy": false,
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/denver/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1696x1155/971adbf6c2/6202c57b3b7fa-skyline.jpeg",
+    "url": "https://www.bisnow.com/news/washington-dc/deal-sheet/manassas-gated-community-sale-dc-deal-sheet-135646",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1474x1004/64496d0ab1/6a6cdd067a7d2-screenshot-2026-07-31-at-1-35-19-pm.png",
     "i18n": {
       "en": {
-        "title": "Federal Government to Sell Nearly 31K SF Office Property in Denver's Five Points",
+        "title": "D.C. Deal Sheet: Office Sale and Leasing Activity Highlight Weekly Roundup",
         "bullets": [
-          "The U.S. federal government is putting a nearly 31,000-square-foot property in Denver's Five Points neighborhood up for sale.",
-          "The listing is part of this week's roundup of top commercial real estate deals in the Denver area.",
-          "The sale reflects ongoing federal efforts to offload underutilized office space amid changing space needs."
+          "A downtown Washington, D.C. office building sold for $26 million this week.",
+          "New leasing activity was reported at the 1800 M Street office property.",
+          "The roundup also covers a 270-unit gated residential sale in Manassas and a new head of Prince George's County Planning Board."
         ]
       },
       "ja": {
-        "title": "米連邦政府、デンバーのファイブポインツ地区で約2,880㎡のオフィス物件を売却へ",
+        "title": "DCディールシート：オフィス売却とリース活動が今週のハイライト",
         "bullets": [
-          "米連邦政府がデンバーのファイブポインツ地区にある約31,000平方フィート（約2,880㎡)の物件を売却に出した。",
-          "この売却案件は、デンバー地域における今週の主要商業不動産取引まとめの一つとして紹介されている。",
-          "この売却は、利用率の低いオフィススペースを削減しようとする連邦政府の継続的な取り組みを反映している。"
+          "ワシントンD.C.中心部のオフィスビルが今週2600万ドルで売却された。",
+          "1800 Mストリートのオフィス物件で新たなリース契約が報告された。",
+          "このほかマナサスの270戸のゲーテッドコミュニティ売却や、プリンスジョージズ郡計画委員会の新委員長就任も取り上げられている。"
         ]
       },
       "zh": {
-        "title": "美国联邦政府拟出售丹佛五点区约2880平方米办公物业",
+        "title": "华盛顿地产周报：市中心写字楼售价2600万美元，租赁活跃",
         "bullets": [
-          "美国联邦政府正将丹佛五点区（Five Points）一处约31,000平方英尺（约2880平方米）的物业挂牌出售。",
-          "该交易是本周丹佛地区主要商业地产交易汇总中的一项。",
-          "此次出售反映了联邦政府持续清理利用率低的办公空间的做法。"
+          "华盛顿特区市中心一栋写字楼本周以2600万美元售出。",
+          "1800 M街办公物业出现新的租赁活动。",
+          "报告还提及马纳萨斯一处270户封闭式社区的出售，以及乔治王子县规划委员会新任负责人的任命。"
         ]
       },
       "ko": {
-        "title": "美 연방정부, 덴버 파이브포인츠 지역 약 2,880㎡ 오피스 매각 추진",
+        "title": "워싱턴 DC 부동산 딜시트: 오피스 빌딩 2600만 달러에 매각, 임대 활동도 활발",
         "bullets": [
-          "미국 연방정부가 덴버 파이브포인츠 지역의 약 31,000평방피트(약 2,880㎡) 규모 부동산을 매각 대상으로 내놓았다.",
-          "이번 매각은 덴버 지역의 이번 주 주요 상업용 부동산 거래 목록에 포함됐다.",
-          "이는 활용도가 낮은 연방정부 오피스 공간을 정리하려는 지속적인 노력의 일환으로 풀이된다."
+          "이번 주 워싱턴 DC 도심의 한 오피스 빌딩이 2600만 달러에 매각됐다.",
+          "1800 M 스트리트 오피스 자산에서 새로운 임대 계약이 체결됐다.",
+          "이 외에도 매너서스의 270세대 게이티드 커뮤니티 매각과 프린스조지 카운티 계획위원회 신임 위원장 소식도 다뤄졌다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu7",
+    "date": "2026-07-31",
+    "region": "global",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
+    "i18n": {
+      "en": {
+        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
+        "bullets": [
+          "Property management firms are increasingly integrating AI tools into daily workflows.",
+          "Roughly half a million property manager positions could be affected by this shift.",
+          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
+        ]
+      },
+      "ja": {
+        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
+        "bullets": [
+          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
+          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
+          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu6",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/south-florida/office/boston-firm-with-ties-to-sfl-businesses-airlines-offers-88m-for-former-spirit-hq-135650",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1562x1065/05a280a83d/69f4d3be2e3dd-screenshot-2026-05-01-at-12-12-59-pm.png",
+    "i18n": {
+      "en": {
+        "title": "Hedge Fund Bids $88M for Spirit Airlines' Former Headquarters",
+        "bullets": [
+          "A hedge fund has placed an $88 million bid on Spirit Airlines' former headquarters building.",
+          "This marks the first bid received since the property was scheduled for auction in June.",
+          "The auction follows Spirit Airlines' departure from the office space."
+        ]
+      },
+      "ja": {
+        "title": "ヘッジファンド、スピリット航空の旧本社ビルに8800万ドルで入札",
+        "bullets": [
+          "あるヘッジファンドが、スピリット航空の旧本社ビルに8800万ドルの入札を行った。",
+          "この物件は6月に競売にかけられることが決まっており、今回が初の入札となる。",
+          "スピリット航空が同オフィスから撤退したことを受けての競売実施となる。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu5",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "work",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "i18n": {
+      "en": {
+        "title": "American workers grow more skeptical of AI even as usage rises",
+        "bullets": [
+          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
+          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
+          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
+        ]
+      },
+      "ja": {
+        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
+        "bullets": [
+          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
+          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
+          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
+    "i18n": {
+      "en": {
+        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
+        "bullets": [
+          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
+          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
+          "The seller was Edison Properties, a New Jersey-based real estate firm."
+        ]
+      },
+      "ja": {
+        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
+        "bullets": [
+          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
+          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
+          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu4",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
+        "bullets": [
+          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
+          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
+          "The freeze highlights financial pressures facing the company's UK operations."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
+        "bullets": [
+          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
+          "この措置は同社の資金繰り問題が続いていることを示している。",
+          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu3",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
+    "i18n": {
+      "en": {
+        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
+        "bullets": [
+          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
+          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
+          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
+        ]
+      },
+      "ja": {
+        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
+        "bullets": [
+          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
+          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
+          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
+    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
+    "i18n": {
+      "en": {
+        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
+        "bullets": [
+          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
+          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
+          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
+        ]
+      },
+      "ja": {
+        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
+        "bullets": [
+          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
+          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
+          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
+    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
+    "i18n": {
+      "en": {
+        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
+        "bullets": [
+          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
+          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
+          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
+        ]
+      },
+      "ja": {
+        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
+        "bullets": [
+          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
+          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
+          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1243x848/633c7e38b4/6a6ccf9908a5c-avisonyoungforleasesalesign.jpeg",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Accounts Frozen Over Unpaid Taxes",
+        "bullets": [
+          "A UK court order had frozen Avison Young's bank accounts after the brokerage failed to pay taxes owed to the government.",
+          "A judge has since lifted the freeze, allowing the company's UK entities to settle the outstanding tax bill.",
+          "The amount owed to UK tax authorities is reported to be in the millions of pounds."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング、未納税で英国口座が凍結",
+        "bullets": [
+          "英国の裁判所命令により、不動産仲介大手エイビソン・ヤングの銀行口座が未納税を理由に凍結された。",
+          "その後、裁判官が凍結を解除し、同社の英国法人が未払い税を納付できるようになった。",
+          "政府に対する未払い税額は数百万ポンド規模とされている。"
+        ]
+      },
+      "zh": {
+        "title": "Avison Young英国账户因欠税被冻结",
+        "bullets": [
+          "英国法院此前下令冻结房地产经纪公司Avison Young的银行账户,原因是该公司欠缴税款。",
+          "此后法官解除了冻结令,使该公司英国子公司得以偿还所欠税款。",
+          "据报道,该公司拖欠英国政府的税款达数百万英镑。"
+        ]
+      },
+      "ko": {
+        "title": "에이비슨 영, 세금 체납으로 英 계좌 동결",
+        "bullets": [
+          "영국 법원이 부동산 중개업체 에이비슨 영의 은행 계좌를 세금 체납을 이유로 동결한 바 있다.",
+          "이후 판사가 동결 조치를 해제해 회사의 영국 법인들이 밀린 세금을 납부할 수 있게 됐다.",
+          "영국 정부에 체납한 세액은 수백만 파운드에 달하는 것으로 알려졌다."
         ]
       }
     }
@@ -464,298 +678,128 @@
   {
     "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
     "date": "2026-07-31",
-    "region": "eu",
+    "region": "na",
     "category": "estate",
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1243x848/633c7e38b4/6a6ccf9908a5c-avisonyoungforleasesalesign.jpeg",
+    "url": "https://www.bisnow.com/news/denver/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1696x1155/971adbf6c2/6202c57b3b7fa-skyline.jpeg",
     "i18n": {
       "en": {
-        "title": "Avison Young's UK Accounts Frozen Over Unpaid Taxes",
+        "title": "Federal Government to Sell Nearly 31K SF Office Property in Denver's Five Points",
         "bullets": [
-          "A UK court order had frozen Avison Young's bank accounts after the brokerage failed to pay taxes owed to the government.",
-          "A judge has since lifted the freeze, allowing the company's UK entities to settle the outstanding tax bill.",
-          "The amount owed to UK tax authorities is reported to be in the millions of pounds."
+          "The U.S. federal government is putting a nearly 31,000-square-foot property in Denver's Five Points neighborhood up for sale.",
+          "The listing is part of this week's roundup of top commercial real estate deals in the Denver area.",
+          "The sale reflects ongoing federal efforts to offload underutilized office space amid changing space needs."
         ]
       },
       "ja": {
-        "title": "エイビソン・ヤング、未納税で英国口座が凍結",
+        "title": "米連邦政府、デンバーのファイブポインツ地区で約2,880㎡のオフィス物件を売却へ",
         "bullets": [
-          "英国の裁判所命令により、不動産仲介大手エイビソン・ヤングの銀行口座が未納税を理由に凍結された。",
-          "その後、裁判官が凍結を解除し、同社の英国法人が未払い税を納付できるようになった。",
-          "政府に対する未払い税額は数百万ポンド規模とされている。"
+          "米連邦政府がデンバーのファイブポインツ地区にある約31,000平方フィート（約2,880㎡)の物件を売却に出した。",
+          "この売却案件は、デンバー地域における今週の主要商業不動産取引まとめの一つとして紹介されている。",
+          "この売却は、利用率の低いオフィススペースを削減しようとする連邦政府の継続的な取り組みを反映している。"
         ]
       },
       "zh": {
-        "title": "Avison Young英国账户因欠税被冻结",
+        "title": "美国联邦政府拟出售丹佛五点区约2880平方米办公物业",
         "bullets": [
-          "英国法院此前下令冻结房地产经纪公司Avison Young的银行账户,原因是该公司欠缴税款。",
-          "此后法官解除了冻结令,使该公司英国子公司得以偿还所欠税款。",
-          "据报道,该公司拖欠英国政府的税款达数百万英镑。"
+          "美国联邦政府正将丹佛五点区（Five Points）一处约31,000平方英尺（约2880平方米）的物业挂牌出售。",
+          "该交易是本周丹佛地区主要商业地产交易汇总中的一项。",
+          "此次出售反映了联邦政府持续清理利用率低的办公空间的做法。"
         ]
       },
       "ko": {
-        "title": "에이비슨 영, 세금 체납으로 英 계좌 동결",
+        "title": "美 연방정부, 덴버 파이브포인츠 지역 약 2,880㎡ 오피스 매각 추진",
         "bullets": [
-          "영국 법원이 부동산 중개업체 에이비슨 영의 은행 계좌를 세금 체납을 이유로 동결한 바 있다.",
-          "이후 판사가 동결 조치를 해제해 회사의 영국 법인들이 밀린 세금을 납부할 수 있게 됐다.",
-          "영국 정부에 체납한 세액은 수백만 파운드에 달하는 것으로 알려졌다."
+          "미국 연방정부가 덴버 파이브포인츠 지역의 약 31,000평방피트(약 2,880㎡) 규모 부동산을 매각 대상으로 내놓았다.",
+          "이번 매각은 덴버 지역의 이번 주 주요 상업용 부동산 거래 목록에 포함됐다.",
+          "이는 활용도가 낮은 연방정부 오피스 공간을 정리하려는 지속적인 노력의 일환으로 풀이된다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21t",
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
     "date": "2026-07-31",
     "region": "na",
     "category": "estate",
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
-    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
+    "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Kenneth-Schuckman-Whitestone-Queens-credit-Getty-Images.jpg?quality=80&amp;crop=0px%2C29px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
     "i18n": {
       "en": {
-        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
+        "title": "Schuckman-Led Fund Buys Queens Shopping Center for $56M",
         "bullets": [
-          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
-          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
-          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
+          "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, acquired the Whitestone Shopping Center in Queens for $56 million.",
+          "The property, anchored by a Key Food supermarket, is located at 153-15 Cross Island Parkway.",
+          "The seller was Punia & Marx Real Estate, according to a deed transfer filed in property records."
         ]
       },
       "ja": {
-        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
+        "title": "シャックマン率いるファンド、クイーンズのショッピングセンターを5600万ドルで取得",
         "bullets": [
-          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
-          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
-          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
+          "ケネス・シャックマン氏とアーロン・マリンスキー氏率いるBTFキャピタルファンドが、クイーンズのホワイトストーン・ショッピングセンターを5600万ドルで買収した。",
+          "同物件はキー・フードのスーパーマーケットを核店舗とし、クロス・アイランド・パークウェイ153-15番地に位置する。",
+          "売主はプニア&マークス・リアルエステートで、不動産記録に登録された譲渡証書により明らかになった。"
+        ]
+      },
+      "zh": {
+        "title": "舒克曼旗下基金以5600万美元收购皇后区购物中心",
+        "bullets": [
+          "由肯尼斯·舒克曼和亚伦·马林斯基领导的BTF资本基金，以5600万美元收购了皇后区的白石购物中心。",
+          "该物业以Key Food超市为主力店，位于Cross Island Parkway 153-15号。",
+          "卖方为Punia & Marx地产公司，交易信息来自房产记录中提交的产权转让文件。"
+        ]
+      },
+      "ko": {
+        "title": "슈크먼 주도 펀드, 퀸즈 쇼핑센터 5600만 달러에 인수",
+        "bullets": [
+          "케네스 슈크먼과 아론 말린스키가 이끄는 BTF캐피털펀드가 퀸즈의 화이트스톤 쇼핑센터를 5600만 달러에 매입했다.",
+          "이 부동산은 키푸드 슈퍼마켓을 앵커로 두고 있으며, 크로스 아일랜드 파크웨이 153-15번지에 위치한다.",
+          "매도자는 푸니아앤드마크스 부동산으로, 금요일 등록된 부동산 양도 증서를 통해 확인됐다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cu2",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
-    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
-    "i18n": {
-      "en": {
-        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
-        "bullets": [
-          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
-          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
-          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
-        ]
-      },
-      "ja": {
-        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
-        "bullets": [
-          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
-          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
-          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu3",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
-    "i18n": {
-      "en": {
-        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
-        "bullets": [
-          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
-          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
-          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
-        ]
-      },
-      "ja": {
-        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
-        "bullets": [
-          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
-          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
-          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu4",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "i18n": {
-      "en": {
-        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
-        "bullets": [
-          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
-          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
-          "The freeze highlights financial pressures facing the company's UK operations."
-        ]
-      },
-      "ja": {
-        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
-        "bullets": [
-          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
-          "この措置は同社の資金繰り問題が続いていることを示している。",
-          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21t2",
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
     "date": "2026-07-31",
     "region": "na",
     "category": "estate",
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
+    "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Publix-Walmart-Neighborhood-Market-credit-Getty-Images.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
+        "title": "Kimco Realty Acquires Two Broward County Retail Centers for $109M",
         "bullets": [
-          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
-          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
-          "The seller was Edison Properties, a New Jersey-based real estate firm."
+          "Kimco Realty purchased two grocery-anchored retail centers in Broward County, Florida from KPR Centers for a combined $109 million.",
+          "The largest deal involved a $56 million payment for Sunshine Plaza, a 245,744-square-foot property on West Commercial Boulevard.",
+          "Kimco is one of the largest owners of grocery-anchored retail centers in the United States."
         ]
       },
       "ja": {
-        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
+        "title": "キムコ・リアルティ、フロリダ州ブロワード郡の小売センター2棟を1億900万ドルで取得",
         "bullets": [
-          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
-          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
-          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu5",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "work",
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "i18n": {
-      "en": {
-        "title": "American workers grow more skeptical of AI even as usage rises",
-        "bullets": [
-          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
-          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
-          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
-        ]
-      },
-      "ja": {
-        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
-        "bullets": [
-          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
-          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
-          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu6",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/south-florida/office/boston-firm-with-ties-to-sfl-businesses-airlines-offers-88m-for-former-spirit-hq-135650",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1562x1065/05a280a83d/69f4d3be2e3dd-screenshot-2026-05-01-at-12-12-59-pm.png",
-    "i18n": {
-      "en": {
-        "title": "Hedge Fund Bids $88M for Spirit Airlines' Former Headquarters",
-        "bullets": [
-          "A hedge fund has placed an $88 million bid on Spirit Airlines' former headquarters building.",
-          "This marks the first bid received since the property was scheduled for auction in June.",
-          "The auction follows Spirit Airlines' departure from the office space."
-        ]
-      },
-      "ja": {
-        "title": "ヘッジファンド、スピリット航空の旧本社ビルに8800万ドルで入札",
-        "bullets": [
-          "あるヘッジファンドが、スピリット航空の旧本社ビルに8800万ドルの入札を行った。",
-          "この物件は6月に競売にかけられることが決まっており、今回が初の入札となる。",
-          "スピリット航空が同オフィスから撤退したことを受けての競売実施となる。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu7",
-    "date": "2026-07-31",
-    "region": "global",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
-    "i18n": {
-      "en": {
-        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
-        "bullets": [
-          "Property management firms are increasingly integrating AI tools into daily workflows.",
-          "Roughly half a million property manager positions could be affected by this shift.",
-          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
-        ]
-      },
-      "ja": {
-        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
-        "bullets": [
-          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
-          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
-          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "caseStudy": false,
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/washington-dc/deal-sheet/manassas-gated-community-sale-dc-deal-sheet-135646",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1474x1004/64496d0ab1/6a6cdd067a7d2-screenshot-2026-07-31-at-1-35-19-pm.png",
-    "i18n": {
-      "en": {
-        "title": "D.C. Deal Sheet: Office Sale and Leasing Activity Highlight Weekly Roundup",
-        "bullets": [
-          "A downtown Washington, D.C. office building sold for $26 million this week.",
-          "New leasing activity was reported at the 1800 M Street office property.",
-          "The roundup also covers a 270-unit gated residential sale in Manassas and a new head of Prince George's County Planning Board."
-        ]
-      },
-      "ja": {
-        "title": "DCディールシート：オフィス売却とリース活動が今週のハイライト",
-        "bullets": [
-          "ワシントンD.C.中心部のオフィスビルが今週2600万ドルで売却された。",
-          "1800 Mストリートのオフィス物件で新たなリース契約が報告された。",
-          "このほかマナサスの270戸のゲーテッドコミュニティ売却や、プリンスジョージズ郡計画委員会の新委員長就任も取り上げられている。"
+          "キムコ・リアルティは、KPRセンターズからフロリダ州ブロワード郡のグロサリー併設型小売センター2棟を合計1億900万ドルで購入した。",
+          "最大の取引はサンシャイン・プラザで、ウェスト・コマーシャル・ブールバード沿いの延べ床面積24万5744平方フィートの物件を5600万ドルで取得した。",
+          "キムコは全米最大級のグロサリー併設型小売センター保有企業の一つである。"
         ]
       },
       "zh": {
-        "title": "华盛顿地产周报：市中心写字楼售价2600万美元，租赁活跃",
+        "title": "金科房地产以1.09亿美元收购布劳沃德县两处零售中心",
         "bullets": [
-          "华盛顿特区市中心一栋写字楼本周以2600万美元售出。",
-          "1800 M街办公物业出现新的租赁活动。",
-          "报告还提及马纳萨斯一处270户封闭式社区的出售，以及乔治王子县规划委员会新任负责人的任命。"
+          "金科房地产(Kimco Realty)从KPR Centers手中收购了佛罗里达州布劳沃德县两处以超市为主力店的零售中心,总价1.09亿美元。",
+          "其中最大一笔交易为以5600万美元收购Sunshine Plaza,该物业位于西商业大道,建筑面积达245,744平方英尺。",
+          "金科是美国最大的超市主力店零售中心业主之一。"
         ]
       },
       "ko": {
-        "title": "워싱턴 DC 부동산 딜시트: 오피스 빌딩 2600만 달러에 매각, 임대 활동도 활발",
+        "title": "킴코 리얼티, 브로워드 카운티 소매 센터 2곳 1억 900만 달러에 인수",
         "bullets": [
-          "이번 주 워싱턴 DC 도심의 한 오피스 빌딩이 2600만 달러에 매각됐다.",
-          "1800 M 스트리트 오피스 자산에서 새로운 임대 계약이 체결됐다.",
-          "이 외에도 매너서스의 270세대 게이티드 커뮤니티 매각과 프린스조지 카운티 계획위원회 신임 위원장 소식도 다뤄졌다."
+          "킴코 리얼티는 KPR 센터스로부터 플로리다주 브로워드 카운티의 식료품점 앵커형 소매 센터 2곳을 총 1억 900만 달러에 인수했다.",
+          "최대 규모 거래는 웨스트 커머셜 대로에 위치한 24만 5744평방피트 규모의 선샤인 플라자로, 매입가는 5600만 달러였다.",
+          "킴코는 미국에서 식료품점 앵커형 소매 센터를 가장 많이 보유한 기업 중 하나다."
         ]
       }
     }
@@ -783,6 +827,227 @@
           "パンデミック後の物流施設ブームで、フィラデルフィアには前例のない規模の投機的な大型倉庫開発が相次いだ。",
           "実際のテナント需要は当初想定より小規模なスペースを求めており、オーナーはこれらの大型倉庫を分割している。",
           "開発業者は地元テナントのニーズに合わない過大な規模の建物を建設してしまったことを認めている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
+    "date": "2026-07-22",
+    "region": "eu",
+    "category": "design",
+    "caseStudy": false,
+    "source": "OnOffice Magazine",
+    "url": "https://www.onofficemagazine.com/design/trayy-a-new-table-system-designed-by-michele-menescardi-and-cristian-gori-for-actiu",
+    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/07/Actiu-hero-img-.jpg",
+    "i18n": {
+      "en": {
+        "title": "Actiu Launches TRAYY Table System by Menescardi and Gori",
+        "bullets": [
+          "Italian designers Michele Menescardi and Cristian Gori collaborated for the first time on TRAYY, a new table system for Actiu.",
+          "The concept originated from informal conversations comparing collaborative design to musicians composing together.",
+          "The pair had known each other from trade fairs and professional events before joining forces on this project."
+        ]
+      },
+      "ja": {
+        "title": "Actiu、MenescardiとGoriによる新テーブルシステム「TRAYY」を発表",
+        "bullets": [
+          "イタリア人デザイナーのミケーレ・メネスカルディとクリスティアン・ゴリが初めて共同制作したテーブルシステム「TRAYY」がActiuから発表された。",
+          "このコンセプトは、ミュージシャンが曲を作るように協働できないかという何気ない会話から生まれた。",
+          "二人は見本市や業界イベントで長年顔を合わせていたが、共同プロジェクトは今回が初めてだった。"
+        ]
+      },
+      "zh": {
+        "title": "Actiu推出由Menescardi与Gori设计的全新桌台系统TRAYY",
+        "bullets": [
+          "意大利设计师Michele Menescardi与Cristian Gori首次合作，为Actiu设计了全新桌台系统TRAYY。",
+          "该理念源于一次非正式交流，两人思考设计师能否像音乐家共同创作那样协作。",
+          "两人此前多年在贸易展会和行业活动中相识，但此次是他们首次携手合作的项目。"
+        ]
+      },
+      "ko": {
+        "title": "Actiu, Menescardi와 Gori가 디자인한 신규 테이블 시스템 'TRAYY' 출시",
+        "bullets": [
+          "이탈리아 디자이너 미켈레 메네스카르디와 크리스티안 고리가 처음으로 협업해 Actiu의 새로운 테이블 시스템 TRAYY를 선보였다.",
+          "이 아이디어는 음악가들이 곡을 함께 작곡하듯 디자이너도 협업할 수 있지 않을까 하는 비공식적인 대화에서 시작됐다.",
+          "두 사람은 그동안 무역 박람회와 업계 행사에서 오래 알고 지냈지만 공동 프로젝트는 이번이 처음이다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
+    "date": "2026-07-13",
+    "region": "eu",
+    "category": "design",
+    "caseStudy": true,
+    "source": "OnOffice Magazine",
+    "url": "https://www.onofficemagazine.com/design/myo-kings-cross-is-the-latest-flexible-workspace-from-landsec-transforming-a-key-site-on-york-way-into-a-pioneering-new-destination-for-work-wellbeing-and-community",
+    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/07/SODA_MYO-Kings-Cross_Ruth-Ward_22.jpg",
+    "i18n": {
+      "en": {
+        "title": "Landsec Opens MYO King's Cross Flexible Workspace",
+        "bullets": [
+          "Landsec has launched MYO King's Cross, a new flexible workspace on York Way in London.",
+          "The project, designed by SODA Studio, spans three buildings: Printworks, Glasshouse and the Grade II-listed Stables.",
+          "The campus combines workspaces, wellbeing facilities and event spaces as part of King's Cross's ongoing regeneration."
+        ]
+      },
+      "ja": {
+        "title": "ランドセック、キングスクロスに新フレキシブルオフィス「MYO King's Cross」を開設",
+        "bullets": [
+          "ランドセックがロンドンのヨークウェイに新しいフレキシブルワークスペース「MYO King's Cross」を開設した。",
+          "このプロジェクトはSODAスタジオが設計し、プリントワークス、グラスハウス、グレードII指定建造物のステーブルズという3棟の建物にまたがる。",
+          "このキャンパスは、キングスクロス地区の再開発の一環として、ワークスペース、ウェルビーイング施設、イベントスペースを融合させている。"
+        ]
+      },
+      "zh": {
+        "title": "兰德士地产在国王十字区推出全新灵活办公空间MYO King's Cross",
+        "bullets": [
+          "房地产开发商兰德士地产在伦敦约克路推出了全新灵活办公空间MYO King's Cross。",
+          "该项目由SODA Studio设计,横跨三座建筑:Printworks、Glasshouse和二级保护建筑Stables。",
+          "该园区将办公空间、健康设施与活动场地相结合,是国王十字区持续再生计划的一部分。"
+        ]
+      },
+      "ko": {
+        "title": "랜드섹, 킹스크로스에 새로운 유연 오피스 'MYO King's Cross' 오픈",
+        "bullets": [
+          "부동산 개발사 랜드섹이 런던 요크 웨이에 새로운 유연 오피스 공간 'MYO King's Cross'를 개장했다.",
+          "이 프로젝트는 SODA 스튜디오가 설계했으며 프린트웍스, 글래스하우스, 2급 지정 건축물인 스테이블스 등 3개 건물에 걸쳐 조성됐다.",
+          "이 캠퍼스는 킹스크로스 지역의 지속적인 재생 사업의 일환으로 업무 공간, 웰빙 시설, 이벤트 공간을 결합했다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9vZmZpY2Vjb25jZXB0ZGVz",
+    "date": "2026-06-11",
+    "region": "global",
+    "category": "design",
+    "caseStudy": false,
+    "source": "Office Concept Design",
+    "url": "https://officeconceptdesign.com/designing-for-every-activity/",
+    "image": null,
+    "i18n": {
+      "en": {
+        "title": "Acoustic Pods Enable Activity-Based Workplace Design",
+        "bullets": [
+          "Wintech's Winpod system is built on Activity-Based Working principles to support varied workplace tasks.",
+          "The product offers acoustic spaces designed for different zones beyond standard open-plan desks and meeting rooms.",
+          "It targets a common office layout gap between open workstations and enclosed perimeter meeting rooms."
+        ]
+      },
+      "ja": {
+        "title": "アクティビティ・ベースド・ワーキングを支える防音ポッド",
+        "ja_bullets": [],
+        "bullets": [
+          "Wintech社のWinpodは、アクティビティ・ベースド・ワーキング(ABW)の考え方に基づき設計されている。",
+          "このシステムは、オープンプランのデスクや会議室にとどまらない、ゾーンごとの防音スペースを提供する。",
+          "開放的な作業スペースと壁で囲まれた会議室の間に生じがちなギャップを埋めることを狙っている。"
+        ]
+      },
+      "zh": {
+        "title": "隔音舱助力活动导向型办公空间设计",
+        "bullets": [
+          "Wintech公司的Winpod产品基于活动导向型办公(ABW)理念设计。",
+          "该产品为不同功能区提供专门设计的隔音空间,不局限于开放式工位和封闭会议室。",
+          "它旨在填补开放式工位与周边封闭会议室之间常见的办公布局空白。"
+        ]
+      },
+      "ko": {
+        "title": "활동중심업무(ABW)를 지원하는 방음 포드",
+        "bullets": [
+          "Wintech사의 Winpod는 활동중심업무(ABW) 원칙을 기반으로 설계되었다.",
+          "이 제품은 개방형 워크스테이션과 회의실을 넘어 다양한 구역에 맞춘 방음 공간을 제공한다.",
+          "개방형 업무공간과 외곽의 밀폐형 회의실 사이에 흔히 나타나는 사무공간 설계의 공백을 해결하고자 한다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9vZmZpY2Vjb25jZXB0ZGVz",
+    "date": "2026-05-30",
+    "region": "eu",
+    "category": "design",
+    "caseStudy": false,
+    "source": "Office Concept Design",
+    "url": "https://officeconceptdesign.com/quiet-comfort-clear-form/",
+    "image": "https://officeconceptdesign.com/wp-content/uploads/2-WiChair-Wilkhahn.jpg",
+    "i18n": {
+      "en": {
+        "title": "Wilkhahn Unveils WiChair, a Flexible Seating Design for Modern Workplaces",
+        "bullets": [
+          "Wilkhahn's new WiChair is designed to encourage movement and dynamic sitting comfort in offices and learning spaces.",
+          "The chair combines sustainable craftsmanship with a compact, understated silhouette.",
+          "It aims to bring playful simplicity and flexibility to contemporary workplace furniture."
+        ]
+      },
+      "ja": {
+        "title": "ヴィルカーン、柔軟な座り心地を追求した新チェア「WiChair」を発表",
+        "bullets": [
+          "ドイツのヴィルカーン社は、オフィスや学習空間での動きを促す新オフィスチェア「WiChair」を発表した。",
+          "このチェアはサステナブルな製造技術とコンパクトで控えめなデザインを融合している。",
+          "現代のワークプレイスに遊び心とシンプルさ、柔軟性をもたらすことを目指している。"
+        ]
+      },
+      "zh": {
+        "title": "Wilkhahn推出新品座椅WiChair 助力办公空间灵活舒适",
+        "bullets": [
+          "德国家具品牌Wilkhahn推出新款座椅WiChair,旨在鼓励办公室和学习空间中的动态坐姿。",
+          "该椅子将可持续工艺与紧凑低调的外形相结合。",
+          "设计初衷是为现代办公环境带来趣味性、简约感与灵活性。"
+        ]
+      },
+      "ko": {
+        "title": "빌카안, 유연한 착석감을 강조한 신제품 'WiChair' 공개",
+        "bullets": [
+          "독일 가구 브랜드 빌카안이 사무공간과 학습공간에서의 움직임을 유도하는 신형 의자 WiChair를 선보였다.",
+          "이 의자는 지속가능한 제작 방식과 컴팩트하고 절제된 디자인을 결합했다.",
+          "현대적인 업무 환경에 재미와 단순함, 유연성을 더하는 것을 목표로 한다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9vZmZpY2Vjb25jZXB0ZGVz",
+    "date": "2026-05-30",
+    "region": "asia",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Office Concept Design",
+    "url": "https://officeconceptdesign.com/courtyards-above-shanghai/",
+    "image": "https://officeconceptdesign.com/wp-content/uploads/7-Publicis-Groupe-Shanghai-Ippolito-Fleitz-Group.jpg",
+    "i18n": {
+      "en": {
+        "title": "Ippolito Fleitz Redesigns Publicis Groupe's Shanghai Headquarters",
+        "bullets": [
+          "Ippolito Fleitz Group transformed Publicis Groupe China's Shanghai office into a unified workplace destination.",
+          "The design consolidates multiple advertising and PR agencies under one roof, reflecting the 'Power of One' philosophy.",
+          "The interior blends collaborative workspaces with local cultural identity through courtyard-inspired design elements."
+        ]
+      },
+      "ja": {
+        "title": "イッポリト・フライツ、上海のピュブリシス・グループ中国本社を再設計",
+        "bullets": [
+          "イッポリト・フライツ・グループが、ピュブリシス・グループ中国の上海オフィスを統合的なワークプレイスへと刷新した。",
+          "この設計は「Power of One」の理念のもと、複数の広告・広報エージェンシーを一つの拠点に集約している。",
+          "内装は協働space中庭を思わせるデザイン要素を通じて、地域の文化的アイデンティティと融合させている。"
+        ]
+      },
+      "zh": {
+        "title": "Ippolito Fleitz Group重新设计阳狮集团上海总部",
+        "bullets": [
+          "Ippolito Fleitz Group将阳狮集团中国上海办公室改造为统一的现代化办公空间。",
+          "该设计秉承“合而为一”(Power of One)理念,将多家广告与公关代理机构整合于同一屋檐下。",
+          "室内设计通过庭院式布局融合协作空间与本地文化特色。"
+        ]
+      },
+      "ko": {
+        "title": "입폴리토 플라이츠, 퍼블리시스 그룹 중국 상하이 본사 재설계",
+        "bullets": [
+          "입폴리토 플라이츠 그룹이 퍼블리시스 그룹 차이나의 상하이 사무실을 통합된 업무공간으로 탈바꿈시켰다.",
+          "이번 설계는 '파워 오브 원(Power of One)' 철학에 따라 여러 광고 및 홍보 에이전시를 한 지붕 아래로 통합했다.",
+          "내부 디자인은 중정을 연상시키는 요소를 통해 협업 공간과 현지 문화적 정체성을 결합했다."
         ]
       }
     }
@@ -1052,45 +1317,45 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cub2ZmaWNlbG92aW4u",
+    "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
     "date": "2026-02-12",
-    "region": "eu",
-    "category": "design",
-    "caseStudy": true,
-    "source": "Officelovin'",
-    "url": "https://www.officelovin.com/2026/02/a-tour-of-financial-services-company-offices-in-london/",
-    "image": "https://www.officelovin.com/wp-content/uploads/2026/02/financial-services-firm-9.jpg",
+    "region": "global",
+    "category": "culture",
+    "caseStudy": false,
+    "source": "Work Design Magazine",
+    "url": "https://www.workdesign.com/2026/02/work-is-broken-genz-can-fix-it/",
+    "image": "https://www.workdesign.com/wp-content/uploads/2026/02/work-is-broken-genz-can-fix-it.jpg",
     "i18n": {
       "en": {
-        "title": "US Financial Firm Opens New Mayfair Office Designed by Peldon Rose",
+        "title": "Podcast: Gen Z May Hold the Key to Fixing Broken Workplace Culture",
         "bullets": [
-          "A US-based financial services firm commissioned Peldon Rose to design its new London office in Mayfair.",
-          "The project aimed to create an inspiring workplace centred around connectivity among staff.",
-          "The design reflects the firm's strategy to establish a strong physical presence in central London."
+          "Work Design Magazine's podcast features Bob Fox and Amanda Schneider discussing why workplace culture is failing employees.",
+          "The conversation focuses on generational shifts and how Gen Z attitudes could reshape organizational culture.",
+          "The episode argues that rethinking traditional workplace norms is necessary to address current cultural failures."
         ]
       },
       "ja": {
-        "title": "米金融企業、ロンドン・メイフェアに新オフィスを開設 Peldon Roseが設計",
+        "title": "ポッドキャスト:壊れた職場文化を修復する鍵はZ世代にあり",
         "bullets": [
-          "米国の金融サービス企業が、ロンドン新オフィスのデザインをPeldon Roseに依頼した。",
-          "オフィスはメイフェアに位置し、社員同士のつながりを重視した空間づくりを目指した。",
-          "この設計はロンドン中心部での存在感を強めるという同社の戦略を反映している。"
+          "Work Design Magazineのポッドキャストで、Bob Fox氏とAmanda Schneider氏が職場文化がなぜ機能不全に陥っているかを議論。",
+          "対話は世代間の価値観の変化に焦点を当て、Z世代の姿勢が組織文化をどう変え得るかを探る。",
+          "エピソードは、現在の文化的課題に対処するには従来の職場慣習の見直しが必要だと主張している。"
         ]
       },
       "zh": {
-        "title": "美国金融公司在伦敦梅费尔开设新办公室 由Peldon Rose设计",
+        "title": "播客:Z世代或是修复失灵职场文化的关键",
         "bullets": [
-          "一家美国金融服务公司委托Peldon Rose设计其伦敦新办公室。",
-          "该项目旨在打造以员工联系为核心的启发性办公空间。",
-          "此次设计体现了该公司在伦敦市中心建立稳固存在的战略。"
+          "Work Design Magazine播客中,Bob Fox与Amanda Schneider探讨职场文化为何未能满足员工需求。",
+          "对话聚焦代际观念变化,探讨Z世代的态度如何重塑组织文化。",
+          "该期节目认为,应对当前文化困境需要重新审视传统职场规范。"
         ]
       },
       "ko": {
-        "title": "美 금융회사, 런던 메이페어에 신규 오피스 오픈…Peldon Rose가 디자인",
+        "title": "팟캐스트: 무너진 직장 문화, 해법은 Z세대에 있다",
         "bullets": [
-          "미국 금융서비스 기업이 런던 신규 오피스 디자인을 Peldon Rose에 맡겼다.",
-          "이 프로젝트는 직원 간 연결성을 중심으로 한 영감을 주는 업무 공간 조성을 목표로 했다.",
-          "이번 설계는 런던 중심부에 확고한 입지를 다지려는 회사의 전략을 반영한다."
+          "Work Design Magazine 팟캐스트에서 Bob Fox와 Amanda Schneider가 직장 문화가 실패하는 이유를 논의했다.",
+          "대화는 세대 간 가치관 변화에 초점을 맞추며 Z세대의 태도가 조직 문화를 어떻게 바꿀 수 있는지 탐구한다.",
+          "이번 에피소드는 현재의 문화적 문제를 해결하려면 전통적 직장 관행을 재고해야 한다고 주장한다."
         ]
       }
     }
@@ -1140,45 +1405,45 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
+    "id": "a_aHR0cHM6Ly93d3cub2ZmaWNlbG92aW4u",
     "date": "2026-02-12",
-    "region": "global",
-    "category": "culture",
-    "caseStudy": false,
-    "source": "Work Design Magazine",
-    "url": "https://www.workdesign.com/2026/02/work-is-broken-genz-can-fix-it/",
-    "image": "https://www.workdesign.com/wp-content/uploads/2026/02/work-is-broken-genz-can-fix-it.jpg",
+    "region": "eu",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Officelovin'",
+    "url": "https://www.officelovin.com/2026/02/a-tour-of-financial-services-company-offices-in-london/",
+    "image": "https://www.officelovin.com/wp-content/uploads/2026/02/financial-services-firm-9.jpg",
     "i18n": {
       "en": {
-        "title": "Podcast: Gen Z May Hold the Key to Fixing Broken Workplace Culture",
+        "title": "US Financial Firm Opens New Mayfair Office Designed by Peldon Rose",
         "bullets": [
-          "Work Design Magazine's podcast features Bob Fox and Amanda Schneider discussing why workplace culture is failing employees.",
-          "The conversation focuses on generational shifts and how Gen Z attitudes could reshape organizational culture.",
-          "The episode argues that rethinking traditional workplace norms is necessary to address current cultural failures."
+          "A US-based financial services firm commissioned Peldon Rose to design its new London office in Mayfair.",
+          "The project aimed to create an inspiring workplace centred around connectivity among staff.",
+          "The design reflects the firm's strategy to establish a strong physical presence in central London."
         ]
       },
       "ja": {
-        "title": "ポッドキャスト:壊れた職場文化を修復する鍵はZ世代にあり",
+        "title": "米金融企業、ロンドン・メイフェアに新オフィスを開設 Peldon Roseが設計",
         "bullets": [
-          "Work Design Magazineのポッドキャストで、Bob Fox氏とAmanda Schneider氏が職場文化がなぜ機能不全に陥っているかを議論。",
-          "対話は世代間の価値観の変化に焦点を当て、Z世代の姿勢が組織文化をどう変え得るかを探る。",
-          "エピソードは、現在の文化的課題に対処するには従来の職場慣習の見直しが必要だと主張している。"
+          "米国の金融サービス企業が、ロンドン新オフィスのデザインをPeldon Roseに依頼した。",
+          "オフィスはメイフェアに位置し、社員同士のつながりを重視した空間づくりを目指した。",
+          "この設計はロンドン中心部での存在感を強めるという同社の戦略を反映している。"
         ]
       },
       "zh": {
-        "title": "播客:Z世代或是修复失灵职场文化的关键",
+        "title": "美国金融公司在伦敦梅费尔开设新办公室 由Peldon Rose设计",
         "bullets": [
-          "Work Design Magazine播客中,Bob Fox与Amanda Schneider探讨职场文化为何未能满足员工需求。",
-          "对话聚焦代际观念变化,探讨Z世代的态度如何重塑组织文化。",
-          "该期节目认为,应对当前文化困境需要重新审视传统职场规范。"
+          "一家美国金融服务公司委托Peldon Rose设计其伦敦新办公室。",
+          "该项目旨在打造以员工联系为核心的启发性办公空间。",
+          "此次设计体现了该公司在伦敦市中心建立稳固存在的战略。"
         ]
       },
       "ko": {
-        "title": "팟캐스트: 무너진 직장 문화, 해법은 Z세대에 있다",
+        "title": "美 금융회사, 런던 메이페어에 신규 오피스 오픈…Peldon Rose가 디자인",
         "bullets": [
-          "Work Design Magazine 팟캐스트에서 Bob Fox와 Amanda Schneider가 직장 문화가 실패하는 이유를 논의했다.",
-          "대화는 세대 간 가치관 변화에 초점을 맞추며 Z세대의 태도가 조직 문화를 어떻게 바꿀 수 있는지 탐구한다.",
-          "이번 에피소드는 현재의 문화적 문제를 해결하려면 전통적 직장 관행을 재고해야 한다고 주장한다."
+          "미국 금융서비스 기업이 런던 신규 오피스 디자인을 Peldon Rose에 맡겼다.",
+          "이 프로젝트는 직원 간 연결성을 중심으로 한 영감을 주는 업무 공간 조성을 목표로 했다.",
+          "이번 설계는 런던 중심부에 확고한 입지를 다지려는 회사의 전략을 반영한다."
         ]
       }
     }
@@ -1360,50 +1625,6 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
-    "date": "2026-01-05",
-    "region": "global",
-    "category": "design",
-    "caseStudy": false,
-    "source": "Work Design Magazine",
-    "url": "https://www.workdesign.com/2026/01/chair-of-the-month-review-civara-task-seating-by-ki/",
-    "image": "https://embed.widencdn.net/img/ki/7kkokcaqry/960x640px@1x/Civara_MeshBack_Chairs_UphBack_Stool_Display.png?q=90&amp;x.template=y",
-    "i18n": {
-      "en": {
-        "title": "Review: Civara Task Chair by KI Tested with OTJ Architects",
-        "bullets": [
-          "Work Design Magazine's final chair review of 2025 examines the Civara Task Chair made by KI.",
-          "The review was conducted with input from OTJ Architects, an architecture and design firm.",
-          "The piece evaluates the chair's ergonomics and suitability for task seating in office environments."
-        ]
-      },
-      "ja": {
-        "title": "KIの新型タスクチェア「Civara」レビュー、OTJアーキテクツと共同検証",
-        "bullets": [
-          "Work Design Magazineが2025年最後のチェアレビューとして、KI製「Civara Task Chair」を取り上げた。",
-          "レビューは建築・デザイン事務所OTJ Architectsの協力を得て実施された。",
-          "記事ではオフィス環境における人体工学的な使いやすさや適合性を評価している。"
-        ]
-      },
-      "zh": {
-        "title": "KI推出Civara任务座椅评测,与OTJ建筑事务所联合测试",
-        "bullets": [
-          "Work Design Magazine在2025年发布了年内最后一篇椅子评测,聚焦KI品牌的Civara任务座椅。",
-          "此次评测得到了建筑设计公司OTJ Architects的协助。",
-          "文章评估了该座椅在办公环境中的人体工学表现和适用性。"
-        ]
-      },
-      "ko": {
-        "title": "KI의 신제품 태스크 체어 'Civara' 리뷰, OTJ 아키텍츠와 공동 테스트",
-        "bullets": [
-          "Work Design Magazine이 2025년 마지막 의자 리뷰로 KI社의 Civara 태스크 체어를 다뤘다.",
-          "이번 리뷰는 건축·디자인 회사 OTJ Architects의 협력을 통해 진행됐다.",
-          "기사는 사무 환경에서의 인체공학적 편의성과 적합성을 평가했다."
-        ]
-      }
-    }
-  },
-  {
     "id": "a_aHR0cHM6Ly93d3cub2ZmaWNlbG92aW4u",
     "date": "2026-01-05",
     "region": "eu",
@@ -1449,44 +1670,44 @@
   },
   {
     "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
-    "date": "2025-12-23",
-    "region": "na",
+    "date": "2026-01-05",
+    "region": "global",
     "category": "design",
-    "caseStudy": true,
+    "caseStudy": false,
     "source": "Work Design Magazine",
-    "url": "https://www.workdesign.com/2025/12/dlr-group-designs-its-dallas-studio-as-a-living-expression-of-culture-craft-and-change/",
-    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/DLR-Group_Dallas-Studio-7-scaled-e1766423983105.jpg",
+    "url": "https://www.workdesign.com/2026/01/chair-of-the-month-review-civara-task-seating-by-ki/",
+    "image": "https://embed.widencdn.net/img/ki/7kkokcaqry/960x640px@1x/Civara_MeshBack_Chairs_UphBack_Stool_Display.png?q=90&amp;x.template=y",
     "i18n": {
       "en": {
-        "title": "DLR Group Redesigns Dallas Studio Around Culture and Adaptability",
+        "title": "Review: Civara Task Chair by KI Tested with OTJ Architects",
         "bullets": [
-          "DLR Group treated its Dallas office redesign as a living system shaped by employee input rather than a fixed blueprint.",
-          "The design process prioritized adaptability alongside aesthetics, allowing the space to evolve with changing routines.",
-          "The studio aims to visually express the firm's culture and craft through its workplace design."
+          "Work Design Magazine's final chair review of 2025 examines the Civara Task Chair made by KI.",
+          "The review was conducted with input from OTJ Architects, an architecture and design firm.",
+          "The piece evaluates the chair's ergonomics and suitability for task seating in office environments."
         ]
       },
       "ja": {
-        "title": "DLRグループ、ダラス・スタジオを文化と適応性を重視して再設計",
+        "title": "KIの新型タスクチェア「Civara」レビュー、OTJアーキテクツと共同検証",
         "bullets": [
-          "DLRグループは、固定的な設計図ではなく社員の意見を反映した「生きたシステム」としてダラス・オフィスを再設計した。",
-          "デザインプロセスでは美観と同様に適応性を重視し、変化する働き方に対応できる空間を目指した。",
-          "スタジオは自社の文化や職人技を空間デザインで表現することを意図している。"
+          "Work Design Magazineが2025年最後のチェアレビューとして、KI製「Civara Task Chair」を取り上げた。",
+          "レビューは建築・デザイン事務所OTJ Architectsの協力を得て実施された。",
+          "記事ではオフィス環境における人体工学的な使いやすさや適合性を評価している。"
         ]
       },
       "zh": {
-        "title": "DLR Group以文化与适应性为核心重新设计达拉斯办公室",
+        "title": "KI推出Civara任务座椅评测,与OTJ建筑事务所联合测试",
         "bullets": [
-          "DLR Group将达拉斯办公室的重新设计视为一个由员工意见塑造的动态系统，而非固定方案。",
-          "设计过程中将适应性与美观并重，使空间能够随工作方式的变化而演进。",
-          "该工作室旨在通过办公空间设计直观呈现公司的文化与工艺精神。"
+          "Work Design Magazine在2025年发布了年内最后一篇椅子评测,聚焦KI品牌的Civara任务座椅。",
+          "此次评测得到了建筑设计公司OTJ Architects的协助。",
+          "文章评估了该座椅在办公环境中的人体工学表现和适用性。"
         ]
       },
       "ko": {
-        "title": "DLR그룹, 문화와 적응성 중심으로 댈러스 스튜디오 재설계",
+        "title": "KI의 신제품 태스크 체어 'Civara' 리뷰, OTJ 아키텍츠와 공동 테스트",
         "bullets": [
-          "DLR그룹은 고정된 설계도가 아닌 직원 의견이 반영된 '살아있는 시스템'으로 댈러스 오피스를 재설계했다.",
-          "디자인 과정에서 미학뿐 아니라 적응성을 중시해 변화하는 업무 방식에 대응할 수 있는 공간을 구현했다.",
-          "이 스튜디오는 사무 공간 디자인을 통해 회사의 문화와 장인정신을 표현하고자 한다."
+          "Work Design Magazine이 2025년 마지막 의자 리뷰로 KI社의 Civara 태스크 체어를 다뤘다.",
+          "이번 리뷰는 건축·디자인 회사 OTJ Architects의 협력을 통해 진행됐다.",
+          "기사는 사무 환경에서의 인체공학적 편의성과 적합성을 평가했다."
         ]
       }
     }
@@ -1537,44 +1758,88 @@
   },
   {
     "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
+    "date": "2025-12-23",
+    "region": "na",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Work Design Magazine",
+    "url": "https://www.workdesign.com/2025/12/dlr-group-designs-its-dallas-studio-as-a-living-expression-of-culture-craft-and-change/",
+    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/DLR-Group_Dallas-Studio-7-scaled-e1766423983105.jpg",
+    "i18n": {
+      "en": {
+        "title": "DLR Group Redesigns Dallas Studio Around Culture and Adaptability",
+        "bullets": [
+          "DLR Group treated its Dallas office redesign as a living system shaped by employee input rather than a fixed blueprint.",
+          "The design process prioritized adaptability alongside aesthetics, allowing the space to evolve with changing routines.",
+          "The studio aims to visually express the firm's culture and craft through its workplace design."
+        ]
+      },
+      "ja": {
+        "title": "DLRグループ、ダラス・スタジオを文化と適応性を重視して再設計",
+        "bullets": [
+          "DLRグループは、固定的な設計図ではなく社員の意見を反映した「生きたシステム」としてダラス・オフィスを再設計した。",
+          "デザインプロセスでは美観と同様に適応性を重視し、変化する働き方に対応できる空間を目指した。",
+          "スタジオは自社の文化や職人技を空間デザインで表現することを意図している。"
+        ]
+      },
+      "zh": {
+        "title": "DLR Group以文化与适应性为核心重新设计达拉斯办公室",
+        "bullets": [
+          "DLR Group将达拉斯办公室的重新设计视为一个由员工意见塑造的动态系统，而非固定方案。",
+          "设计过程中将适应性与美观并重，使空间能够随工作方式的变化而演进。",
+          "该工作室旨在通过办公空间设计直观呈现公司的文化与工艺精神。"
+        ]
+      },
+      "ko": {
+        "title": "DLR그룹, 문화와 적응성 중심으로 댈러스 스튜디오 재설계",
+        "bullets": [
+          "DLR그룹은 고정된 설계도가 아닌 직원 의견이 반영된 '살아있는 시스템'으로 댈러스 오피스를 재설계했다.",
+          "디자인 과정에서 미학뿐 아니라 적응성을 중시해 변화하는 업무 방식에 대응할 수 있는 공간을 구현했다.",
+          "이 스튜디오는 사무 공간 디자인을 통해 회사의 문화와 장인정신을 표현하고자 한다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cud29ya2Rlc2lnbi5j",
     "date": "2025-12-22",
     "region": "global",
     "category": "design",
     "caseStudy": false,
     "source": "Work Design Magazine",
-    "url": "https://www.workdesign.com/2025/12/the-office-as-a-city-how-main-street-thinking-is-reshaping-the-future-of-work/",
-    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/250111_135914_JT_med-scaled-e1766422194684.jpg",
+    "url": "https://www.workdesign.com/2025/12/designing-from-the-ground-up-how-gen-z-is-shaping-the-modern-workplace/",
+    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/Octagon_Stamford-e1766080654694.jpg",
     "i18n": {
       "en": {
-        "title": "Office as a City: 'Main Street' Design Rethinks Workplace Purpose",
+        "title": "How Gen Z Is Reshaping Workplace Design",
         "bullets": [
-          "Hybrid work is pushing organizations to reconsider the office as more than a place to complete tasks.",
-          "A 'Main Street' concept treats the workplace like a small city, prioritizing collaboration hubs and social connection points.",
-          "The approach reframes office design around fostering community and interaction rather than individual task completion."
+          "Traditional workplace design was historically driven top-down by leadership decisions rather than employee input.",
+          "Companies are increasingly involving younger employees, especially Gen Z, in shaping office space and experience.",
+          "The shift reflects changing expectations around flexibility, wellbeing, and purpose in the physical workplace."
         ]
       },
       "ja": {
-        "title": "「街としてのオフィス」、メインストリート発想が働き方を変える",
+        "title": "Z世代がオフィスデザインを変える",
         "bullets": [
-          "ハイブリッドワークの浸透により、企業はオフィスを単なる作業場所以上のものとして捉え直している。",
-          "「メインストリート」という発想は、オフィスを小さな街のように設計し、交流や協働の拠点を重視する。",
-          "このアプローチは、個人作業の効率よりもコミュニティ形成や人と人とのつながりを重視したオフィス設計を目指す。"
+          "従来のオフィスデザインは経営層主導のトップダウン方式で決定されることが一般的だった。",
+          "近年、企業はZ世代を含む若手社員をオフィス空間や体験の設計に積極的に関与させるようになっている。",
+          "この変化は、柔軟性やウェルビーイング、働く意義に対する価値観の変化を反映している。"
         ]
       },
       "zh": {
-        "title": "“办公室如城市”：主街理念重塑未来办公空间",
+        "title": "Z世代正在重塑办公空间设计",
         "bullets": [
-          "混合办公模式促使企业重新思考办公室的作用，不再仅仅是完成任务的场所。",
-          "“主街”理念将办公空间设计得像一座小城市，注重协作枢纽和社交连接点。",
-          "这种方法将办公设计的重心从个人任务执行转向社区营造与人际互动。"
+          "传统办公空间设计长期由管理层自上而下主导决策。",
+          "越来越多企业开始让包括Z世代在内的年轻员工参与办公空间和体验的设计。",
+          "这一转变反映了员工对灵活性、健康福祉和工作意义的期待正在改变。"
         ]
       },
       "ko": {
-        "title": "'도시로서의 오피스', 메인스트리트식 사고가 업무 공간을 바꾼다",
+        "title": "Z세대, 오피스 디자인의 변화를 이끌다",
         "bullets": [
-          "하이브리드 근무 확산으로 기업들은 사무실을 단순 업무 공간 이상으로 재정의하고 있다.",
-          "'메인스트리트' 개념은 사무공간을 작은 도시처럼 설계해 협업과 소통의 거점을 강조한다.",
-          "이 접근법은 개인 업무 수행보다 공동체 형성과 사람 간 연결을 중심에 둔 오피스 디자인을 지향한다."
+          "전통적인 사무공간 디자인은 오랫동안 경영진 주도의 하향식 방식으로 결정되어 왔다.",
+          "최근 기업들은 Z세대를 포함한 젊은 직원들을 사무공간 및 경험 설계 과정에 적극 참여시키고 있다.",
+          "이러한 변화는 유연성, 웰빙, 업무의 의미에 대한 기대 변화가 반영된 결과다."
         ]
       }
     }
@@ -1630,39 +1895,39 @@
     "category": "design",
     "caseStudy": false,
     "source": "Work Design Magazine",
-    "url": "https://www.workdesign.com/2025/12/designing-from-the-ground-up-how-gen-z-is-shaping-the-modern-workplace/",
-    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/Octagon_Stamford-e1766080654694.jpg",
+    "url": "https://www.workdesign.com/2025/12/the-office-as-a-city-how-main-street-thinking-is-reshaping-the-future-of-work/",
+    "image": "https://www.workdesign.com/wp-content/uploads/2025/12/250111_135914_JT_med-scaled-e1766422194684.jpg",
     "i18n": {
       "en": {
-        "title": "How Gen Z Is Reshaping Workplace Design",
+        "title": "Office as a City: 'Main Street' Design Rethinks Workplace Purpose",
         "bullets": [
-          "Traditional workplace design was historically driven top-down by leadership decisions rather than employee input.",
-          "Companies are increasingly involving younger employees, especially Gen Z, in shaping office space and experience.",
-          "The shift reflects changing expectations around flexibility, wellbeing, and purpose in the physical workplace."
+          "Hybrid work is pushing organizations to reconsider the office as more than a place to complete tasks.",
+          "A 'Main Street' concept treats the workplace like a small city, prioritizing collaboration hubs and social connection points.",
+          "The approach reframes office design around fostering community and interaction rather than individual task completion."
         ]
       },
       "ja": {
-        "title": "Z世代がオフィスデザインを変える",
+        "title": "「街としてのオフィス」、メインストリート発想が働き方を変える",
         "bullets": [
-          "従来のオフィスデザインは経営層主導のトップダウン方式で決定されることが一般的だった。",
-          "近年、企業はZ世代を含む若手社員をオフィス空間や体験の設計に積極的に関与させるようになっている。",
-          "この変化は、柔軟性やウェルビーイング、働く意義に対する価値観の変化を反映している。"
+          "ハイブリッドワークの浸透により、企業はオフィスを単なる作業場所以上のものとして捉え直している。",
+          "「メインストリート」という発想は、オフィスを小さな街のように設計し、交流や協働の拠点を重視する。",
+          "このアプローチは、個人作業の効率よりもコミュニティ形成や人と人とのつながりを重視したオフィス設計を目指す。"
         ]
       },
       "zh": {
-        "title": "Z世代正在重塑办公空间设计",
+        "title": "“办公室如城市”：主街理念重塑未来办公空间",
         "bullets": [
-          "传统办公空间设计长期由管理层自上而下主导决策。",
-          "越来越多企业开始让包括Z世代在内的年轻员工参与办公空间和体验的设计。",
-          "这一转变反映了员工对灵活性、健康福祉和工作意义的期待正在改变。"
+          "混合办公模式促使企业重新思考办公室的作用，不再仅仅是完成任务的场所。",
+          "“主街”理念将办公空间设计得像一座小城市，注重协作枢纽和社交连接点。",
+          "这种方法将办公设计的重心从个人任务执行转向社区营造与人际互动。"
         ]
       },
       "ko": {
-        "title": "Z세대, 오피스 디자인의 변화를 이끌다",
+        "title": "'도시로서의 오피스', 메인스트리트식 사고가 업무 공간을 바꾼다",
         "bullets": [
-          "전통적인 사무공간 디자인은 오랫동안 경영진 주도의 하향식 방식으로 결정되어 왔다.",
-          "최근 기업들은 Z세대를 포함한 젊은 직원들을 사무공간 및 경험 설계 과정에 적극 참여시키고 있다.",
-          "이러한 변화는 유연성, 웰빙, 업무의 의미에 대한 기대 변화가 반영된 결과다."
+          "하이브리드 근무 확산으로 기업들은 사무실을 단순 업무 공간 이상으로 재정의하고 있다.",
+          "'메인스트리트' 개념은 사무공간을 작은 도시처럼 설계해 협업과 소통의 거점을 강조한다.",
+          "이 접근법은 개인 업무 수행보다 공동체 형성과 사람 간 연결을 중심에 둔 오피스 디자인을 지향한다."
         ]
       }
     }
