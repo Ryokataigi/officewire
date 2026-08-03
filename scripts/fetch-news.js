@@ -76,6 +76,40 @@ Article summary/content: ${(item.contentSnippet || item.content || "").slice(0, 
   return JSON.parse(cleaned);
 }
 
+// Flipboard (and similar curator) links point to a Flipboard-hosted page, not
+// the original article. This follows that page to find the real source URL,
+// e.g. via a canonical link tag or the first outbound link to a non-aggregator domain.
+async function resolveOriginalUrl(url) {
+  const aggregatorDomains = ["flipboard.com"];
+  if (!aggregatorDomains.some((d) => url.includes(d))) return url;
+
+  try {
+    const res = await fetch(url, {
+      headers: { "user-agent": "Mozilla/5.0 (compatible; OfficeWireBot/1.0)" },
+      signal: AbortSignal.timeout(8000),
+    });
+    if (!res.ok) return url;
+    const html = await res.text();
+
+    const canonical = html.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)["']/i);
+    if (canonical && !aggregatorDomains.some((d) => canonical[1].includes(d))) {
+      return canonical[1];
+    }
+
+    // Fallback: first external link that isn't Flipboard itself or a social share link.
+    const linkMatches = [...html.matchAll(/<a[^>]+href=["'](https?:\/\/[^"']+)["']/gi)];
+    const skipDomains = [...aggregatorDomains, "twitter.com", "facebook.com", "instagram.com", "apps.apple.com", "play.google.com"];
+    const externalLink = linkMatches
+      .map((m) => m[1])
+      .find((href) => !skipDomains.some((d) => href.includes(d)));
+
+    return externalLink || url;
+  } catch (err) {
+    console.error(`Could not resolve original URL for ${url}:`, err.message);
+    return url;
+  }
+}
+
 function slugId(url) {
   return "a_" + Buffer.from(url).toString("base64url").slice(0, 32);
 }
@@ -149,21 +183,24 @@ async function main() {
 
       for (const item of candidates) {
         try {
+          const originalUrl = await resolveOriginalUrl(item.link);
+          if (knownUrls.has(originalUrl)) continue;
+
           const result = await classifyAndSummarize(item, feed.source);
           if (result.skip) continue;
 
           newArticles.push({
-            id: slugId(item.link),
+            id: slugId(originalUrl),
             date: (item.isoDate || new Date().toISOString()).slice(0, 10),
             region: result.region,
             category: result.category,
             caseStudy: !!result.caseStudy,
             source: feed.source,
-            url: item.link,
-            image: extractImage(item) || (await fetchPageImage(item.link)),
+            url: originalUrl,
+            image: extractImage(item) || (await fetchPageImage(originalUrl)),
             i18n: { en: result.en, ja: result.ja, zh: result.zh, ko: result.ko },
           });
-          knownUrls.add(item.link);
+          knownUrls.add(originalUrl);
         } catch (err) {
           console.error(`Failed to summarize "${item.title}" from ${feed.source}:`, err.message);
         }
