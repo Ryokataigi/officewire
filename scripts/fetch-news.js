@@ -16,7 +16,7 @@ import { readFile, writeFile } from "fs/promises";
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 const MODEL = "claude-sonnet-5";
 const MAX_ARTICLES_KEPT = 60; // trim the JSON file so it doesn't grow forever
-const MAX_NEW_PER_FEED = 5; // safety cap so one feed can't flood a single run
+const MAX_NEW_PER_FEED = 3; // safety cap so one feed can't flood a single run
 
 const DATA_PATH = new URL("../data/articles.json", import.meta.url);
 const FEEDS_PATH = new URL("./feeds.json", import.meta.url);
@@ -86,7 +86,7 @@ async function resolveOriginalUrl(url) {
   try {
     const res = await fetch(url, {
       headers: { "user-agent": "Mozilla/5.0 (compatible; OfficeWireBot/1.0)" },
-      signal: AbortSignal.timeout(8000),
+      signal: AbortSignal.timeout(6000),
     });
     if (!res.ok) return url;
     const html = await res.text();
@@ -139,7 +139,7 @@ async function fetchPageImage(url) {
   try {
     const res = await fetch(url, {
       headers: { "user-agent": "Mozilla/5.0 (compatible; OfficeWireBot/1.0)" },
-      signal: AbortSignal.timeout(8000),
+      signal: AbortSignal.timeout(6000),
     });
     if (!res.ok) return null;
     const html = await res.text();
