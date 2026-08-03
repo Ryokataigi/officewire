@@ -178,7 +178,8 @@ async function main() {
   });
   const newArticles = [];
 
-  for (const feed of feeds) {
+  async function processFeed(feed) {
+    const collected = [];
     try {
       const parsed = await parser.parseURL(feed.url);
       const candidates = (parsed.items || [])
@@ -196,7 +197,7 @@ async function main() {
           const result = await classifyAndSummarize(item, feed.source);
           if (result.skip) continue;
 
-          newArticles.push({
+          collected.push({
             id: slugId(originalUrl),
             date: (item.isoDate || new Date().toISOString()).slice(0, 10),
             region: result.region,
@@ -215,7 +216,13 @@ async function main() {
     } catch (err) {
       console.error(`Failed to fetch feed ${feed.source} (${feed.url}):`, err.message);
     }
+    return collected;
   }
+
+  // Feeds are fetched and processed in parallel — this is the main lever for
+  // keeping total run time low as more feeds get added.
+  const perFeedResults = await Promise.all(feeds.map(processFeed));
+  perFeedResults.forEach((articles) => newArticles.push(...articles));
 
   console.log(`Fetched ${newArticles.length} new article(s).`);
 
