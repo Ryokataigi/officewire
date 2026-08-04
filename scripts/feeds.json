@@ -2,7 +2,6 @@
   { "source": "Dezeen", "url": "https://www.dezeen.com/architecture/workplace/feed/" },
   { "source": "Fast Company - Work Life", "url": "https://www.fastcompany.com/work-life/rss" },
   { "source": "Commercial Observer", "url": "https://commercialobserver.com/feed/" },
-  { "source": "Bisnow", "url": "https://www.bisnow.com/rss" },
   { "source": "Nikkei Asia - Business", "url": "https://asia.nikkei.com/rss/feed/nar" },
   { "source": "Officelovin'", "url": "https://officelovin.com/feed/" },
   { "source": "Work Design Magazine", "url": "https://www.workdesign.com/feed/" },
@@ -11,8 +10,5 @@
   { "source": "OnOffice Magazine", "url": "https://www.onofficemagazine.com/feed/" },
   { "source": "Office Concept Design", "url": "https://officeconceptdesign.com/feed/" },
   { "source": "Workplace Insight", "url": "https://workplaceinsight.net/feed/" },
-  { "source": "Trending Now Workplace Design", "url": "https://www.workplacedesign-now.com/feed/" },
-  { "source": "Working the Future", "url": "https://workingthefuture.com/en/feed/" },
-  { "source": "Gensler Design Forecast", "url": "https://www.gensler.com/blog/feed" },
   { "source": "Allwork.Space", "url": "https://allwork.space/feed/" }
 ]
