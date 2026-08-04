@@ -232,6 +232,7 @@ async function main() {
 
   await writeFile(DATA_PATH, JSON.stringify(merged, null, 2) + "\n", "utf-8");
   console.log(`Wrote ${merged.length} total article(s) to data/articles.json`);
+  process.exit(0); // force-exit: lingering keep-alive connections can otherwise stall the process
 }
 
 main().catch((err) => {
