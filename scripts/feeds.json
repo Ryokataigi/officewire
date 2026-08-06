@@ -1,4 +1,4 @@
-[
+
   { "source": "Dezeen", "url": "https://www.dezeen.com/architecture/workplace/feed/" },
   { "source": "Fast Company - Work Life", "url": "https://www.fastcompany.com/work-life/rss" },
   { "source": "Commercial Observer", "url": "https://commercialobserver.com/feed/" },
@@ -14,5 +14,7 @@
   { "source": "designboom", "url": "https://www.designboom.com/architecture/feed/" },
   { "source": "ArchDaily", "url": "https://www.archdaily.com/rss" },
   { "source": "Architizer", "url": "https://architizer.com/blog/feed" },
-  { "source": "Design Milk", "url": "https://design-milk.com/category/architecture/feed/" }
+  { "source": "Design Milk", "url": "https://design-milk.com/category/architecture/feed/" },
+  { "source": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss" }
 ]
+
