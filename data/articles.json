@@ -1,220 +1,44 @@
 [
   {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
-    "date": "2026-08-05",
-    "region": "global",
-    "category": "ai",
-    "caseStudy": false,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/commercial-real-estate-is-on-track-for-a-605-billion-investment-year-thanks-to-ai/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/The-Boutique-Workplace-Company-Selects-Yardi-Kube-Space-Management-to-Advance-Flexible-Workspace-Operations-18.jpg",
-    "i18n": {
-      "en": {
-        "title": "AI Investment Boosts Commercial Real Estate to $605 Billion in 2024",
-        "bullets": [
-          "Commercial real estate investment is projected to reach $605 billion this year, driven partly by AI-related demand.",
-          "AI infrastructure spending and reshoring trends are helping offset the drag from higher interest rates.",
-          "Data center and industrial demand tied to AI growth is supporting broader real estate resilience."
-        ]
-      },
-      "ja": {
-        "title": "AI投資が商業用不動産を押し上げ、2024年は6050億ドル規模に",
-        "bullets": [
-          "今年の商業用不動産投資額は6050億ドルに達すると予測されており、AI関連需要がその一因となっている。",
-          "AIインフラへの投資とリショアリング(製造拠点の国内回帰)の流れが、高金利による下押し圧力を相殺している。",
-          "AI成長に伴うデータセンターや産業用施設の需要が、不動産市場全体の底堅さを支えている。"
-        ]
-      },
-      "zh": {
-        "title": "AI投资推动商业地产投资规模有望达到6050亿美元",
-        "bullets": [
-          "今年商业地产投资额预计将达到6050亿美元，AI相关需求是重要推动因素之一。",
-          "AI基础设施投资和制造业回流趋势正在抵消高利率带来的负面影响。",
-          "与AI增长相关的数据中心和工业设施需求正在支撑整体房地产市场的韧性。"
-        ]
-      },
-      "ko": {
-        "title": "AI 투자에 힘입어 상업용 부동산 투자 605억 달러 규모로 성장 전망",
-        "bullets": [
-          "올해 상업용 부동산 투자액이 6050억 달러에 이를 것으로 전망되며, AI 관련 수요가 주요 요인으로 꼽힌다.",
-          "AI 인프라 투자와 리쇼어링(제조업 국내 복귀) 흐름이 고금리로 인한 부담을 상쇄하고 있다.",
-          "AI 성장과 연계된 데이터센터 및 산업용 시설 수요가 부동산 시장 전반의 회복력을 뒷받침하고 있다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
-    "date": "2026-08-05",
-    "region": "na",
-    "category": "work",
-    "caseStudy": false,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/the-u-s-labor-market-could-slow-so-much-that-losing-jobs-wont-raise-unemployment/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/2026-08-03T155644Z_310492604_MT1FORTUNEP4538901-1785626122_FRTPIP_4_FORTUNE.webp",
-    "i18n": {
-      "en": {
-        "title": "US Labor Market May Weaken Without Unemployment Rising",
-        "bullets": [
-          "A shrinking U.S. workforce means slower job growth may not translate into higher unemployment.",
-          "Demographic shifts, including lower birth rates and reduced immigration, are shrinking the labor pool.",
-          "Traditional labor market indicators like job growth may become less reliable signals of economic health."
-        ]
-      },
-      "ja": {
-        "title": "米労働市場、失業率上昇なしで減速する可能性",
-        "bullets": [
-          "米国の労働力人口の縮小により、雇用成長の鈍化が失業率上昇に直結しなくなる可能性がある。",
-          "出生率の低下や移民の減少といった人口動態の変化が労働力人口を縮小させている。",
-          "雇用成長率などの従来の労働市場指標が、経済の健全性を示す信頼できる指標ではなくなる可能性がある。"
-        ]
-      },
-      "zh": {
-        "title": "美国劳动力市场或在失业率不升的情况下放缓",
-        "bullets": [
-          "美国劳动力人口萎缩意味着就业增长放缓可能不再意味着失业率上升。",
-          "出生率下降和移民减少等人口结构变化正在缩减劳动力供给。",
-          "就业增长等传统劳动力市场指标可能不再是经济健康状况的可靠信号。"
-        ]
-      },
-      "ko": {
-        "title": "미 노동시장, 실업률 상승 없이 둔화될 수도",
-        "bullets": [
-          "미국의 노동인구 감소로 인해 고용 성장 둔화가 더 이상 실업률 상승을 의미하지 않을 수 있다.",
-          "출생률 하락과 이민 감소 등 인구 구조 변화가 노동력 공급을 줄이고 있다.",
-          "고용 성장률 같은 전통적 노동시장 지표가 경제 건전성을 나타내는 신뢰할 수 있는 신호가 아닐 수 있다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
-    "date": "2026-08-05",
-    "region": "eu",
-    "category": "design",
-    "caseStudy": true,
-    "source": "Office Snapshots",
-    "url": "https://officesnapshots.com/2026/08/05/opec-fund-offices-vienna/",
-    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/innocadopecfundvienna018paul-ott-700x933.jpg",
-    "i18n": {
-      "en": {
-        "title": "OPEC Fund Redesigns Historic Vienna Office",
-        "bullets": [
-          "The OPEC Fund's Vienna offices occupy a bourgeois Palais on Parkring completed in 1865.",
-          "The renovation blends the historic building's original architectural features with modern workplace design.",
-          "The project reflects a broader trend of adapting heritage buildings for contemporary office use in European capitals."
-        ]
-      },
-      "ja": {
-        "title": "OPECファンド、ウィーンの歴史的建築をオフィスに改装",
-        "bullets": [
-          "OPECファンドのウィーン事務所は、1865年に完成したパークリング沿いの由緒あるパレ(邸宅)に入居している。",
-          "改装では、建物の歴史的な建築要素と現代的なオフィスデザインが融合されている。",
-          "この事例は、欧州の主要都市で歴史的建築物を現代のオフィス用途に転用する潮流を反映している。"
-        ]
-      },
-      "zh": {
-        "title": "OPEC基金将维也纳历史建筑改造为办公室",
-        "bullets": [
-          "OPEC基金的维也纳办公室位于1865年建成的Parkring大道上的一座资产阶级府邸。",
-          "此次改造将建筑原有的历史建筑特色与现代办公设计相结合。",
-          "该项目体现了欧洲主要城市将历史建筑改造为现代办公空间的更广泛趋势。"
-        ]
-      },
-      "ko": {
-        "title": "OPEC 펀드, 빈의 역사적 건물을 오피스로 리모델링",
-        "bullets": [
-          "OPEC 펀드의 빈 사무실은 1865년에 완공된 파크링 소재의 부르주아 저택에 위치해 있다.",
-          "이번 리모델링은 건물의 역사적인 건축 요소와 현대적인 오피스 디자인을 결합했다.",
-          "이 프로젝트는 유럽 주요 도시에서 역사적 건물을 현대적 오피스 공간으로 재활용하는 광범위한 흐름을 보여준다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
-    "date": "2026-08-05",
-    "region": "na",
-    "category": "work",
-    "caseStudy": false,
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/return-to-office-momentum-first-half-2026-report/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/08/GettyImages-1125239521.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
-    "i18n": {
-      "en": {
-        "title": "US Return-to-Office Momentum Accelerates in First Half of 2026",
-        "bullets": [
-          "Office visits nationwide rose 6% year-over-year in the first half of 2026, per Placer.ai foot-traffic data.",
-          "The period recorded the narrowest gap from pre-pandemic office attendance levels seen so far.",
-          "The report notes uneven recovery across cities, with some markets rebounding faster than others."
-        ]
-      },
-      "ja": {
-        "title": "2026年上半期、米国のオフィス回帰が加速",
-        "bullets": [
-          "Placer.aiの人流データによると、2026年上半期の全米オフィス来訪数は前年比6%増加した。",
-          "この半年間はパンデミック前の水準との差が過去最小となった。",
-          "都市ごとの回復ペースには差があり、一様な傾向ではないと報告書は指摘している。"
-        ]
-      },
-      "zh": {
-        "title": "2026年上半年美国办公室复工势头加强",
-        "bullets": [
-          "据Placer.ai客流数据显示，2026年上半年全美办公室到访量同比增长6%。",
-          "该时期与疫情前水平的差距为历来最小。",
-          "报告指出，各城市复苏步伐并不均衡，呈现“双城记”态势。"
-        ]
-      },
-      "ko": {
-        "title": "2026년 상반기 미국 사무실 복귀 흐름 가속",
-        "bullets": [
-          "Placer.ai 유동인구 데이터에 따르면 2026년 상반기 전국 사무실 방문건수가 전년 대비 6% 증가했다.",
-          "이 기간 팬데믹 이전 수준과의 격차가 역대 최소치를 기록했다.",
-          "보고서는 도시별로 회복 속도가 크게 엇갈리는 양상을 보였다고 지적했다."
-        ]
-      }
-    }
-  },
-  {
     "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
     "date": "2026-08-05",
     "region": "global",
-    "category": "ai",
+    "category": "culture",
     "caseStudy": false,
     "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91581240/your-old-role-isnt-coming-back?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91581240-Work-Life-CN-Your-old-role-isnt-coming-back.jpg",
+    "url": "https://www.fastcompany.com/91583135/emotional-resilience-is-becoming-the-most-valuable-skill-heres-why?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91583135-Work-Life-Emotional-resilience-is-becoming-the-most-valuable-skill.jpg",
     "i18n": {
       "en": {
-        "title": "AI-driven cuts are eliminating middle-manager roles, not just jobs",
+        "title": "Global workforce stress hits record high, Gallup finds",
         "bullets": [
-          "Middle managers made up nearly a third of 2023 layoffs, up from about 20% five years earlier.",
-          "Gartner predicted 20% of organizations would use AI to flatten structures by 2026, cutting over half of middle-management roles.",
-          "Gallup data show direct reports per manager rose from 10.9 in 2024 to 12.1 in 2025, a nearly 50% increase since 2013."
+          "Gallup's State of the Global Workplace 2026 report found 44% of workers report significant daily stress.",
+          "A separate Gallup report shows the Negative Experience Index at its highest level in over a decade.",
+          "The article argues emotional resilience, built through introspection, is becoming a critical workplace skill amid rising burnout."
         ]
       },
       "ja": {
-        "title": "AI活用で中間管理職の「役職そのもの」が消えつつある",
+        "title": "世界の労働者のストレスが過去最高に、ギャラップ調査",
         "bullets": [
-          "2023年のレイオフのほぼ3分の1を中間管理職が占め、5年前の約20%から増加した。",
-          "ガートナーは2026年までに企業の20%がAIで組織を平坦化し、中間管理職の半数以上を削減すると予測している。",
-          "ギャラップの調査では、管理者1人当たりの直属部下数が2024年の10.9人から2025年には12.1人に増加し、2013年比で約50%増となった。"
+          "ギャラップの「State of the Global Workplace 2026」報告書によると、労働者の44%が日常的に強いストレスを感じている。",
+          "別のギャラップ調査では、ネガティブ経験指数が過去10年余りで最高値を記録した。",
+          "記事は、燃え尽きが広がる中、内省を通じて培う情緒的レジリエンスが重要なスキルになりつつあると指摘している。"
         ]
       },
       "zh": {
-        "title": "AI驱动的裁员正在消灭中层管理岗位而非仅是职位",
+        "title": "盖洛普调查:全球职场压力创历史新高",
         "bullets": [
-          "2023年裁员中,中层管理者占比近三分之一,而五年前约为20%。",
-          "Gartner预测到2026年,20%的企业将利用AI精简组织结构,削减一半以上的中层管理职位。",
-          "盖洛普数据显示,每位管理者的直接下属人数从2024年的10.9人增至2025年的12.1人,较2013年增长近50%。"
+          "盖洛普《2026全球职场状况报告》显示,44%的员工表示每天承受较大压力。",
+          "另一份盖洛普报告显示,负面体验指数达到十多年来的最高水平。",
+          "文章指出,在职场倦怠加剧之际,通过自省培养情绪韧性正成为一项关键技能。"
         ]
       },
       "ko": {
-        "title": "AI 주도 감원으로 중간관리자 '직책' 자체가 사라지고 있다",
+        "title": "갤럽 조사, 전 세계 직장인 스트레스 사상 최고치",
         "bullets": [
-          "2023년 정리해고의 거의 3분의 1이 중간관리자였으며, 5년 전 약 20%에서 증가했다.",
-          "가트너는 2026년까지 조직의 20%가 AI로 조직을 수평화하여 중간관리직의 절반 이상을 없앨 것으로 예측했다.",
-          "갤럽 데이터에 따르면 관리자 1인당 직속 부하 수가 2024년 10.9명에서 2025년 12.1명으로 늘어 2013년 대비 약 50% 증가했다."
+          "갤럽의 '2026 글로벌 워크플레이스 현황' 보고서에 따르면 근로자의 44%가 일상적으로 큰 스트레스를 겪고 있다.",
+          "또 다른 갤럽 보고서에 따르면 부정적 경험 지수가 10여 년 만에 최고치를 기록했다.",
+          "기사는 번아웃이 확산되는 가운데 자기성찰을 통한 정서적 회복력이 핵심 역량으로 부상하고 있다고 분석한다."
         ]
       }
     }
@@ -267,42 +91,350 @@
     "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
     "date": "2026-08-05",
     "region": "global",
-    "category": "culture",
+    "category": "ai",
     "caseStudy": false,
     "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91583135/emotional-resilience-is-becoming-the-most-valuable-skill-heres-why?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91583135-Work-Life-Emotional-resilience-is-becoming-the-most-valuable-skill.jpg",
+    "url": "https://www.fastcompany.com/91581240/your-old-role-isnt-coming-back?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/07/p-1-91581240-Work-Life-CN-Your-old-role-isnt-coming-back.jpg",
     "i18n": {
       "en": {
-        "title": "Global workforce stress hits record high, Gallup finds",
+        "title": "AI-driven cuts are eliminating middle-manager roles, not just jobs",
         "bullets": [
-          "Gallup's State of the Global Workplace 2026 report found 44% of workers report significant daily stress.",
-          "A separate Gallup report shows the Negative Experience Index at its highest level in over a decade.",
-          "The article argues emotional resilience, built through introspection, is becoming a critical workplace skill amid rising burnout."
+          "Middle managers made up nearly a third of 2023 layoffs, up from about 20% five years earlier.",
+          "Gartner predicted 20% of organizations would use AI to flatten structures by 2026, cutting over half of middle-management roles.",
+          "Gallup data show direct reports per manager rose from 10.9 in 2024 to 12.1 in 2025, a nearly 50% increase since 2013."
         ]
       },
       "ja": {
-        "title": "世界の労働者のストレスが過去最高に、ギャラップ調査",
+        "title": "AI活用で中間管理職の「役職そのもの」が消えつつある",
         "bullets": [
-          "ギャラップの「State of the Global Workplace 2026」報告書によると、労働者の44%が日常的に強いストレスを感じている。",
-          "別のギャラップ調査では、ネガティブ経験指数が過去10年余りで最高値を記録した。",
-          "記事は、燃え尽きが広がる中、内省を通じて培う情緒的レジリエンスが重要なスキルになりつつあると指摘している。"
+          "2023年のレイオフのほぼ3分の1を中間管理職が占め、5年前の約20%から増加した。",
+          "ガートナーは2026年までに企業の20%がAIで組織を平坦化し、中間管理職の半数以上を削減すると予測している。",
+          "ギャラップの調査では、管理者1人当たりの直属部下数が2024年の10.9人から2025年には12.1人に増加し、2013年比で約50%増となった。"
         ]
       },
       "zh": {
-        "title": "盖洛普调查:全球职场压力创历史新高",
+        "title": "AI驱动的裁员正在消灭中层管理岗位而非仅是职位",
         "bullets": [
-          "盖洛普《2026全球职场状况报告》显示,44%的员工表示每天承受较大压力。",
-          "另一份盖洛普报告显示,负面体验指数达到十多年来的最高水平。",
-          "文章指出,在职场倦怠加剧之际,通过自省培养情绪韧性正成为一项关键技能。"
+          "2023年裁员中,中层管理者占比近三分之一,而五年前约为20%。",
+          "Gartner预测到2026年,20%的企业将利用AI精简组织结构,削减一半以上的中层管理职位。",
+          "盖洛普数据显示,每位管理者的直接下属人数从2024年的10.9人增至2025年的12.1人,较2013年增长近50%。"
         ]
       },
       "ko": {
-        "title": "갤럽 조사, 전 세계 직장인 스트레스 사상 최고치",
+        "title": "AI 주도 감원으로 중간관리자 '직책' 자체가 사라지고 있다",
         "bullets": [
-          "갤럽의 '2026 글로벌 워크플레이스 현황' 보고서에 따르면 근로자의 44%가 일상적으로 큰 스트레스를 겪고 있다.",
-          "또 다른 갤럽 보고서에 따르면 부정적 경험 지수가 10여 년 만에 최고치를 기록했다.",
-          "기사는 번아웃이 확산되는 가운데 자기성찰을 통한 정서적 회복력이 핵심 역량으로 부상하고 있다고 분석한다."
+          "2023년 정리해고의 거의 3분의 1이 중간관리자였으며, 5년 전 약 20%에서 증가했다.",
+          "가트너는 2026년까지 조직의 20%가 AI로 조직을 수평화하여 중간관리직의 절반 이상을 없앨 것으로 예측했다.",
+          "갤럽 데이터에 따르면 관리자 1인당 직속 부하 수가 2024년 10.9명에서 2025년 12.1명으로 늘어 2013년 대비 약 50% 증가했다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-08-05",
+    "region": "na",
+    "category": "work",
+    "caseStudy": false,
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/08/return-to-office-momentum-first-half-2026-report/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/08/GettyImages-1125239521.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
+    "i18n": {
+      "en": {
+        "title": "US Return-to-Office Momentum Accelerates in First Half of 2026",
+        "bullets": [
+          "Office visits nationwide rose 6% year-over-year in the first half of 2026, per Placer.ai foot-traffic data.",
+          "The period recorded the narrowest gap from pre-pandemic office attendance levels seen so far.",
+          "The report notes uneven recovery across cities, with some markets rebounding faster than others."
+        ]
+      },
+      "ja": {
+        "title": "2026年上半期、米国のオフィス回帰が加速",
+        "bullets": [
+          "Placer.aiの人流データによると、2026年上半期の全米オフィス来訪数は前年比6%増加した。",
+          "この半年間はパンデミック前の水準との差が過去最小となった。",
+          "都市ごとの回復ペースには差があり、一様な傾向ではないと報告書は指摘している。"
+        ]
+      },
+      "zh": {
+        "title": "2026年上半年美国办公室复工势头加强",
+        "bullets": [
+          "据Placer.ai客流数据显示，2026年上半年全美办公室到访量同比增长6%。",
+          "该时期与疫情前水平的差距为历来最小。",
+          "报告指出，各城市复苏步伐并不均衡，呈现“双城记”态势。"
+        ]
+      },
+      "ko": {
+        "title": "2026년 상반기 미국 사무실 복귀 흐름 가속",
+        "bullets": [
+          "Placer.ai 유동인구 데이터에 따르면 2026년 상반기 전국 사무실 방문건수가 전년 대비 6% 증가했다.",
+          "이 기간 팬데믹 이전 수준과의 격차가 역대 최소치를 기록했다.",
+          "보고서는 도시별로 회복 속도가 크게 엇갈리는 양상을 보였다고 지적했다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
+    "date": "2026-08-05",
+    "region": "eu",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Office Snapshots",
+    "url": "https://officesnapshots.com/2026/08/05/opec-fund-offices-vienna/",
+    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/innocadopecfundvienna018paul-ott-700x933.jpg",
+    "i18n": {
+      "en": {
+        "title": "OPEC Fund Redesigns Historic Vienna Office",
+        "bullets": [
+          "The OPEC Fund's Vienna offices occupy a bourgeois Palais on Parkring completed in 1865.",
+          "The renovation blends the historic building's original architectural features with modern workplace design.",
+          "The project reflects a broader trend of adapting heritage buildings for contemporary office use in European capitals."
+        ]
+      },
+      "ja": {
+        "title": "OPECファンド、ウィーンの歴史的建築をオフィスに改装",
+        "bullets": [
+          "OPECファンドのウィーン事務所は、1865年に完成したパークリング沿いの由緒あるパレ(邸宅)に入居している。",
+          "改装では、建物の歴史的な建築要素と現代的なオフィスデザインが融合されている。",
+          "この事例は、欧州の主要都市で歴史的建築物を現代のオフィス用途に転用する潮流を反映している。"
+        ]
+      },
+      "zh": {
+        "title": "OPEC基金将维也纳历史建筑改造为办公室",
+        "bullets": [
+          "OPEC基金的维也纳办公室位于1865年建成的Parkring大道上的一座资产阶级府邸。",
+          "此次改造将建筑原有的历史建筑特色与现代办公设计相结合。",
+          "该项目体现了欧洲主要城市将历史建筑改造为现代办公空间的更广泛趋势。"
+        ]
+      },
+      "ko": {
+        "title": "OPEC 펀드, 빈의 역사적 건물을 오피스로 리모델링",
+        "bullets": [
+          "OPEC 펀드의 빈 사무실은 1865년에 완공된 파크링 소재의 부르주아 저택에 위치해 있다.",
+          "이번 리모델링은 건물의 역사적인 건축 요소와 현대적인 오피스 디자인을 결합했다.",
+          "이 프로젝트는 유럽 주요 도시에서 역사적 건물을 현대적 오피스 공간으로 재활용하는 광범위한 흐름을 보여준다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-05",
+    "region": "na",
+    "category": "work",
+    "caseStudy": false,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/the-u-s-labor-market-could-slow-so-much-that-losing-jobs-wont-raise-unemployment/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/2026-08-03T155644Z_310492604_MT1FORTUNEP4538901-1785626122_FRTPIP_4_FORTUNE.webp",
+    "i18n": {
+      "en": {
+        "title": "US Labor Market May Weaken Without Unemployment Rising",
+        "bullets": [
+          "A shrinking U.S. workforce means slower job growth may not translate into higher unemployment.",
+          "Demographic shifts, including lower birth rates and reduced immigration, are shrinking the labor pool.",
+          "Traditional labor market indicators like job growth may become less reliable signals of economic health."
+        ]
+      },
+      "ja": {
+        "title": "米労働市場、失業率上昇なしで減速する可能性",
+        "bullets": [
+          "米国の労働力人口の縮小により、雇用成長の鈍化が失業率上昇に直結しなくなる可能性がある。",
+          "出生率の低下や移民の減少といった人口動態の変化が労働力人口を縮小させている。",
+          "雇用成長率などの従来の労働市場指標が、経済の健全性を示す信頼できる指標ではなくなる可能性がある。"
+        ]
+      },
+      "zh": {
+        "title": "美国劳动力市场或在失业率不升的情况下放缓",
+        "bullets": [
+          "美国劳动力人口萎缩意味着就业增长放缓可能不再意味着失业率上升。",
+          "出生率下降和移民减少等人口结构变化正在缩减劳动力供给。",
+          "就业增长等传统劳动力市场指标可能不再是经济健康状况的可靠信号。"
+        ]
+      },
+      "ko": {
+        "title": "미 노동시장, 실업률 상승 없이 둔화될 수도",
+        "bullets": [
+          "미국의 노동인구 감소로 인해 고용 성장 둔화가 더 이상 실업률 상승을 의미하지 않을 수 있다.",
+          "출생률 하락과 이민 감소 등 인구 구조 변화가 노동력 공급을 줄이고 있다.",
+          "고용 성장률 같은 전통적 노동시장 지표가 경제 건전성을 나타내는 신뢰할 수 있는 신호가 아닐 수 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-05",
+    "region": "global",
+    "category": "ai",
+    "caseStudy": false,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/commercial-real-estate-is-on-track-for-a-605-billion-investment-year-thanks-to-ai/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/The-Boutique-Workplace-Company-Selects-Yardi-Kube-Space-Management-to-Advance-Flexible-Workspace-Operations-18.jpg",
+    "i18n": {
+      "en": {
+        "title": "AI Investment Boosts Commercial Real Estate to $605 Billion in 2024",
+        "bullets": [
+          "Commercial real estate investment is projected to reach $605 billion this year, driven partly by AI-related demand.",
+          "AI infrastructure spending and reshoring trends are helping offset the drag from higher interest rates.",
+          "Data center and industrial demand tied to AI growth is supporting broader real estate resilience."
+        ]
+      },
+      "ja": {
+        "title": "AI投資が商業用不動産を押し上げ、2024年は6050億ドル規模に",
+        "bullets": [
+          "今年の商業用不動産投資額は6050億ドルに達すると予測されており、AI関連需要がその一因となっている。",
+          "AIインフラへの投資とリショアリング(製造拠点の国内回帰)の流れが、高金利による下押し圧力を相殺している。",
+          "AI成長に伴うデータセンターや産業用施設の需要が、不動産市場全体の底堅さを支えている。"
+        ]
+      },
+      "zh": {
+        "title": "AI投资推动商业地产投资规模有望达到6050亿美元",
+        "bullets": [
+          "今年商业地产投资额预计将达到6050亿美元，AI相关需求是重要推动因素之一。",
+          "AI基础设施投资和制造业回流趋势正在抵消高利率带来的负面影响。",
+          "与AI增长相关的数据中心和工业设施需求正在支撑整体房地产市场的韧性。"
+        ]
+      },
+      "ko": {
+        "title": "AI 투자에 힘입어 상업용 부동산 투자 605억 달러 규모로 성장 전망",
+        "bullets": [
+          "올해 상업용 부동산 투자액이 6050억 달러에 이를 것으로 전망되며, AI 관련 수요가 주요 요인으로 꼽힌다.",
+          "AI 인프라 투자와 리쇼어링(제조업 국내 복귀) 흐름이 고금리로 인한 부담을 상쇄하고 있다.",
+          "AI 성장과 연계된 데이터센터 및 산업용 시설 수요가 부동산 시장 전반의 회복력을 뒷받침하고 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-05",
+    "region": "na",
+    "category": "estate",
+    "caseStudy": true,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/premier-workspaces-expands-seattle-area-presence-with-new-bellevue-flexible-workspace-location/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/image007.webp",
+    "i18n": {
+      "en": {
+        "title": "Premier Workspaces Opens New Flexible Office Location in Bellevue",
+        "bullets": [
+          "Premier Workspaces, a major privately owned flexible office operator, opened a new location at 11808 Northup Way, Suite 300, in Bellevue, Washington.",
+          "The move expands the company's presence in the Seattle metropolitan area.",
+          "The new site adds to Premier Workspaces' portfolio of flexible office locations across the U.S."
+        ]
+      },
+      "ja": {
+        "title": "プレミア・ワークスペース、ベルビューに新たなフレキシブルオフィスを開設",
+        "bullets": [
+          "米国最大級の民間フレキシブルオフィス運営会社プレミア・ワークスペースが、ワシントン州ベルビューの新拠点(11808 Northup Way, Suite 300)を開設した。",
+          "この開設によりシアトル都市圏での事業展開が拡大する。",
+          "同社は米国内でフレキシブルオフィス拠点のポートフォリオを拡大している。"
+        ]
+      },
+      "zh": {
+        "title": "Premier Workspaces在贝尔维尤开设新的灵活办公空间",
+        "bullets": [
+          "美国最大的私营灵活办公空间运营商之一Premier Workspaces在华盛顿州贝尔维尤(地址：11808 Northup Way, Suite 300)开设了新址。",
+          "此举扩大了该公司在西雅图都会区的业务布局。",
+          "新地点是该公司在美国灵活办公空间组合的最新扩充。"
+        ]
+      },
+      "ko": {
+        "title": "프리미어 워크스페이스, 벨뷰에 새로운 유연 오피스 개설",
+        "bullets": [
+          "미국 최대 민간 유연 오피스 운영업체 중 하나인 프리미어 워크스페이스가 워싱턴주 벨뷰(11808 Northup Way, Suite 300)에 신규 지점을 개설했다.",
+          "이번 개설로 시애틀 광역권에서의 사업 영역이 확대된다.",
+          "이 신규 지점은 미국 내 유연 오피스 포트폴리오에 추가되는 곳이다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-05",
+    "region": "na",
+    "category": "ai",
+    "caseStudy": false,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/ai-is-starting-to-push-young-workers-out-of-the-job-market-according-to-morgan-stanley/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/Featured-Images-2026-08-05T120936.513.webp",
+    "i18n": {
+      "en": {
+        "title": "Morgan Stanley: AI Beginning to Displace Young Workers",
+        "bullets": [
+          "Morgan Stanley research finds AI's overall effect on unemployment is still limited but growing.",
+          "Younger workers, especially recent graduates, are experiencing the sharpest job market impacts from AI adoption.",
+          "The findings suggest entry-level roles are increasingly vulnerable as companies automate tasks traditionally given to junior staff."
+        ]
+      },
+      "ja": {
+        "title": "モルガン・スタンレー、AIが若年労働者を雇用市場から排除し始めていると指摘",
+        "bullets": [
+          "モルガン・スタンレーの調査によると、AIが失業率全体に与える影響は今のところ限定的だが拡大しつつある。",
+          "特に新卒者を含む若年労働者が、AI導入による雇用市場への影響を最も強く受けている。",
+          "企業が若手が担ってきた業務を自動化する動きが進み、エントリーレベルの職が脆弱になっていることが示された。"
+        ]
+      },
+      "zh": {
+        "title": "摩根士丹利:AI正开始将年轻员工挤出就业市场",
+        "bullets": [
+          "摩根士丹利的研究显示，AI对整体失业率的影响目前仍较有限，但正在扩大。",
+          "年轻员工，尤其是刚毕业的求职者，受到AI带来的就业市场冲击最为明显。",
+          "研究表明，随着企业将初级员工的工作任务自动化，入门级岗位正变得越来越脆弱。"
+        ]
+      },
+      "ko": {
+        "title": "모건스탠리 \"AI, 청년 근로자를 고용시장에서 밀어내기 시작\"",
+        "bullets": [
+          "모건스탠리 조사에 따르면 AI가 전체 실업률에 미치는 영향은 아직 제한적이지만 점차 커지고 있다.",
+          "특히 신입 및 젊은 근로자들이 AI 도입에 따른 고용시장 영향을 가장 크게 받고 있다.",
+          "기업들이 신입 직원이 맡던 업무를 자동화하면서 초급 직급 일자리가 취약해지고 있는 것으로 나타났다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "date": "2026-08-04",
+    "region": "global",
+    "category": "culture",
+    "caseStudy": false,
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91583115/these-are-the-3-things-that-are-actually-burning-you-out-and-only-one-is-your-boss?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91583115-3-things-actually-burning-you-out-at-work.jpg",
+    "i18n": {
+      "en": {
+        "title": "Burnout Is Driven by Three Cultural Forces, Not Just Bad Bosses",
+        "bullets": [
+          "The WHO defines burnout as chronic workplace stress that hasn't been managed well, distinct from short-term overwork.",
+          "A workplace culture researcher identifies three converging forces behind burnout: societal culture, organizational culture, and leadership behavior.",
+          "The article argues employers must address all three root causes simultaneously rather than blaming managers alone."
+        ]
+      },
+      "ja": {
+        "title": "燃え尽き症候群、原因は上司だけではない3つの文化的要因",
+        "bullets": [
+          "WHOはバーンアウトを「適切に管理されなかった慢性的な職場のストレスによる症候群」と定義している。",
+          "研究者は、社会文化・組織文化・リーダーシップという3つの要因が重なり合ってバーンアウトを生むと指摘する。",
+          "記事は、上司個人を責めるのではなく、これら3つの根本原因を同時に解決すべきだと主張している。"
+        ]
+      },
+      "zh": {
+        "title": "职场倦怠的根源不只是老板,还有三种文化力量",
+        "bullets": [
+          "世界卫生组织将职业倦怠定义为长期未妥善管理的职场压力所导致的综合症。",
+          "研究者指出,社会文化、组织文化和领导行为这三种力量共同作用,造成了职业倦怠。",
+          "文章认为,企业应同时应对这三个根本原因,而不能只归咎于管理者个人。"
+        ]
+      },
+      "ko": {
+        "title": "번아웃의 원인은 상사만이 아니다, 세 가지 문화적 요인",
+        "bullets": [
+          "세계보건기구(WHO)는 번아웃을 제대로 관리되지 않은 만성적 직장 스트레스로 인한 증후군으로 정의한다.",
+          "연구자는 사회 문화, 조직 문화, 리더십 행동이라는 세 가지 요인이 겹쳐 번아웃을 만든다고 지적한다.",
+          "기사는 관리자 개인을 탓하기보다 이 세 가지 근본 원인을 동시에 해결해야 한다고 주장한다."
         ]
       }
     }
@@ -311,350 +443,86 @@
     "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
     "date": "2026-08-04",
     "region": "na",
-    "category": "estate",
+    "category": "ai",
     "caseStudy": false,
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/munish-viralam-newmark-5-questions/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/08/Newmark_Group_Munish_Viralam-credit-Newmark-WEB.jpg?quality=80&amp;crop=0px%2C287px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
+    "url": "https://commercialobserver.com/2026/08/duxre-ai-brief/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/funnel-info-AdobeStock_808230078-WEB.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "Newmark Hires CBRE Veteran to Lead Real Estate Strategy Group",
+        "title": "CRE Platform Duxre Launches AI Brief Tool for Deal Data",
         "bullets": [
-          "Munish Viralam joined Newmark in June after 18 years at CBRE.",
-          "As executive vice chairman, he leads Newmark's newly centralized real estate strategy and consulting group.",
-          "His role focuses on helping corporate tenants navigate real estate strategy and lease negotiations."
+          "Duxre, a Santa Monica-based commercial real estate deal platform founded in 2020, launched a new tool called AI Brief.",
+          "The system converts unstructured sales and leasing data into a format readable by large language models.",
+          "Duxre is a subscription platform aimed at helping CRE brokers streamline data to improve transactions."
         ]
       },
       "ja": {
-        "title": "ニューマーク、CBRE出身のベテランを不動産戦略部門トップに起用",
+        "title": "CREプラットフォームDuxreがAI Brief機能を発表",
         "bullets": [
-          "ムニッシュ・ヴィラーラム氏は18年間のCBRE勤務を経て、6月にニューマークに入社した。",
-          "エグゼクティブ・バイスチェアマンとして、新設された不動産戦略・コンサルティング部門を統括する。",
-          "法人テナントが不動産戦略や賃貸交渉を進める際の支援を主な役割としている。"
+          "2020年創業、サンタモニカ拠点の商業用不動産取引プラットフォームDuxreが新機能「AI Brief」を発表した。",
+          "このシステムは非構造化の売買・�リース データを大規模言語モデル(LLM)が読み取れる形式に変換する。",
+          "Duxreはサブスクリプション型プラットフォームで、CREブローカーの取引効率化を支援することを目的としている。"
         ]
       },
       "zh": {
-        "title": "世邦仕达资深人士加盟纽马克 领导房地产战略团队",
+        "title": "商业地产平台Duxre推出AI Brief工具",
         "bullets": [
-          "穆尼什·维拉拉姆在世邦魏理仕工作18年后,于6月加入纽马克。",
-          "作为执行副董事长,他将领导纽马克新设立的集中式房地产战略与咨询团队。",
-          "其职责是帮助企业租户应对复杂的房地产战略规划与租约谈判。"
+          "总部位于圣莫尼卡、成立于2020年的商业地产交易平台Duxre推出了新工具“AI Brief”。",
+          "该系统可将非结构化的销售和租赁数据转换为大语言模型(LLM)可读的格式。",
+          "Duxre是一款订阅制平台,旨在帮助商业地产经纪人整理数据、提升交易效率。"
         ]
       },
       "ko": {
-        "title": "뉴마크, CBRE 출신 베테랑 영입해 부동산 전략 부문 이끌게 해",
+        "title": "상업용 부동산 플랫폼 Duxre, AI 브리프 출시",
         "bullets": [
-          "무니시 비랄람은 CBRE에서 18년간 근무한 뒤 6월 뉴마크에 합류했다.",
-          "그는 총괄부회장으로서 새롭게 중앙집중화된 부동산 전략 및 컨설팅 그룹을 이끈다.",
-          "그의 역할은 기업 임차인들이 복잡한 부동산 전략과 임대 협상을 헤쳐나가도록 돕는 것이다."
+          "2020년 설립된 산타모니카 기반 상업용 부동산 거래 플랫폼 Duxre가 새로운 도구 'AI Brief'를 출시했다.",
+          "이 시스템은 비정형 매매 및 임대 데이터를 대형언어모델(LLM)이 읽을 수 있는 형식으로 변환한다.",
+          "Duxre는 구독형 플랫폼으로, 상업용 부동산 중개인의 데이터 처리와 거래 효율성 향상을 지원한다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
-    "date": "2026-08-04",
-    "region": "eu",
-    "category": "estate",
-    "caseStudy": true,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/iwg-acquires-french-coworking-operator-wojo-to-expand-european-footprint/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/Featured-Images-2026-08-04T113210.172.webp",
-    "i18n": {
-      "en": {
-        "title": "IWG Acquires French Coworking Operator Wojo",
-        "bullets": [
-          "IWG, the global flexible workspace giant, has acquired French coworking operator Wojo.",
-          "The acquisition adds 17 coworking centers to IWG's European network.",
-          "The deal strengthens IWG's footprint in France as part of its broader European expansion strategy."
-        ]
-      },
-      "ja": {
-        "title": "IWG、フランスのコワーキング事業者Wojoを買収",
-        "bullets": [
-          "世界的なフレキシブルオフィス大手IWGが、フランスのコワーキング事業者Wojoを買収した。",
-          "この買収によりIWGの欧州ネットワークに17拠点が加わる。",
-          "今回の買収は、IWGの欧州展開戦略の一環としてフランスでの事業基盤を強化するものである。"
-        ]
-      },
-      "zh": {
-        "title": "IWG收购法国共享办公运营商Wojo",
-        "bullets": [
-          "全球灵活办公空间巨头IWG收购了法国共享办公运营商Wojo。",
-          "此次收购为IWG的欧洲网络增加了17个共享办公中心。",
-          "该交易强化了IWG在法国的业务布局,是其欧洲扩张战略的一部分。"
-        ]
-      },
-      "ko": {
-        "title": "IWG, 프랑스 코워킹 업체 Wojo 인수",
-        "bullets": [
-          "글로벌 유연 오피스 기업 IWG가 프랑스 코워킹 운영업체 Wojo를 인수했다.",
-          "이번 인수로 IWG의 유럽 네트워크에 17개 센터가 추가된다.",
-          "이번 거래는 IWG의 유럽 확장 전략의 일환으로 프랑스 내 입지를 강화한다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
     "date": "2026-08-04",
     "region": "global",
-    "category": "work",
+    "category": "ai",
     "caseStudy": false,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/the-future-of-hybrid-work-requires-better-leadership-with-ranya-nehmeh/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/The-Future-of-Hybrid-Work-Requires-Better-Leadership-with-Ranya-Nehmeh.webp",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/08/property-managers-pulling-ahead-arent-working-harder-theyre-managing-differently/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/AppFolio_ALL_RES_2026_July_Commercial_Observer_Article_Cover_750x480.jpg?quality=80&amp;w=750&amp;h=480&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "Hybrid Work's Success Hinges on Better Leadership, Says HR Strategist",
+        "title": "AI Adoption Gap Separates Top-Performing Property Managers",
         "bullets": [
-          "HR strategist Ranya Nehmeh argues that leadership quality, not location policy, determines hybrid work success.",
-          "She links strong leadership and workplace flexibility to improved talent attraction and retention.",
-          "The discussion highlights how leadership approaches affect organizational performance in flexible work models."
+          "A 2026 PwC study finds that full organizational buy-in on AI adoption, not just usage, separates high-growth property management firms from others.",
+          "Companies with company-wide commitment to AI tools show significantly greater profitability and growth than partial adopters.",
+          "The gap between firms fully embracing AI and those using it superficially is described as substantial rather than marginal."
         ]
       },
       "ja": {
-        "title": "ハイブリッドワークの成否はリーダーシップ次第、HR戦略家が指摘",
+        "title": "AI活用の本気度が不動産管理会社の業績を左右",
         "bullets": [
-          "HR戦略家のラーニャ・ネメ氏は、勤務場所の方針よりリーダーシップの質がハイブリッドワークの成否を左右すると指摘する。",
-          "強力なリーダーシップと働き方の柔軟性が人材の獲得・維持力向上につながると論じている。",
-          "柔軟な働き方モデルにおいて、リーダーシップの取り方が組織のパフォーマンスに影響することが議論されている。"
+          "2026年のPwC調査によると、AI導入で成果を上げる不動産管理会社とそうでない会社の差は、全社的な本気の取り組みにあるという。",
+          "AIツールへの全社的なコミットメントがある企業は、部分的導入にとどまる企業より収益性と成長率が大幅に高い。",
+          "AIを本格的に活用する企業と表面的にしか使わない企業との差は、わずかではなく非常に大きいとされている。"
         ]
       },
       "zh": {
-        "title": "人力资源专家：混合办公成功关键在于领导力提升",
+        "title": "物业管理公司AI应用力度决定业绩差距",
         "bullets": [
-          "人力资源战略专家拉尼亚·内梅指出，混合办公的成功取决于领导力质量而非办公地点政策。",
-          "她认为优秀的领导力与工作灵活性有助于提升人才吸引力和留任率。",
-          "该讨论强调了在灵活工作模式下，领导方式如何影响组织绩效。"
+          "2026年普华永道的一项研究发现，物业管理公司在AI应用上是否全公司投入，是高增长企业与其他企业的关键区别。",
+          "全公司致力于AI工具的企业，其盈利能力和增长率明显高于部分采用的企业。",
+          "全面拥抱AI与仅表面使用AI的企业之间的差距被描述为巨大而非微小。"
         ]
       },
       "ko": {
-        "title": "하이브리드 근무 성공의 핵심은 리더십, HR 전문가 지적",
+        "title": "AI 도입 몰입도가 부동산 관리회사 실적 좌우",
         "bullets": [
-          "HR 전략가 라니아 네메는 근무지 정책보다 리더십의 질이 하이브리드 근무의 성패를 좌우한다고 주장한다.",
-          "그녀는 강력한 리더십과 근무 유연성이 인재 유치 및 유지에 도움이 된다고 설명한다.",
-          "이번 논의는 유연 근무 모델에서 리더십 방식이 조직 성과에 미치는 영향을 다룬다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
-    "date": "2026-08-04",
-    "region": "global",
-    "category": "culture",
-    "caseStudy": false,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/neck-maxxing-wont-save-you-from-tech-neck-but-better-ergonomics-at-work-might/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/Neck-Maxxing-Wont-Save-You-From-Tech-Neck-But-Better-Ergonomics-At-Work-Might.webp",
-    "i18n": {
-      "en": {
-        "title": "“Neck-Maxxing” Trend Ignores Real Fix for Tech Neck: Better Ergonomics",
-        "bullets": [
-          "The social media trend “neck-maxxing” focuses on cosmetic exercises to reduce neck wrinkles from device use.",
-          "Experts say the underlying cause of tech neck is poor posture and inadequate workplace ergonomics, not skin appearance.",
-          "Improving desk setups, monitor height, and screen habits is recommended as a more effective long-term solution."
-        ]
-      },
-      "ja": {
-        "title": "「ネキマガリング」はハィティボーゼの解決にならず、必要なのは人間工学の改善",
-        "bullets": [
-          "SNSで話題の「ネックマキシング」は、デバイス使用によるシワ対策の美容エクササイズに焦点を当てている。",
-          "専門家によると、テックネックの本質的な原因は姿勢の悪さや職場の人間工学的環境の不備であり、見た目の問題ではない。",
-          "デスクの配置やモニターの高さ、画面の使用習慣を改善することが、より効果的な長期的解決策とされている。"
-        ]
-      },
-      "zh": {
-        "title": "“颈部特训”无法解决“科技颈”,真正解药是改善办公人体工学",
-        "bullets": [
-          "社交媒体流行的“颈部特训”主要关注通过美容锻炼减少因使用电子设备造成的颈部皱纹。",
-          "专家指出，科技颈的根本原因是姿势不良和办公场所人体工学设计不足，而非外观问题。",
-          "改善办公桌布局、显示器高度和屏幕使用习惯，被认为是更有效的长期解决方案。"
-        ]
-      },
-      "ko": {
-        "title": "‘넥맥싱’으로는 테크넥 못 고친다…해법은 인체공학적 근무환경 개선",
-        "bullets": [
-          "SNS에서 유행하는 ‘넥맥싱’은 기기 사용으로 생긴 목 주름을 줄이는 미용 운동에 초점을 맞추고 있다.",
-          "전문가들은 테크넥의 근본 원인이 외모가 아니라 잘못된 자세와 부실한 업무 환경의 인체공학 설계에 있다고 지적한다.",
-          "책상 배치와 모니터 높이, 화면 사용 습관을 개선하는 것이 더 효과적인 장기적 해결책으로 제시된다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
-    "date": "2026-08-04",
-    "region": "na",
-    "category": "design",
-    "caseStudy": false,
-    "source": "Allwork.Space",
-    "url": "https://allwork.space/2026/08/7-workplace-design-trends-that-defined-neocon-and-design-days-2026/",
-    "image": "https://allwork.space/wp-content/uploads/2026/08/Kiaura_Task_Base_Display02-1024x683.webp",
-    "i18n": {
-      "en": {
-        "title": "7 Workplace Design Trends From NeoCon and Design Days 2026",
-        "bullets": [
-          "NeoCon and Design Days 2026 showcased emerging themes shaping workplace design.",
-          "Trends span materials, layouts, and technology integration aimed at improving employee experience.",
-          "Designers and workplace leaders are urged to use these trends to guide future office renovations and planning."
-        ]
-      },
-      "ja": {
-        "title": "NeoConとデザインデイズ2026が示す7つのワークプレイスデザイン潮流",
-        "bullets": [
-          "NeoConとデザインデイズ2026で、オフィスデザインの新たなトレンドが紹介された。",
-          "トレンドは素材、レイアウト、テクノロジー統合など、社員体験の向上を目指す内容が中心。",
-          "デザイナーやワークプレイスリーダーは、これらの潮流を今後のオフィス改装計画に活用することが期待される。"
-        ]
-      },
-      "zh": {
-        "title": "NeoCon与Design Days 2026揭示的七大办公设计趋势",
-        "bullets": [
-          "NeoCon与Design Days 2026展会展示了引领办公设计潮流的新兴主题。",
-          "这些趋势涵盖材料、空间布局及技术整合，旨在提升员工体验。",
-          "设计师与职场管理者被建议借助这些趋势指导未来的办公室改造与规划。"
-        ]
-      },
-      "ko": {
-        "title": "NeoCon 및 디자인 데이즈 2026이 제시한 7가지 업무공간 디자인 트렌드",
-        "bullets": [
-          "NeoCon과 디자인 데이즈 2026에서 새로운 업무공간 디자인 트렌드가 공개됐다.",
-          "트렌드는 소재, 공간 배치, 기술 통합 등 직원 경험 향상을 목표로 한다.",
-          "디자이너와 워크플레이스 리더들은 이 트렌드를 향후 오피스 리노베이션 계획에 활용할 것으로 권장된다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
-    "date": "2026-08-04",
-    "region": "eu",
-    "category": "work",
-    "caseStudy": false,
-    "source": "Workplace Insight",
-    "url": "https://workplaceinsight.net/inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces/?utm_source=rss&utm_medium=rss&utm_campaign=inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces",
-    "image": "https://workplaceinsight.net/wp-content/uploads/2026/08/1280px-Hieronymus_Bosch_051.jpg",
-    "i18n": {
-      "en": {
-        "title": "Inconsistent Recycling Bin Colours Complicate UK Workplace Compliance",
-        "bullets": [
-          "Research by Direct365 found at least 80 different bin colour combinations across UK local authorities.",
-          "The inconsistency creates compliance challenges for organisations following England's Simpler Recycling regulations.",
-          "Findings are based on Freedom of Information requests submitted to local councils."
-        ]
-      },
-      "ja": {
-        "title": "英国、リサイクルごみ箱の色の不統一が職場のコンプライアンスを複雑化",
-        "bullets": [
-          "Direct365の調査により、英国の地方自治体間で少なくとも80通りのごみ箱の色の組み合わせが判明した。",
-          "この不統一が、イングランドの「簡素化リサイクル」規制に従おうとする組織にとって課題となっている。",
-          "この調査結果は各地方議会への情報公開請求に基づいている。"
-        ]
-      },
-      "zh": {
-        "title": "英国回收垃圾桶颜色不统一给职场合规带来挑战",
-        "bullets": [
-          "Direct365的研究发现，英国各地方政府使用的垃圾桶颜色组合至少有80种不同方式。",
-          "这种不一致给试图遵守英格兰《简化回收》法规的机构带来了合规难题。",
-          "该研究结果基于向地方议会提交的信息公开请求。"
-        ]
-      },
-      "ko": {
-        "title": "영국, 재활용 쓰레기통 색상 불일치로 직장 내 규정 준수 어려움 가중",
-        "bullets": [
-          "Direct365의 조사에 따르면 영국 지방자치단체 간 재활용 쓰레기통 색상 조합이 최소 80가지에 달하는 것으로 나타났다.",
-          "이러한 불일치는 잉글랜드의 '간소화된 재활용' 규정을 준수하려는 조직들에게 어려움을 초래하고 있다.",
-          "이번 조사 결과는 지방의회에 제출된 정보공개청구를 바탕으로 한다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
-    "date": "2026-08-04",
-    "region": "global",
-    "category": "design",
-    "caseStudy": false,
-    "source": "OnOffice Magazine",
-    "url": "https://www.onofficemagazine.com/opinion/donna-taylor-colour-design-manager-at-johnstones-trade-tells-onoffice-why-workplace-wellbeing-is-transforming-the-role-of-colour-in-modern-office-design",
-    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/08/Studio_dLux_-_Editora_Gente_-_Fotos_Ivan_Araujo_11.jpg",
-    "i18n": {
-      "en": {
-        "title": "Wellbeing priorities reshape use of colour in office design",
-        "bullets": [
-          "Johnstone's Trade colour design manager Donna Taylor discusses shifting drivers behind workplace colour schemes.",
-          "Colour choices are increasingly guided by employee wellbeing, workplace experience and sustainability rather than just aesthetics or branding.",
-          "Colour is being treated as a strategic design tool rather than a purely decorative finish."
-        ]
-      },
-      "ja": {
-        "title": "従業員の幸福重視でオフィスの色彩デザインが変化",
-        "bullets": [
-          "Johnstone's Tradeのカラーデザインマネージャー、ドナ・テイラー氏がオフィス配色の変化の背景を語る。",
-          "色選びは美観やブランド重視から、従業員の幸福感、職場体験、持続可能性を重視する方向へシフトしている。",
-          "色は単なる装飾ではなく、戦略的なデザインツールとして扱われるようになっている。"
-        ]
-      },
-      "zh": {
-        "title": "员工福祉理念推动办公室色彩设计变革",
-        "bullets": [
-          "Johnstone's Trade色彩设计经理唐娜·泰勒探讨办公室配色理念转变的原因。",
-          "色彩选择正日益以员工福祉、办公体验和可持续性为导向，而非仅追求美观或品牌形象。",
-          "色彩正被视为战略性设计工具，而不仅是装饰性元素。"
-        ]
-      },
-      "ko": {
-        "title": "직원 웰빙 중시로 오피스 색채 디자인 변화",
-        "bullets": [
-          "Johnstone's Trade의 컬러 디자인 매니저 도나 테일러가 오피스 색채 전략 변화의 배경을 설명했다.",
-          "색상 선택이 미적 요소나 브랜드 중심에서 직원 웰빙, 업무 경험, 지속가능성 중심으로 옮겨가고 있다.",
-          "색상은 단순한 장식이 아니라 전략적 디자인 도구로 활용되고 있다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
-    "date": "2026-08-04",
-    "region": "na",
-    "category": "design",
-    "caseStudy": true,
-    "source": "Office Snapshots",
-    "url": "https://officesnapshots.com/2026/08/04/simpson-strong-tie-offices-plano/",
-    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/web20260130simpsonstrongtieotj0873srgb-edit-700x875.jpg",
-    "i18n": {
-      "en": {
-        "title": "Simpson Strong-Tie Unveils New Plano Office",
-        "bullets": [
-          "Simpson Strong-Tie opened a new workplace in Plano, Texas spanning two connected floors.",
-          "The design blends warm industrial aesthetics with hospitality-inspired elements and brand identity.",
-          "The layout emphasizes flexibility to support varied work styles across the two-floor space."
-        ]
-      },
-      "ja": {
-        "title": "シンプソン・ストロングタイ、プラノに新オフィスを開設",
-        "bullets": [
-          "シンプソン・ストロングタイがテキサス州プラノで、2つのフロアをつなぐ新しいオフィスを開設した。",
-          "デザインは温かみのある工業的な雰囲気とホスピタリティ要素、ブランドアイデンティティを融合させている。",
-          "2フロアにわたる空間は、さまざまな働き方に対応する柔軟性を重視して設計されている。"
-        ]
-      },
-      "zh": {
-        "title": "Simpson Strong-Tie 揭幕普莱诺新办公室",
-        "bullets": [
-          "Simpson Strong-Tie在德克萨斯州普莱诺开设了跨两层相连楼层的新办公空间。",
-          "设计融合了温暖的工业风美学、酒店式体验元素与品牌形象。",
-          "该布局强调灵活性，以支持两层空间内多样化的工作方式。"
-        ]
-      },
-      "ko": {
-        "title": "심슨 스트롱타이, 플레이노에 새 오피스 오픈",
-        "bullets": [
-          "심슨 스트롱타이가 텍사스주 플레이노에 두 개 층을 연결한 새 오피스를 개관했다.",
-          "디자인은 따뜻한 산업적 미감과 호스피탤리티 요소, 브랜드 아이덴티티를 결합했다.",
-          "두 층에 걸친 공간은 다양한 업무 방식을 지원하기 위해 유연성을 강조해 설계됐다."
+          "2026년 PwC 연구에 따르면 AI 도입 성과가 큰 부동산 관리회사와 그렇지 못한 회사의 차이는 전사적 몰입 여부에 있다고 한다.",
+          "AI 도구에 전사적으로 헌신하는 기업은 부분적으로 도입한 기업보다 수익성과 성장률이 훨씬 높다.",
+          "AI를 전면적으로 수용하는 기업과 표면적으로만 사용하는 기업 간의 격차는 미미하지 않고 상당한 것으로 나타났다."
         ]
       }
     }
@@ -666,39 +534,39 @@
     "category": "estate",
     "caseStudy": false,
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/san-francisco/office/bxp-signs-on-as-adviser-for-downtown-oceanwide-development-site",
-    "image": "https://a-us.storyblok.com/f/571151439874644/3369x2161/7f99f61f8f/san_francisco_california_april_2022_salesforce_tower.jpg",
+    "url": "https://www.bisnow.com/news/washington-dc/multifamily/jbg-smith-postpones-earnings-release-after-wardman-tower-court-ruling",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1002x669/58846f9ed9/wardman-tower.png",
     "i18n": {
       "en": {
-        "title": "BXP Named Adviser for San Francisco's Stalled Oceanwide Office Tower Site",
+        "title": "JBG Smith Delays Earnings After $356M Court Verdict",
         "bullets": [
-          "BXP will advise on redeveloping the downtown Oceanwide site at First and Mission streets in San Francisco.",
-          "The project would be the city's first new office tower to break ground in a decade.",
-          "The site has sat undeveloped after the original Oceanwide Center project collapsed amid financial troubles."
+          "JBG Smith, a major Washington D.C.-area office REIT, postponed its scheduled earnings release.",
+          "A court ordered the company to pay $356M in a lawsuit related to Wardman Tower.",
+          "The verdict creates financial uncertainty that the company needs to address before reporting results."
         ]
       },
       "ja": {
-        "title": "BXP、サンフランシスコのオーシャンワイド跡地開発アドバイザーに就任",
+        "title": "JBG Smith、3.56億ドルの判決で決算発表を延期",
         "bullets": [
-          "BXPがサンフランシスコ・ダウンタウンのファースト&ミッション通りにあるオーシャンワイド跡地の再開発アドバイザーを務める。",
-          "実現すれば同市で10年ぶりとなる新規オフィスタワーの着工となる。",
-          "当初のオーシャンワイドセンター計画は資金難で頓挫し、更地のまま放置されていた。"
+          "ワシントンD.C.圏の大手オフィスREIT、JBG Smithが予定していた決算発表を延期した。",
+          "裁判所はワーダマン・タワーに関する訴訟で同社に3億5600万ドルの支払いを命じた。",
+          "この判決により財務面での不確実性が生じ、決算発表前に対応が必要となっている。"
         ]
       },
       "zh": {
-        "title": "BXP出任旧金山Oceanwide开发地块顾问",
+        "title": "JBG Smith因3.56亿美元判决推迟财报发布",
         "bullets": [
-          "BXP将为旧金山市中心First街与Mission街交界处的Oceanwide地块再开发提供顾问服务。",
-          "若项目落地，将是该市十年来首座新建写字楼。",
-          "原Oceanwide中心项目因资金问题搁浅，地块此前一直闲置。"
+          "华盛顿特区地区大型写字楼REIT公司JBG Smith推迟了原定的财报发布。",
+          "法院在一起与Wardman Tower相关的诉讼中判令该公司支付3.56亿美元。",
+          "该判决带来财务不确定性，公司需在发布财报前加以处理。"
         ]
       },
       "ko": {
-        "title": "BXP, 샌프란시스코 오션와이드 부지 개발 자문사로 선정",
+        "title": "JBG 스미스, 3.56억 달러 판결로 실적 발표 연기",
         "bullets": [
-          "BXP가 샌프란시스코 다운타운 퍼스트가와 미션가에 위치한 오션와이드 부지 재개발 자문을 맡는다.",
-          "이 프로젝트가 실현되면 해당 도시에서 10년 만에 착공되는 첫 신규 오피스 타워가 된다.",
-          "기존 오션와이드 센터 프로젝트는 자금난으로 무산되어 부지가 방치돼 있었다."
+          "워싱턴 D.C. 지역의 주요 오피스 리츠(REIT)인 JBG 스미스가 예정된 실적 발표를 연기했다.",
+          "법원은 워드먼 타워 관련 소송에서 이 회사에 3억 5600만 달러 지급을 명령했다.",
+          "이번 판결로 재무적 불확실성이 발생해 실적 발표 전 이를 해결해야 하는 상황이다."
         ]
       }
     }
@@ -754,347 +622,524 @@
     "category": "estate",
     "caseStudy": false,
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/washington-dc/multifamily/jbg-smith-postpones-earnings-release-after-wardman-tower-court-ruling",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1002x669/58846f9ed9/wardman-tower.png",
+    "url": "https://www.bisnow.com/news/san-francisco/office/bxp-signs-on-as-adviser-for-downtown-oceanwide-development-site",
+    "image": "https://a-us.storyblok.com/f/571151439874644/3369x2161/7f99f61f8f/san_francisco_california_april_2022_salesforce_tower.jpg",
     "i18n": {
       "en": {
-        "title": "JBG Smith Delays Earnings After $356M Court Verdict",
+        "title": "BXP Named Adviser for San Francisco's Stalled Oceanwide Office Tower Site",
         "bullets": [
-          "JBG Smith, a major Washington D.C.-area office REIT, postponed its scheduled earnings release.",
-          "A court ordered the company to pay $356M in a lawsuit related to Wardman Tower.",
-          "The verdict creates financial uncertainty that the company needs to address before reporting results."
+          "BXP will advise on redeveloping the downtown Oceanwide site at First and Mission streets in San Francisco.",
+          "The project would be the city's first new office tower to break ground in a decade.",
+          "The site has sat undeveloped after the original Oceanwide Center project collapsed amid financial troubles."
         ]
       },
       "ja": {
-        "title": "JBG Smith、3.56億ドルの判決で決算発表を延期",
+        "title": "BXP、サンフランシスコのオーシャンワイド跡地開発アドバイザーに就任",
         "bullets": [
-          "ワシントンD.C.圏の大手オフィスREIT、JBG Smithが予定していた決算発表を延期した。",
-          "裁判所はワーダマン・タワーに関する訴訟で同社に3億5600万ドルの支払いを命じた。",
-          "この判決により財務面での不確実性が生じ、決算発表前に対応が必要となっている。"
+          "BXPがサンフランシスコ・ダウンタウンのファースト&ミッション通りにあるオーシャンワイド跡地の再開発アドバイザーを務める。",
+          "実現すれば同市で10年ぶりとなる新規オフィスタワーの着工となる。",
+          "当初のオーシャンワイドセンター計画は資金難で頓挫し、更地のまま放置されていた。"
         ]
       },
       "zh": {
-        "title": "JBG Smith因3.56亿美元判决推迟财报发布",
+        "title": "BXP出任旧金山Oceanwide开发地块顾问",
         "bullets": [
-          "华盛顿特区地区大型写字楼REIT公司JBG Smith推迟了原定的财报发布。",
-          "法院在一起与Wardman Tower相关的诉讼中判令该公司支付3.56亿美元。",
-          "该判决带来财务不确定性，公司需在发布财报前加以处理。"
+          "BXP将为旧金山市中心First街与Mission街交界处的Oceanwide地块再开发提供顾问服务。",
+          "若项目落地，将是该市十年来首座新建写字楼。",
+          "原Oceanwide中心项目因资金问题搁浅，地块此前一直闲置。"
         ]
       },
       "ko": {
-        "title": "JBG 스미스, 3.56억 달러 판결로 실적 발표 연기",
+        "title": "BXP, 샌프란시스코 오션와이드 부지 개발 자문사로 선정",
         "bullets": [
-          "워싱턴 D.C. 지역의 주요 오피스 리츠(REIT)인 JBG 스미스가 예정된 실적 발표를 연기했다.",
-          "법원은 워드먼 타워 관련 소송에서 이 회사에 3억 5600만 달러 지급을 명령했다.",
-          "이번 판결로 재무적 불확실성이 발생해 실적 발표 전 이를 해결해야 하는 상황이다."
+          "BXP가 샌프란시스코 다운타운 퍼스트가와 미션가에 위치한 오션와이드 부지 재개발 자문을 맡는다.",
+          "이 프로젝트가 실현되면 해당 도시에서 10년 만에 착공되는 첫 신규 오피스 타워가 된다.",
+          "기존 오션와이드 센터 프로젝트는 자금난으로 무산되어 부지가 방치돼 있었다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
-    "date": "2026-08-04",
-    "region": "global",
-    "category": "ai",
-    "caseStudy": false,
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/property-managers-pulling-ahead-arent-working-harder-theyre-managing-differently/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/AppFolio_ALL_RES_2026_July_Commercial_Observer_Article_Cover_750x480.jpg?quality=80&amp;w=750&amp;h=480&amp;crop=1\t",
-    "i18n": {
-      "en": {
-        "title": "AI Adoption Gap Separates Top-Performing Property Managers",
-        "bullets": [
-          "A 2026 PwC study finds that full organizational buy-in on AI adoption, not just usage, separates high-growth property management firms from others.",
-          "Companies with company-wide commitment to AI tools show significantly greater profitability and growth than partial adopters.",
-          "The gap between firms fully embracing AI and those using it superficially is described as substantial rather than marginal."
-        ]
-      },
-      "ja": {
-        "title": "AI活用の本気度が不動産管理会社の業績を左右",
-        "bullets": [
-          "2026年のPwC調査によると、AI導入で成果を上げる不動産管理会社とそうでない会社の差は、全社的な本気の取り組みにあるという。",
-          "AIツールへの全社的なコミットメントがある企業は、部分的導入にとどまる企業より収益性と成長率が大幅に高い。",
-          "AIを本格的に活用する企業と表面的にしか使わない企業との差は、わずかではなく非常に大きいとされている。"
-        ]
-      },
-      "zh": {
-        "title": "物业管理公司AI应用力度决定业绩差距",
-        "bullets": [
-          "2026年普华永道的一项研究发现，物业管理公司在AI应用上是否全公司投入，是高增长企业与其他企业的关键区别。",
-          "全公司致力于AI工具的企业，其盈利能力和增长率明显高于部分采用的企业。",
-          "全面拥抱AI与仅表面使用AI的企业之间的差距被描述为巨大而非微小。"
-        ]
-      },
-      "ko": {
-        "title": "AI 도입 몰입도가 부동산 관리회사 실적 좌우",
-        "bullets": [
-          "2026년 PwC 연구에 따르면 AI 도입 성과가 큰 부동산 관리회사와 그렇지 못한 회사의 차이는 전사적 몰입 여부에 있다고 한다.",
-          "AI 도구에 전사적으로 헌신하는 기업은 부분적으로 도입한 기업보다 수익성과 성장률이 훨씬 높다.",
-          "AI를 전면적으로 수용하는 기업과 표면적으로만 사용하는 기업 간의 격차는 미미하지 않고 상당한 것으로 나타났다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
     "date": "2026-08-04",
     "region": "na",
-    "category": "ai",
-    "caseStudy": false,
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/duxre-ai-brief/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/funnel-info-AdobeStock_808230078-WEB.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Office Snapshots",
+    "url": "https://officesnapshots.com/2026/08/04/simpson-strong-tie-offices-plano/",
+    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/web20260130simpsonstrongtieotj0873srgb-edit-700x875.jpg",
     "i18n": {
       "en": {
-        "title": "CRE Platform Duxre Launches AI Brief Tool for Deal Data",
+        "title": "Simpson Strong-Tie Unveils New Plano Office",
         "bullets": [
-          "Duxre, a Santa Monica-based commercial real estate deal platform founded in 2020, launched a new tool called AI Brief.",
-          "The system converts unstructured sales and leasing data into a format readable by large language models.",
-          "Duxre is a subscription platform aimed at helping CRE brokers streamline data to improve transactions."
+          "Simpson Strong-Tie opened a new workplace in Plano, Texas spanning two connected floors.",
+          "The design blends warm industrial aesthetics with hospitality-inspired elements and brand identity.",
+          "The layout emphasizes flexibility to support varied work styles across the two-floor space."
         ]
       },
       "ja": {
-        "title": "CREプラットフォームDuxreがAI Brief機能を発表",
+        "title": "シンプソン・ストロングタイ、プラノに新オフィスを開設",
         "bullets": [
-          "2020年創業、サンタモニカ拠点の商業用不動産取引プラットフォームDuxreが新機能「AI Brief」を発表した。",
-          "このシステムは非構造化の売買・�リース データを大規模言語モデル(LLM)が読み取れる形式に変換する。",
-          "Duxreはサブスクリプション型プラットフォームで、CREブローカーの取引効率化を支援することを目的としている。"
+          "シンプソン・ストロングタイがテキサス州プラノで、2つのフロアをつなぐ新しいオフィスを開設した。",
+          "デザインは温かみのある工業的な雰囲気とホスピタリティ要素、ブランドアイデンティティを融合させている。",
+          "2フロアにわたる空間は、さまざまな働き方に対応する柔軟性を重視して設計されている。"
         ]
       },
       "zh": {
-        "title": "商业地产平台Duxre推出AI Brief工具",
+        "title": "Simpson Strong-Tie 揭幕普莱诺新办公室",
         "bullets": [
-          "总部位于圣莫尼卡、成立于2020年的商业地产交易平台Duxre推出了新工具“AI Brief”。",
-          "该系统可将非结构化的销售和租赁数据转换为大语言模型(LLM)可读的格式。",
-          "Duxre是一款订阅制平台,旨在帮助商业地产经纪人整理数据、提升交易效率。"
+          "Simpson Strong-Tie在德克萨斯州普莱诺开设了跨两层相连楼层的新办公空间。",
+          "设计融合了温暖的工业风美学、酒店式体验元素与品牌形象。",
+          "该布局强调灵活性，以支持两层空间内多样化的工作方式。"
         ]
       },
       "ko": {
-        "title": "상업용 부동산 플랫폼 Duxre, AI 브리프 출시",
+        "title": "심슨 스트롱타이, 플레이노에 새 오피스 오픈",
         "bullets": [
-          "2020년 설립된 산타모니카 기반 상업용 부동산 거래 플랫폼 Duxre가 새로운 도구 'AI Brief'를 출시했다.",
-          "이 시스템은 비정형 매매 및 임대 데이터를 대형언어모델(LLM)이 읽을 수 있는 형식으로 변환한다.",
-          "Duxre는 구독형 플랫폼으로, 상업용 부동산 중개인의 데이터 처리와 거래 효율성 향상을 지원한다."
+          "심슨 스트롱타이가 텍사스주 플레이노에 두 개 층을 연결한 새 오피스를 개관했다.",
+          "디자인은 따뜻한 산업적 미감과 호스피탤리티 요소, 브랜드 아이덴티티를 결합했다.",
+          "두 층에 걸친 공간은 다양한 업무 방식을 지원하기 위해 유연성을 강조해 설계됐다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
+    "date": "2026-08-04",
+    "region": "global",
+    "category": "design",
+    "caseStudy": false,
+    "source": "OnOffice Magazine",
+    "url": "https://www.onofficemagazine.com/opinion/donna-taylor-colour-design-manager-at-johnstones-trade-tells-onoffice-why-workplace-wellbeing-is-transforming-the-role-of-colour-in-modern-office-design",
+    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/08/Studio_dLux_-_Editora_Gente_-_Fotos_Ivan_Araujo_11.jpg",
+    "i18n": {
+      "en": {
+        "title": "Wellbeing priorities reshape use of colour in office design",
+        "bullets": [
+          "Johnstone's Trade colour design manager Donna Taylor discusses shifting drivers behind workplace colour schemes.",
+          "Colour choices are increasingly guided by employee wellbeing, workplace experience and sustainability rather than just aesthetics or branding.",
+          "Colour is being treated as a strategic design tool rather than a purely decorative finish."
+        ]
+      },
+      "ja": {
+        "title": "従業員の幸福重視でオフィスの色彩デザインが変化",
+        "bullets": [
+          "Johnstone's Tradeのカラーデザインマネージャー、ドナ・テイラー氏がオフィス配色の変化の背景を語る。",
+          "色選びは美観やブランド重視から、従業員の幸福感、職場体験、持続可能性を重視する方向へシフトしている。",
+          "色は単なる装飾ではなく、戦略的なデザインツールとして扱われるようになっている。"
+        ]
+      },
+      "zh": {
+        "title": "员工福祉理念推动办公室色彩设计变革",
+        "bullets": [
+          "Johnstone's Trade色彩设计经理唐娜·泰勒探讨办公室配色理念转变的原因。",
+          "色彩选择正日益以员工福祉、办公体验和可持续性为导向，而非仅追求美观或品牌形象。",
+          "色彩正被视为战略性设计工具，而不仅是装饰性元素。"
+        ]
+      },
+      "ko": {
+        "title": "직원 웰빙 중시로 오피스 색채 디자인 변화",
+        "bullets": [
+          "Johnstone's Trade의 컬러 디자인 매니저 도나 테일러가 오피스 색채 전략 변화의 배경을 설명했다.",
+          "색상 선택이 미적 요소나 브랜드 중심에서 직원 웰빙, 업무 경험, 지속가능성 중심으로 옮겨가고 있다.",
+          "색상은 단순한 장식이 아니라 전략적 디자인 도구로 활용되고 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
+    "date": "2026-08-04",
+    "region": "eu",
+    "category": "work",
+    "caseStudy": false,
+    "source": "Workplace Insight",
+    "url": "https://workplaceinsight.net/inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces/?utm_source=rss&utm_medium=rss&utm_campaign=inconsistent-recycling-bin-colours-are-creating-compliance-challenges-for-uk-workplaces",
+    "image": "https://workplaceinsight.net/wp-content/uploads/2026/08/1280px-Hieronymus_Bosch_051.jpg",
+    "i18n": {
+      "en": {
+        "title": "Inconsistent Recycling Bin Colours Complicate UK Workplace Compliance",
+        "bullets": [
+          "Research by Direct365 found at least 80 different bin colour combinations across UK local authorities.",
+          "The inconsistency creates compliance challenges for organisations following England's Simpler Recycling regulations.",
+          "Findings are based on Freedom of Information requests submitted to local councils."
+        ]
+      },
+      "ja": {
+        "title": "英国、リサイクルごみ箱の色の不統一が職場のコンプライアンスを複雑化",
+        "bullets": [
+          "Direct365の調査により、英国の地方自治体間で少なくとも80通りのごみ箱の色の組み合わせが判明した。",
+          "この不統一が、イングランドの「簡素化リサイクル」規制に従おうとする組織にとって課題となっている。",
+          "この調査結果は各地方議会への情報公開請求に基づいている。"
+        ]
+      },
+      "zh": {
+        "title": "英国回收垃圾桶颜色不统一给职场合规带来挑战",
+        "bullets": [
+          "Direct365的研究发现，英国各地方政府使用的垃圾桶颜色组合至少有80种不同方式。",
+          "这种不一致给试图遵守英格兰《简化回收》法规的机构带来了合规难题。",
+          "该研究结果基于向地方议会提交的信息公开请求。"
+        ]
+      },
+      "ko": {
+        "title": "영국, 재활용 쓰레기통 색상 불일치로 직장 내 규정 준수 어려움 가중",
+        "bullets": [
+          "Direct365의 조사에 따르면 영국 지방자치단체 간 재활용 쓰레기통 색상 조합이 최소 80가지에 달하는 것으로 나타났다.",
+          "이러한 불일치는 잉글랜드의 '간소화된 재활용' 규정을 준수하려는 조직들에게 어려움을 초래하고 있다.",
+          "이번 조사 결과는 지방의회에 제출된 정보공개청구를 바탕으로 한다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-04",
+    "region": "na",
+    "category": "design",
+    "caseStudy": false,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/7-workplace-design-trends-that-defined-neocon-and-design-days-2026/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/Kiaura_Task_Base_Display02-1024x683.webp",
+    "i18n": {
+      "en": {
+        "title": "7 Workplace Design Trends From NeoCon and Design Days 2026",
+        "bullets": [
+          "NeoCon and Design Days 2026 showcased emerging themes shaping workplace design.",
+          "Trends span materials, layouts, and technology integration aimed at improving employee experience.",
+          "Designers and workplace leaders are urged to use these trends to guide future office renovations and planning."
+        ]
+      },
+      "ja": {
+        "title": "NeoConとデザインデイズ2026が示す7つのワークプレイスデザイン潮流",
+        "bullets": [
+          "NeoConとデザインデイズ2026で、オフィスデザインの新たなトレンドが紹介された。",
+          "トレンドは素材、レイアウト、テクノロジー統合など、社員体験の向上を目指す内容が中心。",
+          "デザイナーやワークプレイスリーダーは、これらの潮流を今後のオフィス改装計画に活用することが期待される。"
+        ]
+      },
+      "zh": {
+        "title": "NeoCon与Design Days 2026揭示的七大办公设计趋势",
+        "bullets": [
+          "NeoCon与Design Days 2026展会展示了引领办公设计潮流的新兴主题。",
+          "这些趋势涵盖材料、空间布局及技术整合，旨在提升员工体验。",
+          "设计师与职场管理者被建议借助这些趋势指导未来的办公室改造与规划。"
+        ]
+      },
+      "ko": {
+        "title": "NeoCon 및 디자인 데이즈 2026이 제시한 7가지 업무공간 디자인 트렌드",
+        "bullets": [
+          "NeoCon과 디자인 데이즈 2026에서 새로운 업무공간 디자인 트렌드가 공개됐다.",
+          "트렌드는 소재, 공간 배치, 기술 통합 등 직원 경험 향상을 목표로 한다.",
+          "디자이너와 워크플레이스 리더들은 이 트렌드를 향후 오피스 리노베이션 계획에 활용할 것으로 권장된다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
     "date": "2026-08-04",
     "region": "global",
     "category": "culture",
     "caseStudy": false,
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91583115/these-are-the-3-things-that-are-actually-burning-you-out-and-only-one-is-your-boss?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91583115-3-things-actually-burning-you-out-at-work.jpg",
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/neck-maxxing-wont-save-you-from-tech-neck-but-better-ergonomics-at-work-might/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/Neck-Maxxing-Wont-Save-You-From-Tech-Neck-But-Better-Ergonomics-At-Work-Might.webp",
     "i18n": {
       "en": {
-        "title": "Burnout Is Driven by Three Cultural Forces, Not Just Bad Bosses",
+        "title": "“Neck-Maxxing” Trend Ignores Real Fix for Tech Neck: Better Ergonomics",
         "bullets": [
-          "The WHO defines burnout as chronic workplace stress that hasn't been managed well, distinct from short-term overwork.",
-          "A workplace culture researcher identifies three converging forces behind burnout: societal culture, organizational culture, and leadership behavior.",
-          "The article argues employers must address all three root causes simultaneously rather than blaming managers alone."
+          "The social media trend “neck-maxxing” focuses on cosmetic exercises to reduce neck wrinkles from device use.",
+          "Experts say the underlying cause of tech neck is poor posture and inadequate workplace ergonomics, not skin appearance.",
+          "Improving desk setups, monitor height, and screen habits is recommended as a more effective long-term solution."
         ]
       },
       "ja": {
-        "title": "燃え尽き症候群、原因は上司だけではない3つの文化的要因",
+        "title": "「ネキマガリング」はハィティボーゼの解決にならず、必要なのは人間工学の改善",
         "bullets": [
-          "WHOはバーンアウトを「適切に管理されなかった慢性的な職場のストレスによる症候群」と定義している。",
-          "研究者は、社会文化・組織文化・リーダーシップという3つの要因が重なり合ってバーンアウトを生むと指摘する。",
-          "記事は、上司個人を責めるのではなく、これら3つの根本原因を同時に解決すべきだと主張している。"
+          "SNSで話題の「ネックマキシング」は、デバイス使用によるシワ対策の美容エクササイズに焦点を当てている。",
+          "専門家によると、テックネックの本質的な原因は姿勢の悪さや職場の人間工学的環境の不備であり、見た目の問題ではない。",
+          "デスクの配置やモニターの高さ、画面の使用習慣を改善することが、より効果的な長期的解決策とされている。"
         ]
       },
       "zh": {
-        "title": "职场倦怠的根源不只是老板,还有三种文化力量",
+        "title": "“颈部特训”无法解决“科技颈”,真正解药是改善办公人体工学",
         "bullets": [
-          "世界卫生组织将职业倦怠定义为长期未妥善管理的职场压力所导致的综合症。",
-          "研究者指出,社会文化、组织文化和领导行为这三种力量共同作用,造成了职业倦怠。",
-          "文章认为,企业应同时应对这三个根本原因,而不能只归咎于管理者个人。"
+          "社交媒体流行的“颈部特训”主要关注通过美容锻炼减少因使用电子设备造成的颈部皱纹。",
+          "专家指出，科技颈的根本原因是姿势不良和办公场所人体工学设计不足，而非外观问题。",
+          "改善办公桌布局、显示器高度和屏幕使用习惯，被认为是更有效的长期解决方案。"
         ]
       },
       "ko": {
-        "title": "번아웃의 원인은 상사만이 아니다, 세 가지 문화적 요인",
+        "title": "‘넥맥싱’으로는 테크넥 못 고친다…해법은 인체공학적 근무환경 개선",
         "bullets": [
-          "세계보건기구(WHO)는 번아웃을 제대로 관리되지 않은 만성적 직장 스트레스로 인한 증후군으로 정의한다.",
-          "연구자는 사회 문화, 조직 문화, 리더십 행동이라는 세 가지 요인이 겹쳐 번아웃을 만든다고 지적한다.",
-          "기사는 관리자 개인을 탓하기보다 이 세 가지 근본 원인을 동시에 해결해야 한다고 주장한다."
+          "SNS에서 유행하는 ‘넥맥싱’은 기기 사용으로 생긴 목 주름을 줄이는 미용 운동에 초점을 맞추고 있다.",
+          "전문가들은 테크넥의 근본 원인이 외모가 아니라 잘못된 자세와 부실한 업무 환경의 인체공학 설계에 있다고 지적한다.",
+          "책상 배치와 모니터 높이, 화면 사용 습관을 개선하는 것이 더 효과적인 장기적 해결책으로 제시된다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
-    "date": "2026-08-03",
-    "region": "na",
-    "category": "ai",
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-04",
+    "region": "global",
+    "category": "work",
     "caseStudy": false,
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91584403/pwcs-us-ceo-on-the-career-advice-he-gave-to-his-kids?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91584403-paul-griggs-advice-pwc-us-ceo.jpg",
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/the-future-of-hybrid-work-requires-better-leadership-with-ranya-nehmeh/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/The-Future-of-Hybrid-Work-Requires-Better-Leadership-with-Ranya-Nehmeh.webp",
     "i18n": {
       "en": {
-        "title": "PwC CEO Defends Accounting Careers Amid AI-Driven Hiring Shifts",
+        "title": "Hybrid Work's Success Hinges on Better Leadership, Says HR Strategist",
         "bullets": [
-          "PwC U.S. CEO Paul Griggs says he supports his college-age children pursuing accounting careers despite AI-driven hiring changes.",
-          "PwC is hiring more data scientists and engineers while also recruiting nontraditional backgrounds like liberal arts majors for broad knowledge in the AI era.",
-          "The firm has cut entry-level advisory hiring to 13 offices from 72 and plans to recruit a third fewer new graduates by 2028."
+          "HR strategist Ranya Nehmeh argues that leadership quality, not location policy, determines hybrid work success.",
+          "She links strong leadership and workplace flexibility to improved talent attraction and retention.",
+          "The discussion highlights how leadership approaches affect organizational performance in flexible work models."
         ]
       },
       "ja": {
-        "title": "PwC米CEO、AI時代でも会計士のキャリアを後押し",
+        "title": "ハイブリッドワークの成否はリーダーシップ次第、HR戦略家が指摘",
         "bullets": [
-          "PwC米国CEOのポール・グリッグス氏は、AIによる採用方針の変化にもかかわらず、大学生の子どもたちが会計士を目指すことを支持していると語った。",
-          "PwCはデータサイエンティストやエンジニアの採用を増やす一方、AI時代に必要な幅広い知識を持つ人材として、リベラルアーツ専攻など非伝統的な背景の人材も採用している。",
-          "同社はアドバイザリー部門の新卒採用拠点を72から13に削減し、2028年までに新卒採用数を3分の1減らす計画だ。"
+          "HR戦略家のラーニャ・ネメ氏は、勤務場所の方針よりリーダーシップの質がハイブリッドワークの成否を左右すると指摘する。",
+          "強力なリーダーシップと働き方の柔軟性が人材の獲得・維持力向上につながると論じている。",
+          "柔軟な働き方モデルにおいて、リーダーシップの取り方が組織のパフォーマンスに影響することが議論されている。"
         ]
       },
       "zh": {
-        "title": "普华永道美国CEO：AI时代仍支持子女从事会计职业",
+        "title": "人力资源专家：混合办公成功关键在于领导力提升",
         "bullets": [
-          "普华永道美国CEO保罗·格里格斯表示,尽管公司因AI调整招聘策略，他仍支持就读大学的子女从事会计职业。",
-          "普华永道在增加数据科学家和工程师招聘的同时，也开始招募文科等非传统背景人才，以应对AI时代对广博知识的需求。",
-          "该公司已将咨询部门应届生招聘办公地点从72个减至13个，并计划到2028年将应届生招聘人数减少三分之一。"
+          "人力资源战略专家拉尼亚·内梅指出，混合办公的成功取决于领导力质量而非办公地点政策。",
+          "她认为优秀的领导力与工作灵活性有助于提升人才吸引力和留任率。",
+          "该讨论强调了在灵活工作模式下，领导方式如何影响组织绩效。"
         ]
       },
       "ko": {
-        "title": "PwC 미국 CEO, AI 시대에도 회계 커리어 지지",
+        "title": "하이브리드 근무 성공의 핵심은 리더십, HR 전문가 지적",
         "bullets": [
-          "PwC 미국 CEO 폴 그릭스는 회사가 AI로 인해 채용 방식을 바꾸고 있음에도 대학생 자녀들이 회계 분야로 진로를 정하는 것을 지지한다고 밝혔다.",
-          "PwC는 데이터 과학자와 엔지니어 채용을 늘리는 한편, AI 시대에 필요한 폭넓은 지식을 위해 인문학 전공 등 비전통적 배경의 인재도 채용하고 있다.",
-          "이 회사는 어드바이저리 부문 신입 채용 사무소를 72곳에서 13곳으로 줄였고, 2028년까지 신입 채용 인원을 3분의 1 줄일 계획이다."
+          "HR 전략가 라니아 네메는 근무지 정책보다 리더십의 질이 하이브리드 근무의 성패를 좌우한다고 주장한다.",
+          "그녀는 강력한 리더십과 근무 유연성이 인재 유치 및 유지에 도움이 된다고 설명한다.",
+          "이번 논의는 유연 근무 모델에서 리더십 방식이 조직 성과에 미치는 영향을 다룬다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9hbGx3b3JrLnNwYWNlLzIw",
+    "date": "2026-08-04",
+    "region": "eu",
+    "category": "estate",
+    "caseStudy": true,
+    "source": "Allwork.Space",
+    "url": "https://allwork.space/2026/08/iwg-acquires-french-coworking-operator-wojo-to-expand-european-footprint/",
+    "image": "https://allwork.space/wp-content/uploads/2026/08/Featured-Images-2026-08-04T113210.172.webp",
+    "i18n": {
+      "en": {
+        "title": "IWG Acquires French Coworking Operator Wojo",
+        "bullets": [
+          "IWG, the global flexible workspace giant, has acquired French coworking operator Wojo.",
+          "The acquisition adds 17 coworking centers to IWG's European network.",
+          "The deal strengthens IWG's footprint in France as part of its broader European expansion strategy."
+        ]
+      },
+      "ja": {
+        "title": "IWG、フランスのコワーキング事業者Wojoを買収",
+        "bullets": [
+          "世界的なフレキシブルオフィス大手IWGが、フランスのコワーキング事業者Wojoを買収した。",
+          "この買収によりIWGの欧州ネットワークに17拠点が加わる。",
+          "今回の買収は、IWGの欧州展開戦略の一環としてフランスでの事業基盤を強化するものである。"
+        ]
+      },
+      "zh": {
+        "title": "IWG收购法国共享办公运营商Wojo",
+        "bullets": [
+          "全球灵活办公空间巨头IWG收购了法国共享办公运营商Wojo。",
+          "此次收购为IWG的欧洲网络增加了17个共享办公中心。",
+          "该交易强化了IWG在法国的业务布局,是其欧洲扩张战略的一部分。"
+        ]
+      },
+      "ko": {
+        "title": "IWG, 프랑스 코워킹 업체 Wojo 인수",
+        "bullets": [
+          "글로벌 유연 오피스 기업 IWG가 프랑스 코워킹 운영업체 Wojo를 인수했다.",
+          "이번 인수로 IWG의 유럽 네트워크에 17개 센터가 추가된다.",
+          "이번 거래는 IWG의 유럽 확장 전략의 일환으로 프랑스 내 입지를 강화한다."
         ]
       }
     }
   },
   {
     "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
-    "date": "2026-08-03",
-    "region": "na",
-    "category": "estate",
-    "caseStudy": true,
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/teksynap-leases-27k-sf-at-bxps-reston-town-center/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2025/11/Reston.jpg?quality=80&amp;crop=0px%2C0px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
-    "i18n": {
-      "en": {
-        "title": "TekSynap Leases 27K SF at BXP's Reston Town Center",
-        "bullets": [
-          "Federal IT contractor TekSynap signed a long-term lease for a 26,500-square-foot floor at BXP's Reston Town Center in Northern Virginia.",
-          "TekSynap provides cloud integration, cybersecurity, software development and IT modernization services for civilian, defense and intelligence agencies.",
-          "The Reston-based company will relocate less than a mile from its current office at 1900 Oracle Way to the new space."
-        ]
-      },
-      "ja": {
-        "title": "TekSynap、BXPのレストン・タウンセンターで2.7万平方フィートを賃借",
-        "bullets": [
-          "連邦政府向けITベンダーのTekSynapが、バージニア州北部BXPのレストン・タウンセンターにあるフロア(約2万6500平方フィート)の長期リース契約を締結した。",
-          "同社は民間・国防・情報機関向けにクラウド統合、サイバーセキュリティ、ソフトウェア開発、ITモダナイゼーションサービスを提供している。",
-          "レストンを拠点とする同社は、現在のオフィス1900オラクル・ウェイから1マイル未満の場所へ移転する。"
-        ]
-      },
-      "zh": {
-        "title": "联邦IT承包商TekSynap在BXP雷斯顿镇中心租下2.7万平方英尺办公空间",
-        "bullets": [
-          "联邦IT承包商TekSynap与BXP签订长期租约,承租位于弗吉尼亚州北部雷斯顿镇中心的一整层办公空间,面积约2.65万平方英尺。",
-          "该公司为民用、国防和情报机构提供云集成、网络安全、软件开发和IT现代化服务。",
-          "总部位于雷斯顿的该公司此次搬迁地点距离现址1900 Oracle Way不到一英里。"
-        ]
-      },
-      "ko": {
-        "title": "TekSynap, BXP 레스턴 타운센터에 2만7천 평방피트 임대",
-        "bullets": [
-          "연방 정부 IT 계약업체 TekSynap이 버지니아주 북부 BXP의 레스턴 타운센터에서 약 2만6500평방피트 규모의 한 층을 장기 임대 계약했다.",
-          "이 회사는 민간, 국방, 정보기관을 대상으로 클라우드 통합, 사이버보안, 소프트웨어 개발, IT 현대화 서비스를 제공한다.",
-          "레스턴에 본사를 둔 이 회사는 현재 사무실인 1900 오라클 웨이에서 1마일도 안 되는 거리로 이전할 예정이다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
-    "date": "2026-08-03",
+    "date": "2026-08-04",
     "region": "na",
     "category": "estate",
     "caseStudy": false,
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/capital-markets/first-draft-live-betting-on-distress-with-mavik-capital-founder-vik-uppal",
-    "image": "https://a-us.storyblok.com/f/571151439874644/2528x1076/091a8b124a/first-draft-live-vik-uppal.png",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/08/munish-viralam-newmark-5-questions/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/08/Newmark_Group_Munish_Viralam-credit-Newmark-WEB.jpg?quality=80&amp;crop=0px%2C287px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
     "i18n": {
       "en": {
-        "title": "Mavik Capital Targets Distressed CRE Debt Amid $875B Loan Maturities",
+        "title": "Newmark Hires CBRE Veteran to Lead Real Estate Strategy Group",
         "bullets": [
-          "Mavik Capital founder Vik Uppal discussed strategies for capitalizing on commercial real estate distress.",
-          "Roughly $875B in CRE loans are set to mature this year, creating potential opportunities for distressed debt investors.",
-          "The firm is positioning itself to acquire or restructure troubled loans as market volatility continues."
+          "Munish Viralam joined Newmark in June after 18 years at CBRE.",
+          "As executive vice chairman, he leads Newmark's newly centralized real estate strategy and consulting group.",
+          "His role focuses on helping corporate tenants navigate real estate strategy and lease negotiations."
         ]
       },
       "ja": {
-        "title": "Mavik Capital、8750億ドルのCREローン満期を前に不良債権に照準",
+        "title": "ニューマーク、CBRE出身のベテランを不動産戦略部門トップに起用",
         "bullets": [
-          "Mavik CapitalのVik Uppal氏が、商業用不動産の不良債権を活用する戦略について語った。",
-          "今年は約8750億ドル相当のCREローンが満期を迎え、投資家にとって好機となる可能性がある。",
-          "同社は市場の変動が続く中、問題を抱えたローンの取得や再編を狙っている。"
+          "ムニッシュ・ヴィラーラム氏は18年間のCBRE勤務を経て、6月にニューマークに入社した。",
+          "エグゼクティブ・バイスチェアマンとして、新設された不動産戦略・コンサルティング部門を統括する。",
+          "法人テナントが不動産戦略や賃貸交渉を進める際の支援を主な役割としている。"
         ]
       },
       "zh": {
-        "title": "Mavik Capital瞄准商业地产不良债务 今年8750亿美元贷款到期",
+        "title": "世邦仕达资深人士加盟纽马克 领导房地产战略团队",
         "bullets": [
-          "Mavik Capital创始人Vik Uppal阐述了利用商业地产困境获利的策略。",
-          "今年约有8750亿美元的商业地产贷款将到期,为不良债务投资者带来潜在机会。",
-          "在市场持续波动之际,该公司正积极布局收购或重组问题贷款。"
+          "穆尼什·维拉拉姆在世邦魏理仕工作18年后,于6月加入纽马克。",
+          "作为执行副董事长,他将领导纽马克新设立的集中式房地产战略与咨询团队。",
+          "其职责是帮助企业租户应对复杂的房地产战略规划与租约谈判。"
         ]
       },
       "ko": {
-        "title": "Mavik Capital, 8750억 달러 CRE 대출 만기 앞두고 부실채권 노린다",
+        "title": "뉴마크, CBRE 출신 베테랑 영입해 부동산 전략 부문 이끌게 해",
         "bullets": [
-          "Mavik Capital의 설립자 빅 우팔이 상업용 부동산 부실 자산 활용 전략을 논의했다.",
-          "올해 약 8750억 달러 규모의 상업용 부동산 대출이 만기를 맞아 투자자들에게 기회가 될 수 있다.",
-          "이 회사는 시장 변동성이 지속되는 가운데 부실 대출 인수 및 재구조화를 추진하고 있다."
+          "무니시 비랄람은 CBRE에서 18년간 근무한 뒤 6월 뉴마크에 합류했다.",
+          "그는 총괄부회장으로서 새롭게 중앙집중화된 부동산 전략 및 컨설팅 그룹을 이끈다.",
+          "그의 역할은 기업 임차인들이 복잡한 부동산 전략과 임대 협상을 헤쳐나가도록 돕는 것이다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
     "date": "2026-08-03",
     "region": "global",
     "category": "ai",
     "caseStudy": false,
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91580226/how-to-use-ai-to-boost-your-creativity?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
-    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91580226-Work-Life-CREATIVITY-AT-WORK-You-can-use-AI-to-unleash-creativity.jpg",
+    "source": "Workplace Insight",
+    "url": "https://workplaceinsight.net/how-msps-are-shaping-the-future-of-the-digital-workplace/?utm_source=rss&utm_medium=rss&utm_campaign=how-msps-are-shaping-the-future-of-the-digital-workplace",
+    "image": "https://workplaceinsight.net/wp-content/uploads/2021/09/tetris-db-jll-manchester-7082-7.jpg",
     "i18n": {
       "en": {
-        "title": "Using AI to Spark Creative Problem-Solving at Work",
+        "title": "Managed service providers seen as key to AI-driven digital workplaces",
         "bullets": [
-          "The article argues most workplace tasks rely on experience-based pattern matching rather than true creativity.",
-          "Creative problem solving is needed when past experience offers no ready solution, and analogies can provide fresh insight.",
-          "The author suggests using large language models like Claude to help distill a problem to its essence and generate useful analogies."
+          "JLL's 2026 Future of Work Survey finds most C-suite and corporate real estate leaders expect AI to redesign job roles and increase headcount rather than cut it.",
+          "The shift creates new pressure on organisations to integrate AI tools effectively across digital workplace infrastructure.",
+          "Managed service providers (MSPs) are positioned as central partners in helping companies manage this AI-driven transformation."
         ]
       },
       "ja": {
-        "title": "AIで創造的な問題解決力を高める方法",
+        "title": "AI主導のデジタルワークプレイス、MSPが変革の鍵に",
         "bullets": [
-          "職場のほとんどの業務は創造性よりも過去の経験に基づく対応で成り立っていると筆者は指摘する。",
-          "過去の経験が通用しない場面では創造的な問題解決が必要となり、類推が有効な手段となる。",
-          "筆者はClaudeなどの大規模言語モデルを使い、問題の本質を抽出して有用な類推を導き出す方法を提案している。"
+          "JLLの「2026年版働き方の未来調査」によると、多くの経営陣や企業不動産責任者はAIが職務削減ではなく役割再設計と人員増加をもたらすと予想している。",
+          "この変化により、企業はAIツールを効果的に統合する新たな課題に直面している。",
+          "マネージドサービスプロバイダー(MSP)は、このAI主導の変革を支援する重要なパートナーと位置づけられている。"
         ]
       },
       "zh": {
-        "title": "如何利用AI激发工作中的创造力",
+        "title": "MSP在AI驱动的数字化办公场所转型中扮演关键角色",
         "bullets": [
-          "文章指出，大多数工作任务依靠的是基于经验的模式匹配，而非真正的创造力。",
-          "当过往经验无法提供现成解决方案时，就需要创造性思维，而类比可以带来新的启发。",
-          "作者建议使用Claude等大型语言模型，帮助提炼问题本质并生成有用的类比。"
+          "据仲量联行(JLL)《2026未来工作调查》显示,多数高管和企业不动产负责人预计AI将重塑岗位职能并增加员工人数,而非裁员。",
+          "这一转变给企业带来了有效整合AI工具的新压力。",
+          "托管服务提供商(MSP)被视为帮助企业应对这一AI驱动转型的重要合作伙伴。"
         ]
       },
       "ko": {
-        "title": "AI로 업무 창의력을 높이는 방법",
+        "title": "MSP, AI 주도 디지털 워크플레이스 전환의 핵심으로 부상",
         "bullets": [
-          "대부분의 업무는 진정한 창의성보다는 경험에 기반한 패턴 매칭에 의존한다고 저자는 지적한다.",
-          "과거 경험이 해결책을 제시하지 못할 때 창의적 문제 해결이 필요하며, 유추가 통찰을 제공할 수 있다.",
-          "저자는 클로드와 같은 대형 언어모델을 활용해 문제의 본질을 추출하고 유용한 유추를 이끌어내는 방법을 제안한다."
+          "JLL의 '2026 미래 업무 조사'에 따르면 대다수 경영진과 기업 부동산 책임자들은 AI가 인력을 감축하기보다 직무를 재설계하고 인원을 늘릴 것으로 전망했다.",
+          "이러한 변화로 기업들은 AI 도구를 효과적으로 통합해야 한다는 새로운 압박에 직면했다.",
+          "관리형서비스제공업체(MSP)는 이러한 AI 주도 전환을 지원하는 핵심 파트너로 자리매김하고 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
+    "date": "2026-08-03",
+    "region": "global",
+    "category": "design",
+    "caseStudy": false,
+    "source": "Workplace Insight",
+    "url": "https://workplaceinsight.net/giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests",
+    "image": "https://workplaceinsight.net/wp-content/uploads/2022/03/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg",
+    "i18n": {
+      "en": {
+        "title": "Study: Letting Employees Choose Office Art May Boost Wellbeing",
+        "bullets": [
+          "A systematic review by University of Roehampton researchers examined the impact of workplace art on employees.",
+          "Published in Psychology of Aesthetics, Creativity, and the Arts, the review found visual art can positively affect wellbeing, satisfaction and engagement.",
+          "Giving employees a say in selecting office artwork appeared to strengthen these positive effects."
+        ]
+      },
+      "ja": {
+        "title": "研究:オフィスアートを従業員が選べると幸福度が向上する可能性",
+        "ja_note": "",
+        "bullets": [
+          "ローハンプトン大学の研究者らが職場アートが従業員に与える影響について系統的レビューを実施した。",
+          "学術誌「Psychology of Aesthetics, Creativity, and the Arts」に掲載されたこのレビューは、視覚的アートが幸福感や満足度、エンゲージメントに良い影響を与えることを示した。",
+          "従業員がオフィスアートの選択に関与できる場合、その効果はさらに高まる傾向があった。"
+        ]
+      },
+      "zh": {
+        "title": "研究:让员工参与选择办公室艺术品或有助于提升幸福感",
+        "bullets": [
+          "罗汉普顿大学的研究人员对办公场所艺术品对员工的影响进行了系统性综述。",
+          "该研究发表于《美学、创造力与艺术心理学》期刊,发现视觉艺术能积极影响员工的幸福感、满意度和敬业度。",
+          "研究还发现,若员工能对办公室艺术品的选择拥有发言权,这些积极效果会更加明显。"
+        ]
+      },
+      "ko": {
+        "title": "연구: 직원이 사무실 미술품 선택에 참여하면 웰빙 향상 가능성",
+        "bullets": [
+          "로햄프턴 대학교 연구진이 사무실 미술품이 직원들에게 미치는 영향을 체계적으로 검토했다.",
+          "이 연구는 'Psychology of Aesthetics, Creativity, and the Arts' 저널에 게재되었으며 시각 예술이 웰빙, 만족도, 몰입도에 긍정적 영향을 준다는 것을 확인했다.",
+          "직원들이 사무실 미술품 선택에 발언권을 가질 경우 이러한 긍정적 효과가 더욱 커지는 것으로 나타났다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
+    "date": "2026-08-03",
+    "region": "na",
+    "category": "design",
+    "caseStudy": true,
+    "source": "Office Snapshots",
+    "url": "https://officesnapshots.com/2026/08/03/confidential-client-offices-san-francisco-2/",
+    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/450pacificsomdaveburk002-700x386.jpg",
+    "i18n": {
+      "en": {
+        "title": "Financial Firm Opens New Office in San Francisco's Jackson Square",
+        "bullets": [
+          "The workplace is located in San Francisco's historic Jackson Square District.",
+          "The office was designed for an unnamed financial services firm.",
+          "The project reflects a trend of finance companies investing in high-quality physical office space."
+        ]
+      },
+      "ja": {
+        "title": "金融企業、サンフランシスコのジャクソンスクエアに新オフィスを開設",
+        "bullets": [
+          "このオフィスはサンフランシスコの歴史あるジャクソンスクエア地区に位置している。",
+          "クライアント名は非公開だが、金融サービス企業向けにデザインされたオフィスである。",
+          "金融業界が質の高い物理的オフィス空間に投資する傾向を反映したプロジェクトである。"
+        ]
+      },
+      "zh": {
+        "title": "某金融公司在旧金山杰克逊广场开设新办公室",
+        "bullets": [
+          "该办公室位于旧金山历史悠久的杰克逊广场区。",
+          "客户身份保密，该项目是为一家金融服务公司设计的。",
+          "该项目体现了金融企业投资高品质实体办公空间的趋势。"
+        ]
+      },
+      "ko": {
+        "title": "한 금융회사, 샌프란시스코 잭슨스퀘어에 신규 오피스 오픈",
+        "bullets": [
+          "이 오피스는 샌프란시스코의 유서 깊은 잭슨스퀘어 지구에 위치해 있다.",
+          "고객사명은 비공개이며, 금융 서비스 기업을 위해 설계되었다.",
+          "이는 금융업계가 고품질 실물 오피스 공간에 투자하는 추세를 보여주는 사례다."
         ]
       }
     }
@@ -1106,39 +1151,39 @@
     "category": "estate",
     "caseStudy": false,
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/invesco-real-estates-chase-bolding-interview/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/chasebolding-21-Edit.jpg?quality=80&amp;crop=0px%2C64px%2C2048px%2C1076px&amp;resize=1200%2C630&amp;strip\t",
+    "url": "https://commercialobserver.com/2026/08/cmbs-distress-2026-cred-iq-2/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/crediq_distress_report_july2026_1200x1200.png?w=1200&amp;h=630&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "Invesco Real Estate CIO Discusses U.S. Market Opportunities",
+        "title": "CMBS Distress Reaches 2026 High",
         "bullets": [
-          "Chase Bolding is chief investment officer and head of North American real estate at Invesco Real Estate, a $90 billion subsidiary of Invesco.",
-          "Bolding oversees portfolios covering roughly $40 billion of commercial real estate assets from New York City.",
-          "He discussed current market opportunities after 16 years at the firm, reflecting on shifts in commercial real estate investment strategy."
+          "CRED iQ's July 2026 report shows overall CMBS distress climbing to its highest level so far this year.",
+          "The data offers a loan-level breakdown of distress across the more-than-$600 billion CMBS universe.",
+          "Analysis is segmented by servicing status and deal type to help investors, brokers and lenders track risk more precisely."
         ]
       },
       "ja": {
-        "title": "インベスコ・リアルエステートCIOが米市場の投資機会を語る",
+        "title": "CMBS(商業不動産担保証券)の不良債権率、2026年最高値に",
         "bullets": [
-          "チェイス・ボールディング氏は、インベスコの900億ドル規模の子会社インベスコ・リアルエステートで、最高投資責任者兼北米不動産責任者を務めている。",
-          "ニューヨークを拠点に、約400億ドル規模の商業不動産資産を含む複数のポートフォリオを管理している。",
-          "入社16年を経て、商業不動産投資戦略の変化を踏まえた現在の市場機会について語った。"
+          "CRED iQの2026年7月レポートによると、CMBS全体の不良債権率が今年最高値に達した。",
+          "データは6000億ドル超のCMBS市場をローン単位で分析し、不良債権の実態を明らかにしている。",
+          "サービシング状況やディール種別ごとに分類され、投資家や仲介業者、貸し手がリスクをより精緻に把握できるようにしている。"
         ]
       },
       "zh": {
-        "title": "景顺房地产首席投资官谈美国市场机遇",
+        "title": "CMBS(商业地产抵押贷款证券)违约率创2026年新高",
         "bullets": [
-          "查斯·博尔丁是景顺旗下900亿美元子公司景顺房地产的首席投资官兼北美房地产业务负责人。",
-          "他常驻纽约,管理着涵盖约400亿美元商业地产资产的多个投资组合。",
-          "加入公司16年后,他谈及了商业地产投资策略的演变以及当前的市场机遇。"
+          "CRED iQ发布的2026年7月报告显示,整体CMBS不良率升至今年以来最高水平。",
+          "该数据以贷款为单位,对规模超过6000亿美元的CMBS市场进行了细分分析。",
+          "报告按贷款服务状态和交易类型分类,帮助投资者、经纪人和贷款机构更精准地评估风险。"
         ]
       },
       "ko": {
-        "title": "인베스코 리얼에스테이트 CIO, 미국 시장 기회 논의",
+        "title": "CMBS 부실률, 2026년 최고치 기록",
         "bullets": [
-          "체이스 볼딩은 인베스코의 900억 달러 규모 자회사인 인베스코 리얼에스테이트에서 최고투자책임자 겸 북미 부동산 책임자를 맡고 있다.",
-          "그는 뉴욕을 기반으로 약 400억 달러 규모의 상업용 부동산 자산을 포함한 여러 포트폴리오를 관리하고 있다.",
-          "입사 16년을 맞아 상업용 부동산 투자 전략의 변화와 현재 시장 기회에 대해 이야기했다."
+          "CRED iQ의 2026년 7월 보고서에 따르면 전체 CMBS 부실률이 올해 최고 수준에 도달했다.",
+          "이 데이터는 6000억 달러가 넘는 CMBS 시장을 대출 단위로 세분화해 분석했다.",
+          "서비싱 상태와 딜 유형별로 구분되어 투자자, 중개업체, 대출기관이 리스크를 더 정밀하게 파악할 수 있도록 돕는다."
         ]
       }
     }
@@ -1194,172 +1239,215 @@
     "category": "estate",
     "caseStudy": false,
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/08/cmbs-distress-2026-cred-iq-2/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/crediq_distress_report_july2026_1200x1200.png?w=1200&amp;h=630&amp;crop=1\t",
+    "url": "https://commercialobserver.com/2026/08/invesco-real-estates-chase-bolding-interview/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/chasebolding-21-Edit.jpg?quality=80&amp;crop=0px%2C64px%2C2048px%2C1076px&amp;resize=1200%2C630&amp;strip\t",
     "i18n": {
       "en": {
-        "title": "CMBS Distress Reaches 2026 High",
+        "title": "Invesco Real Estate CIO Discusses U.S. Market Opportunities",
         "bullets": [
-          "CRED iQ's July 2026 report shows overall CMBS distress climbing to its highest level so far this year.",
-          "The data offers a loan-level breakdown of distress across the more-than-$600 billion CMBS universe.",
-          "Analysis is segmented by servicing status and deal type to help investors, brokers and lenders track risk more precisely."
+          "Chase Bolding is chief investment officer and head of North American real estate at Invesco Real Estate, a $90 billion subsidiary of Invesco.",
+          "Bolding oversees portfolios covering roughly $40 billion of commercial real estate assets from New York City.",
+          "He discussed current market opportunities after 16 years at the firm, reflecting on shifts in commercial real estate investment strategy."
         ]
       },
       "ja": {
-        "title": "CMBS(商業不動産担保証券)の不良債権率、2026年最高値に",
+        "title": "インベスコ・リアルエステートCIOが米市場の投資機会を語る",
         "bullets": [
-          "CRED iQの2026年7月レポートによると、CMBS全体の不良債権率が今年最高値に達した。",
-          "データは6000億ドル超のCMBS市場をローン単位で分析し、不良債権の実態を明らかにしている。",
-          "サービシング状況やディール種別ごとに分類され、投資家や仲介業者、貸し手がリスクをより精緻に把握できるようにしている。"
+          "チェイス・ボールディング氏は、インベスコの900億ドル規模の子会社インベスコ・リアルエステートで、最高投資責任者兼北米不動産責任者を務めている。",
+          "ニューヨークを拠点に、約400億ドル規模の商業不動産資産を含む複数のポートフォリオを管理している。",
+          "入社16年を経て、商業不動産投資戦略の変化を踏まえた現在の市場機会について語った。"
         ]
       },
       "zh": {
-        "title": "CMBS(商业地产抵押贷款证券)违约率创2026年新高",
+        "title": "景顺房地产首席投资官谈美国市场机遇",
         "bullets": [
-          "CRED iQ发布的2026年7月报告显示,整体CMBS不良率升至今年以来最高水平。",
-          "该数据以贷款为单位,对规模超过6000亿美元的CMBS市场进行了细分分析。",
-          "报告按贷款服务状态和交易类型分类,帮助投资者、经纪人和贷款机构更精准地评估风险。"
+          "查斯·博尔丁是景顺旗下900亿美元子公司景顺房地产的首席投资官兼北美房地产业务负责人。",
+          "他常驻纽约,管理着涵盖约400亿美元商业地产资产的多个投资组合。",
+          "加入公司16年后,他谈及了商业地产投资策略的演变以及当前的市场机遇。"
         ]
       },
       "ko": {
-        "title": "CMBS 부실률, 2026년 최고치 기록",
+        "title": "인베스코 리얼에스테이트 CIO, 미국 시장 기회 논의",
         "bullets": [
-          "CRED iQ의 2026년 7월 보고서에 따르면 전체 CMBS 부실률이 올해 최고 수준에 도달했다.",
-          "이 데이터는 6000억 달러가 넘는 CMBS 시장을 대출 단위로 세분화해 분석했다.",
-          "서비싱 상태와 딜 유형별로 구분되어 투자자, 중개업체, 대출기관이 리스크를 더 정밀하게 파악할 수 있도록 돕는다."
+          "체이스 볼딩은 인베스코의 900억 달러 규모 자회사인 인베스코 리얼에스테이트에서 최고투자책임자 겸 북미 부동산 책임자를 맡고 있다.",
+          "그는 뉴욕을 기반으로 약 400억 달러 규모의 상업용 부동산 자산을 포함한 여러 포트폴리오를 관리하고 있다.",
+          "입사 16년을 맞아 상업용 부동산 투자 전략의 변화와 현재 시장 기회에 대해 이야기했다."
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9vZmZpY2VzbmFwc2hvdHMu",
-    "date": "2026-08-03",
-    "region": "na",
-    "category": "design",
-    "caseStudy": true,
-    "source": "Office Snapshots",
-    "url": "https://officesnapshots.com/2026/08/03/confidential-client-offices-san-francisco-2/",
-    "image": "https://officesnapshots.com/wp-content/uploads/2026/08/450pacificsomdaveburk002-700x386.jpg",
-    "i18n": {
-      "en": {
-        "title": "Financial Firm Opens New Office in San Francisco's Jackson Square",
-        "bullets": [
-          "The workplace is located in San Francisco's historic Jackson Square District.",
-          "The office was designed for an unnamed financial services firm.",
-          "The project reflects a trend of finance companies investing in high-quality physical office space."
-        ]
-      },
-      "ja": {
-        "title": "金融企業、サンフランシスコのジャクソンスクエアに新オフィスを開設",
-        "bullets": [
-          "このオフィスはサンフランシスコの歴史あるジャクソンスクエア地区に位置している。",
-          "クライアント名は非公開だが、金融サービス企業向けにデザインされたオフィスである。",
-          "金融業界が質の高い物理的オフィス空間に投資する傾向を反映したプロジェクトである。"
-        ]
-      },
-      "zh": {
-        "title": "某金融公司在旧金山杰克逊广场开设新办公室",
-        "bullets": [
-          "该办公室位于旧金山历史悠久的杰克逊广场区。",
-          "客户身份保密，该项目是为一家金融服务公司设计的。",
-          "该项目体现了金融企业投资高品质实体办公空间的趋势。"
-        ]
-      },
-      "ko": {
-        "title": "한 금융회사, 샌프란시스코 잭슨스퀘어에 신규 오피스 오픈",
-        "bullets": [
-          "이 오피스는 샌프란시스코의 유서 깊은 잭슨스퀘어 지구에 위치해 있다.",
-          "고객사명은 비공개이며, 금융 서비스 기업을 위해 설계되었다.",
-          "이는 금융업계가 고품질 실물 오피스 공간에 투자하는 추세를 보여주는 사례다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
-    "date": "2026-08-03",
-    "region": "global",
-    "category": "design",
-    "caseStudy": false,
-    "source": "Workplace Insight",
-    "url": "https://workplaceinsight.net/giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=giving-employees-a-say-over-office-art-may-boost-wellbeing-and-job-satisfaction-review-suggests",
-    "image": "https://workplaceinsight.net/wp-content/uploads/2022/03/Edvard_Munch_-_Workers_on_their_Way_Home_-_Google_Art_Project.jpg",
-    "i18n": {
-      "en": {
-        "title": "Study: Letting Employees Choose Office Art May Boost Wellbeing",
-        "bullets": [
-          "A systematic review by University of Roehampton researchers examined the impact of workplace art on employees.",
-          "Published in Psychology of Aesthetics, Creativity, and the Arts, the review found visual art can positively affect wellbeing, satisfaction and engagement.",
-          "Giving employees a say in selecting office artwork appeared to strengthen these positive effects."
-        ]
-      },
-      "ja": {
-        "title": "研究:オフィスアートを従業員が選べると幸福度が向上する可能性",
-        "ja_note": "",
-        "bullets": [
-          "ローハンプトン大学の研究者らが職場アートが従業員に与える影響について系統的レビューを実施した。",
-          "学術誌「Psychology of Aesthetics, Creativity, and the Arts」に掲載されたこのレビューは、視覚的アートが幸福感や満足度、エンゲージメントに良い影響を与えることを示した。",
-          "従業員がオフィスアートの選択に関与できる場合、その効果はさらに高まる傾向があった。"
-        ]
-      },
-      "zh": {
-        "title": "研究:让员工参与选择办公室艺术品或有助于提升幸福感",
-        "bullets": [
-          "罗汉普顿大学的研究人员对办公场所艺术品对员工的影响进行了系统性综述。",
-          "该研究发表于《美学、创造力与艺术心理学》期刊,发现视觉艺术能积极影响员工的幸福感、满意度和敬业度。",
-          "研究还发现,若员工能对办公室艺术品的选择拥有发言权,这些积极效果会更加明显。"
-        ]
-      },
-      "ko": {
-        "title": "연구: 직원이 사무실 미술품 선택에 참여하면 웰빙 향상 가능성",
-        "bullets": [
-          "로햄프턴 대학교 연구진이 사무실 미술품이 직원들에게 미치는 영향을 체계적으로 검토했다.",
-          "이 연구는 'Psychology of Aesthetics, Creativity, and the Arts' 저널에 게재되었으며 시각 예술이 웰빙, 만족도, 몰입도에 긍정적 영향을 준다는 것을 확인했다.",
-          "직원들이 사무실 미술품 선택에 발언권을 가질 경우 이러한 긍정적 효과가 더욱 커지는 것으로 나타났다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
+    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
     "date": "2026-08-03",
     "region": "global",
     "category": "ai",
     "caseStudy": false,
-    "source": "Workplace Insight",
-    "url": "https://workplaceinsight.net/how-msps-are-shaping-the-future-of-the-digital-workplace/?utm_source=rss&utm_medium=rss&utm_campaign=how-msps-are-shaping-the-future-of-the-digital-workplace",
-    "image": "https://workplaceinsight.net/wp-content/uploads/2021/09/tetris-db-jll-manchester-7082-7.jpg",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91580226/how-to-use-ai-to-boost-your-creativity?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-1-91580226-Work-Life-CREATIVITY-AT-WORK-You-can-use-AI-to-unleash-creativity.jpg",
     "i18n": {
       "en": {
-        "title": "Managed service providers seen as key to AI-driven digital workplaces",
+        "title": "Using AI to Spark Creative Problem-Solving at Work",
         "bullets": [
-          "JLL's 2026 Future of Work Survey finds most C-suite and corporate real estate leaders expect AI to redesign job roles and increase headcount rather than cut it.",
-          "The shift creates new pressure on organisations to integrate AI tools effectively across digital workplace infrastructure.",
-          "Managed service providers (MSPs) are positioned as central partners in helping companies manage this AI-driven transformation."
+          "The article argues most workplace tasks rely on experience-based pattern matching rather than true creativity.",
+          "Creative problem solving is needed when past experience offers no ready solution, and analogies can provide fresh insight.",
+          "The author suggests using large language models like Claude to help distill a problem to its essence and generate useful analogies."
         ]
       },
       "ja": {
-        "title": "AI主導のデジタルワークプレイス、MSPが変革の鍵に",
+        "title": "AIで創造的な問題解決力を高める方法",
         "bullets": [
-          "JLLの「2026年版働き方の未来調査」によると、多くの経営陣や企業不動産責任者はAIが職務削減ではなく役割再設計と人員増加をもたらすと予想している。",
-          "この変化により、企業はAIツールを効果的に統合する新たな課題に直面している。",
-          "マネージドサービスプロバイダー(MSP)は、このAI主導の変革を支援する重要なパートナーと位置づけられている。"
+          "職場のほとんどの業務は創造性よりも過去の経験に基づく対応で成り立っていると筆者は指摘する。",
+          "過去の経験が通用しない場面では創造的な問題解決が必要となり、類推が有効な手段となる。",
+          "筆者はClaudeなどの大規模言語モデルを使い、問題の本質を抽出して有用な類推を導き出す方法を提案している。"
         ]
       },
       "zh": {
-        "title": "MSP在AI驱动的数字化办公场所转型中扮演关键角色",
+        "title": "如何利用AI激发工作中的创造力",
         "bullets": [
-          "据仲量联行(JLL)《2026未来工作调查》显示,多数高管和企业不动产负责人预计AI将重塑岗位职能并增加员工人数,而非裁员。",
-          "这一转变给企业带来了有效整合AI工具的新压力。",
-          "托管服务提供商(MSP)被视为帮助企业应对这一AI驱动转型的重要合作伙伴。"
+          "文章指出，大多数工作任务依靠的是基于经验的模式匹配，而非真正的创造力。",
+          "当过往经验无法提供现成解决方案时，就需要创造性思维，而类比可以带来新的启发。",
+          "作者建议使用Claude等大型语言模型，帮助提炼问题本质并生成有用的类比。"
         ]
       },
       "ko": {
-        "title": "MSP, AI 주도 디지털 워크플레이스 전환의 핵심으로 부상",
+        "title": "AI로 업무 창의력을 높이는 방법",
         "bullets": [
-          "JLL의 '2026 미래 업무 조사'에 따르면 대다수 경영진과 기업 부동산 책임자들은 AI가 인력을 감축하기보다 직무를 재설계하고 인원을 늘릴 것으로 전망했다.",
-          "이러한 변화로 기업들은 AI 도구를 효과적으로 통합해야 한다는 새로운 압박에 직면했다.",
-          "관리형서비스제공업체(MSP)는 이러한 AI 주도 전환을 지원하는 핵심 파트너로 자리매김하고 있다."
+          "대부분의 업무는 진정한 창의성보다는 경험에 기반한 패턴 매칭에 의존한다고 저자는 지적한다.",
+          "과거 경험이 해결책을 제시하지 못할 때 창의적 문제 해결이 필요하며, 유추가 통찰을 제공할 수 있다.",
+          "저자는 클로드와 같은 대형 언어모델을 활용해 문제의 본질을 추출하고 유용한 유추를 이끌어내는 방법을 제안한다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-08-03",
+    "region": "na",
+    "category": "estate",
+    "caseStudy": false,
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/capital-markets/first-draft-live-betting-on-distress-with-mavik-capital-founder-vik-uppal",
+    "image": "https://a-us.storyblok.com/f/571151439874644/2528x1076/091a8b124a/first-draft-live-vik-uppal.png",
+    "i18n": {
+      "en": {
+        "title": "Mavik Capital Targets Distressed CRE Debt Amid $875B Loan Maturities",
+        "bullets": [
+          "Mavik Capital founder Vik Uppal discussed strategies for capitalizing on commercial real estate distress.",
+          "Roughly $875B in CRE loans are set to mature this year, creating potential opportunities for distressed debt investors.",
+          "The firm is positioning itself to acquire or restructure troubled loans as market volatility continues."
+        ]
+      },
+      "ja": {
+        "title": "Mavik Capital、8750億ドルのCREローン満期を前に不良債権に照準",
+        "bullets": [
+          "Mavik CapitalのVik Uppal氏が、商業用不動産の不良債権を活用する戦略について語った。",
+          "今年は約8750億ドル相当のCREローンが満期を迎え、投資家にとって好機となる可能性がある。",
+          "同社は市場の変動が続く中、問題を抱えたローンの取得や再編を狙っている。"
+        ]
+      },
+      "zh": {
+        "title": "Mavik Capital瞄准商业地产不良债务 今年8750亿美元贷款到期",
+        "bullets": [
+          "Mavik Capital创始人Vik Uppal阐述了利用商业地产困境获利的策略。",
+          "今年约有8750亿美元的商业地产贷款将到期,为不良债务投资者带来潜在机会。",
+          "在市场持续波动之际,该公司正积极布局收购或重组问题贷款。"
+        ]
+      },
+      "ko": {
+        "title": "Mavik Capital, 8750억 달러 CRE 대출 만기 앞두고 부실채권 노린다",
+        "bullets": [
+          "Mavik Capital의 설립자 빅 우팔이 상업용 부동산 부실 자산 활용 전략을 논의했다.",
+          "올해 약 8750억 달러 규모의 상업용 부동산 대출이 만기를 맞아 투자자들에게 기회가 될 수 있다.",
+          "이 회사는 시장 변동성이 지속되는 가운데 부실 대출 인수 및 재구조화를 추진하고 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-08-03",
+    "region": "na",
+    "category": "estate",
+    "caseStudy": true,
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/08/teksynap-leases-27k-sf-at-bxps-reston-town-center/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2025/11/Reston.jpg?quality=80&amp;crop=0px%2C0px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
+    "i18n": {
+      "en": {
+        "title": "TekSynap Leases 27K SF at BXP's Reston Town Center",
+        "bullets": [
+          "Federal IT contractor TekSynap signed a long-term lease for a 26,500-square-foot floor at BXP's Reston Town Center in Northern Virginia.",
+          "TekSynap provides cloud integration, cybersecurity, software development and IT modernization services for civilian, defense and intelligence agencies.",
+          "The Reston-based company will relocate less than a mile from its current office at 1900 Oracle Way to the new space."
+        ]
+      },
+      "ja": {
+        "title": "TekSynap、BXPのレストン・タウンセンターで2.7万平方フィートを賃借",
+        "bullets": [
+          "連邦政府向けITベンダーのTekSynapが、バージニア州北部BXPのレストン・タウンセンターにあるフロア(約2万6500平方フィート)の長期リース契約を締結した。",
+          "同社は民間・国防・情報機関向けにクラウド統合、サイバーセキュリティ、ソフトウェア開発、ITモダナイゼーションサービスを提供している。",
+          "レストンを拠点とする同社は、現在のオフィス1900オラクル・ウェイから1マイル未満の場所へ移転する。"
+        ]
+      },
+      "zh": {
+        "title": "联邦IT承包商TekSynap在BXP雷斯顿镇中心租下2.7万平方英尺办公空间",
+        "bullets": [
+          "联邦IT承包商TekSynap与BXP签订长期租约,承租位于弗吉尼亚州北部雷斯顿镇中心的一整层办公空间,面积约2.65万平方英尺。",
+          "该公司为民用、国防和情报机构提供云集成、网络安全、软件开发和IT现代化服务。",
+          "总部位于雷斯顿的该公司此次搬迁地点距离现址1900 Oracle Way不到一英里。"
+        ]
+      },
+      "ko": {
+        "title": "TekSynap, BXP 레스턴 타운센터에 2만7천 평방피트 임대",
+        "bullets": [
+          "연방 정부 IT 계약업체 TekSynap이 버지니아주 북부 BXP의 레스턴 타운센터에서 약 2만6500평방피트 규모의 한 층을 장기 임대 계약했다.",
+          "이 회사는 민간, 국방, 정보기관을 대상으로 클라우드 통합, 사이버보안, 소프트웨어 개발, IT 현대화 서비스를 제공한다.",
+          "레스턴에 본사를 둔 이 회사는 현재 사무실인 1900 오라클 웨이에서 1마일도 안 되는 거리로 이전할 예정이다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuZmFzdGNvbXBhbnku",
+    "date": "2026-08-03",
+    "region": "na",
+    "category": "ai",
+    "caseStudy": false,
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91584403/pwcs-us-ceo-on-the-career-advice-he-gave-to-his-kids?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+    "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/f_webp,q_auto,c_fit/wp-cms-2/2026/08/p-91584403-paul-griggs-advice-pwc-us-ceo.jpg",
+    "i18n": {
+      "en": {
+        "title": "PwC CEO Defends Accounting Careers Amid AI-Driven Hiring Shifts",
+        "bullets": [
+          "PwC U.S. CEO Paul Griggs says he supports his college-age children pursuing accounting careers despite AI-driven hiring changes.",
+          "PwC is hiring more data scientists and engineers while also recruiting nontraditional backgrounds like liberal arts majors for broad knowledge in the AI era.",
+          "The firm has cut entry-level advisory hiring to 13 offices from 72 and plans to recruit a third fewer new graduates by 2028."
+        ]
+      },
+      "ja": {
+        "title": "PwC米CEO、AI時代でも会計士のキャリアを後押し",
+        "bullets": [
+          "PwC米国CEOのポール・グリッグス氏は、AIによる採用方針の変化にもかかわらず、大学生の子どもたちが会計士を目指すことを支持していると語った。",
+          "PwCはデータサイエンティストやエンジニアの採用を増やす一方、AI時代に必要な幅広い知識を持つ人材として、リベラルアーツ専攻など非伝統的な背景の人材も採用している。",
+          "同社はアドバイザリー部門の新卒採用拠点を72から13に削減し、2028年までに新卒採用数を3分の1減らす計画だ。"
+        ]
+      },
+      "zh": {
+        "title": "普华永道美国CEO：AI时代仍支持子女从事会计职业",
+        "bullets": [
+          "普华永道美国CEO保罗·格里格斯表示,尽管公司因AI调整招聘策略，他仍支持就读大学的子女从事会计职业。",
+          "普华永道在增加数据科学家和工程师招聘的同时，也开始招募文科等非传统背景人才，以应对AI时代对广博知识的需求。",
+          "该公司已将咨询部门应届生招聘办公地点从72个减至13个，并计划到2028年将应届生招聘人数减少三分之一。"
+        ]
+      },
+      "ko": {
+        "title": "PwC 미국 CEO, AI 시대에도 회계 커리어 지지",
+        "bullets": [
+          "PwC 미국 CEO 폴 그릭스는 회사가 AI로 인해 채용 방식을 바꾸고 있음에도 대학생 자녀들이 회계 분야로 진로를 정하는 것을 지지한다고 밝혔다.",
+          "PwC는 데이터 과학자와 엔지니어 채용을 늘리는 한편, AI 시대에 필요한 폭넓은 지식을 위해 인문학 전공 등 비전통적 배경의 인재도 채용하고 있다.",
+          "이 회사는 어드바이저리 부문 신입 채용 사무소를 72곳에서 13곳으로 줄였고, 2028년까지 신입 채용 인원을 3분의 1 줄일 계획이다."
         ]
       }
     }
@@ -1403,6 +1491,33 @@
           "연구에 따르면 퇴근 후 취미나 활동이 직장에서의 창의성을 높이며, AI가 반복 업무를 대체하는 시대에 중요한 차별화 요소가 되고 있다.",
           "미국인들은 사교, 취미, 독서, 운동보다 TV 시청과 소셜미디어 이용에 더 많은 여가 시간을 쓰고 있다.",
           "건강한 가정생활과 공동체 유대, 업무로부터의 심리적 분리, 직업과 별개인 자아 정체성이 직장 내 회복력에 기여한다는 연구도 있지만 이러한 요소들은 감소하고 있다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu",
+    "date": "2026-08-01",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/dallas-ft-worth/capital-markets/jvp-development-betting-37m-of-its-own-money-that-frisco-is-ready-for-spec-office-135655",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1920x1306/103f486bce/6a6d02e325380-office-lobby-1-1.jpeg",
+    "i18n": {
+      "en": {
+        "title": "Developer Bets $37M on Speculative Office Building in Frisco, Texas",
+        "bullets": [
+          "JVP Development is self-funding a $37 million speculative office building in Frisco, part of the Dallas-Fort Worth metro area.",
+          "New office construction nationwide has fallen to historic lows, making this project an outlier.",
+          "DFW remains one of the few U.S. markets where developers are willing to build office space without pre-leased tenants."
+        ]
+      },
+      "ja": {
+        "title": "デベロッパーが3700万ドルを投じ、テキサス州フリスコに投機的オフィスビルを開発",
+        "bullets": [
+          "JVPデベロップメントは、ダラス・フォートワース都市圏にあるフリスコで、自己資金3700万ドルによる投機的オフィスビル開発を進めている。",
+          "全米的にオフィスの新規建設は歴史的低水準にあり、この案件は異例のケースとなっている。",
+          "DFWは、テナントの事前契約なしにオフィス開発に踏み切るデベロッパーが依然として存在する数少ない米市場の一つである。"
         ]
       }
     }
@@ -1452,28 +1567,87 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cu",
-    "date": "2026-08-01",
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-07-31",
     "region": "na",
     "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/dallas-ft-worth/capital-markets/jvp-development-betting-37m-of-its-own-money-that-frisco-is-ready-for-spec-office-135655",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1920x1306/103f486bce/6a6d02e325380-office-lobby-1-1.jpeg",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Publix-Walmart-Neighborhood-Market-credit-Getty-Images.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
     "i18n": {
       "en": {
-        "title": "Developer Bets $37M on Speculative Office Building in Frisco, Texas",
+        "title": "Kimco Realty Acquires Two Broward County Retail Centers for $109M",
         "bullets": [
-          "JVP Development is self-funding a $37 million speculative office building in Frisco, part of the Dallas-Fort Worth metro area.",
-          "New office construction nationwide has fallen to historic lows, making this project an outlier.",
-          "DFW remains one of the few U.S. markets where developers are willing to build office space without pre-leased tenants."
+          "Kimco Realty purchased two grocery-anchored retail centers in Broward County, Florida from KPR Centers for a combined $109 million.",
+          "The largest deal involved a $56 million payment for Sunshine Plaza, a 245,744-square-foot property on West Commercial Boulevard.",
+          "Kimco is one of the largest owners of grocery-anchored retail centers in the United States."
         ]
       },
       "ja": {
-        "title": "デベロッパーが3700万ドルを投じ、テキサス州フリスコに投機的オフィスビルを開発",
+        "title": "キムコ・リアルティ、フロリダ州ブロワード郡の小売センター2棟を1億900万ドルで取得",
         "bullets": [
-          "JVPデベロップメントは、ダラス・フォートワース都市圏にあるフリスコで、自己資金3700万ドルによる投機的オフィスビル開発を進めている。",
-          "全米的にオフィスの新規建設は歴史的低水準にあり、この案件は異例のケースとなっている。",
-          "DFWは、テナントの事前契約なしにオフィス開発に踏み切るデベロッパーが依然として存在する数少ない米市場の一つである。"
+          "キムコ・リアルティは、KPRセンターズからフロリダ州ブロワード郡のグロサリー併設型小売センター2棟を合計1億900万ドルで購入した。",
+          "最大の取引はサンシャイン・プラザで、ウェスト・コマーシャル・ブールバード沿いの延べ床面積24万5744平方フィートの物件を5600万ドルで取得した。",
+          "キムコは全米最大級のグロサリー併設型小売センター保有企業の一つである。"
+        ]
+      },
+      "zh": {
+        "title": "金科房地产以1.09亿美元收购布劳沃德县两处零售中心",
+        "bullets": [
+          "金科房地产(Kimco Realty)从KPR Centers手中收购了佛罗里达州布劳沃德县两处以超市为主力店的零售中心,总价1.09亿美元。",
+          "其中最大一笔交易为以5600万美元收购Sunshine Plaza,该物业位于西商业大道,建筑面积达245,744平方英尺。",
+          "金科是美国最大的超市主力店零售中心业主之一。"
+        ]
+      },
+      "ko": {
+        "title": "킴코 리얼티, 브로워드 카운티 소매 센터 2곳 1억 900만 달러에 인수",
+        "bullets": [
+          "킴코 리얼티는 KPR 센터스로부터 플로리다주 브로워드 카운티의 식료품점 앵커형 소매 센터 2곳을 총 1억 900만 달러에 인수했다.",
+          "최대 규모 거래는 웨스트 커머셜 대로에 위치한 24만 5744평방피트 규모의 선샤인 플라자로, 매입가는 5600만 달러였다.",
+          "킴코는 미국에서 식료품점 앵커형 소매 센터를 가장 많이 보유한 기업 중 하나다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
+    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Kenneth-Schuckman-Whitestone-Queens-credit-Getty-Images.jpg?quality=80&amp;crop=0px%2C29px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
+    "i18n": {
+      "en": {
+        "title": "Schuckman-Led Fund Buys Queens Shopping Center for $56M",
+        "bullets": [
+          "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, acquired the Whitestone Shopping Center in Queens for $56 million.",
+          "The property, anchored by a Key Food supermarket, is located at 153-15 Cross Island Parkway.",
+          "The seller was Punia & Marx Real Estate, according to a deed transfer filed in property records."
+        ]
+      },
+      "ja": {
+        "title": "シャックマン率いるファンド、クイーンズのショッピングセンターを5600万ドルで取得",
+        "bullets": [
+          "ケネス・シャックマン氏とアーロン・マリンスキー氏率いるBTFキャピタルファンドが、クイーンズのホワイトストーン・ショッピングセンターを5600万ドルで買収した。",
+          "同物件はキー・フードのスーパーマーケットを核店舗とし、クロス・アイランド・パークウェイ153-15番地に位置する。",
+          "売主はプニア&マークス・リアルエステートで、不動産記録に登録された譲渡証書により明らかになった。"
+        ]
+      },
+      "zh": {
+        "title": "舒克曼旗下基金以5600万美元收购皇后区购物中心",
+        "bullets": [
+          "由肯尼斯·舒克曼和亚伦·马林斯基领导的BTF资本基金，以5600万美元收购了皇后区的白石购物中心。",
+          "该物业以Key Food超市为主力店，位于Cross Island Parkway 153-15号。",
+          "卖方为Punia & Marx地产公司，交易信息来自房产记录中提交的产权转让文件。"
+        ]
+      },
+      "ko": {
+        "title": "슈크먼 주도 펀드, 퀸즈 쇼핑센터 5600만 달러에 인수",
+        "bullets": [
+          "케네스 슈크먼과 아론 말린스키가 이끄는 BTF캐피털펀드가 퀸즈의 화이트스톤 쇼핑센터를 5600만 달러에 매입했다.",
+          "이 부동산은 키푸드 슈퍼마켓을 앵커로 두고 있으며, 크로스 아일랜드 파크웨이 153-15번지에 위치한다.",
+          "매도자는 푸니아앤드마크스 부동산으로, 금요일 등록된 부동산 양도 증서를 통해 확인됐다."
         ]
       }
     }
@@ -1483,296 +1657,40 @@
     "date": "2026-07-31",
     "region": "na",
     "category": "estate",
-    "caseStudy": false,
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/washington-dc/deal-sheet/manassas-gated-community-sale-dc-deal-sheet-135646",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1474x1004/64496d0ab1/6a6cdd067a7d2-screenshot-2026-07-31-at-1-35-19-pm.png",
+    "url": "https://www.bisnow.com/news/denver/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1696x1155/971adbf6c2/6202c57b3b7fa-skyline.jpeg",
     "i18n": {
       "en": {
-        "title": "D.C. Deal Sheet: Office Sale and Leasing Activity Highlight Weekly Roundup",
+        "title": "Federal Government to Sell Nearly 31K SF Office Property in Denver's Five Points",
         "bullets": [
-          "A downtown Washington, D.C. office building sold for $26 million this week.",
-          "New leasing activity was reported at the 1800 M Street office property.",
-          "The roundup also covers a 270-unit gated residential sale in Manassas and a new head of Prince George's County Planning Board."
+          "The U.S. federal government is putting a nearly 31,000-square-foot property in Denver's Five Points neighborhood up for sale.",
+          "The listing is part of this week's roundup of top commercial real estate deals in the Denver area.",
+          "The sale reflects ongoing federal efforts to offload underutilized office space amid changing space needs."
         ]
       },
       "ja": {
-        "title": "DCディールシート：オフィス売却とリース活動が今週のハイライト",
+        "title": "米連邦政府、デンバーのファイブポインツ地区で約2,880㎡のオフィス物件を売却へ",
         "bullets": [
-          "ワシントンD.C.中心部のオフィスビルが今週2600万ドルで売却された。",
-          "1800 Mストリートのオフィス物件で新たなリース契約が報告された。",
-          "このほかマナサスの270戸のゲーテッドコミュニティ売却や、プリンスジョージズ郡計画委員会の新委員長就任も取り上げられている。"
+          "米連邦政府がデンバーのファイブポインツ地区にある約31,000平方フィート（約2,880㎡)の物件を売却に出した。",
+          "この売却案件は、デンバー地域における今週の主要商業不動産取引まとめの一つとして紹介されている。",
+          "この売却は、利用率の低いオフィススペースを削減しようとする連邦政府の継続的な取り組みを反映している。"
         ]
       },
       "zh": {
-        "title": "华盛顿地产周报：市中心写字楼售价2600万美元，租赁活跃",
+        "title": "美国联邦政府拟出售丹佛五点区约2880平方米办公物业",
         "bullets": [
-          "华盛顿特区市中心一栋写字楼本周以2600万美元售出。",
-          "1800 M街办公物业出现新的租赁活动。",
-          "报告还提及马纳萨斯一处270户封闭式社区的出售，以及乔治王子县规划委员会新任负责人的任命。"
+          "美国联邦政府正将丹佛五点区（Five Points）一处约31,000平方英尺（约2880平方米）的物业挂牌出售。",
+          "该交易是本周丹佛地区主要商业地产交易汇总中的一项。",
+          "此次出售反映了联邦政府持续清理利用率低的办公空间的做法。"
         ]
       },
       "ko": {
-        "title": "워싱턴 DC 부동산 딜시트: 오피스 빌딩 2600만 달러에 매각, 임대 활동도 활발",
+        "title": "美 연방정부, 덴버 파이브포인츠 지역 약 2,880㎡ 오피스 매각 추진",
         "bullets": [
-          "이번 주 워싱턴 DC 도심의 한 오피스 빌딩이 2600만 달러에 매각됐다.",
-          "1800 M 스트리트 오피스 자산에서 새로운 임대 계약이 체결됐다.",
-          "이 외에도 매너서스의 270세대 게이티드 커뮤니티 매각과 프린스조지 카운티 계획위원회 신임 위원장 소식도 다뤄졌다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu7",
-    "date": "2026-07-31",
-    "region": "global",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
-    "i18n": {
-      "en": {
-        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
-        "bullets": [
-          "Property management firms are increasingly integrating AI tools into daily workflows.",
-          "Roughly half a million property manager positions could be affected by this shift.",
-          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
-        ]
-      },
-      "ja": {
-        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
-        "bullets": [
-          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
-          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
-          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu6",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/south-florida/office/boston-firm-with-ties-to-sfl-businesses-airlines-offers-88m-for-former-spirit-hq-135650",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1562x1065/05a280a83d/69f4d3be2e3dd-screenshot-2026-05-01-at-12-12-59-pm.png",
-    "i18n": {
-      "en": {
-        "title": "Hedge Fund Bids $88M for Spirit Airlines' Former Headquarters",
-        "bullets": [
-          "A hedge fund has placed an $88 million bid on Spirit Airlines' former headquarters building.",
-          "This marks the first bid received since the property was scheduled for auction in June.",
-          "The auction follows Spirit Airlines' departure from the office space."
-        ]
-      },
-      "ja": {
-        "title": "ヘッジファンド、スピリット航空の旧本社ビルに8800万ドルで入札",
-        "bullets": [
-          "あるヘッジファンドが、スピリット航空の旧本社ビルに8800万ドルの入札を行った。",
-          "この物件は6月に競売にかけられることが決まっており、今回が初の入札となる。",
-          "スピリット航空が同オフィスから撤退したことを受けての競売実施となる。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu5",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "work",
-    "source": "Fast Company - Work Life",
-    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
-    "i18n": {
-      "en": {
-        "title": "American workers grow more skeptical of AI even as usage rises",
-        "bullets": [
-          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
-          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
-          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
-        ]
-      },
-      "ja": {
-        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
-        "bullets": [
-          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
-          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
-          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21t2",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
-    "i18n": {
-      "en": {
-        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
-        "bullets": [
-          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
-          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
-          "The seller was Edison Properties, a New Jersey-based real estate firm."
-        ]
-      },
-      "ja": {
-        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
-        "bullets": [
-          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
-          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
-          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu4",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "i18n": {
-      "en": {
-        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
-        "bullets": [
-          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
-          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
-          "The freeze highlights financial pressures facing the company's UK operations."
-        ]
-      },
-      "ja": {
-        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
-        "bullets": [
-          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
-          "この措置は同社の資金繰り問題が続いていることを示している。",
-          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu3",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
-    "i18n": {
-      "en": {
-        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
-        "bullets": [
-          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
-          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
-          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
-        ]
-      },
-      "ja": {
-        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
-        "bullets": [
-          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
-          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
-          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cu2",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
-    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
-    "i18n": {
-      "en": {
-        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
-        "bullets": [
-          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
-          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
-          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
-        ]
-      },
-      "ja": {
-        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
-        "bullets": [
-          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
-          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
-          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9jb21t",
-    "date": "2026-07-31",
-    "region": "na",
-    "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
-    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
-    "i18n": {
-      "en": {
-        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
-        "bullets": [
-          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
-          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
-          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
-        ]
-      },
-      "ja": {
-        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
-        "bullets": [
-          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
-          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
-          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
-    "date": "2026-07-31",
-    "region": "eu",
-    "category": "estate",
-    "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/national/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1243x848/633c7e38b4/6a6ccf9908a5c-avisonyoungforleasesalesign.jpeg",
-    "i18n": {
-      "en": {
-        "title": "Avison Young's UK Accounts Frozen Over Unpaid Taxes",
-        "bullets": [
-          "A UK court order had frozen Avison Young's bank accounts after the brokerage failed to pay taxes owed to the government.",
-          "A judge has since lifted the freeze, allowing the company's UK entities to settle the outstanding tax bill.",
-          "The amount owed to UK tax authorities is reported to be in the millions of pounds."
-        ]
-      },
-      "ja": {
-        "title": "エイビソン・ヤング、未納税で英国口座が凍結",
-        "bullets": [
-          "英国の裁判所命令により、不動産仲介大手エイビソン・ヤングの銀行口座が未納税を理由に凍結された。",
-          "その後、裁判官が凍結を解除し、同社の英国法人が未払い税を納付できるようになった。",
-          "政府に対する未払い税額は数百万ポンド規模とされている。"
-        ]
-      },
-      "zh": {
-        "title": "Avison Young英国账户因欠税被冻结",
-        "bullets": [
-          "英国法院此前下令冻结房地产经纪公司Avison Young的银行账户,原因是该公司欠缴税款。",
-          "此后法官解除了冻结令,使该公司英国子公司得以偿还所欠税款。",
-          "据报道,该公司拖欠英国政府的税款达数百万英镑。"
-        ]
-      },
-      "ko": {
-        "title": "에이비슨 영, 세금 체납으로 英 계좌 동결",
-        "bullets": [
-          "영국 법원이 부동산 중개업체 에이비슨 영의 은행 계좌를 세금 체납을 이유로 동결한 바 있다.",
-          "이후 판사가 동결 조치를 해제해 회사의 영국 법인들이 밀린 세금을 납부할 수 있게 됐다.",
-          "영국 정부에 체납한 세액은 수백만 파운드에 달하는 것으로 알려졌다."
+          "미국 연방정부가 덴버 파이브포인츠 지역의 약 31,000평방피트(약 2,880㎡) 규모 부동산을 매각 대상으로 내놓았다.",
+          "이번 매각은 덴버 지역의 이번 주 주요 상업용 부동산 거래 목록에 포함됐다.",
+          "이는 활용도가 낮은 연방정부 오피스 공간을 정리하려는 지속적인 노력의 일환으로 풀이된다."
         ]
       }
     }
@@ -1823,128 +1741,298 @@
   {
     "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
     "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1243x848/633c7e38b4/6a6ccf9908a5c-avisonyoungforleasesalesign.jpeg",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Accounts Frozen Over Unpaid Taxes",
+        "bullets": [
+          "A UK court order had frozen Avison Young's bank accounts after the brokerage failed to pay taxes owed to the government.",
+          "A judge has since lifted the freeze, allowing the company's UK entities to settle the outstanding tax bill.",
+          "The amount owed to UK tax authorities is reported to be in the millions of pounds."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング、未納税で英国口座が凍結",
+        "bullets": [
+          "英国の裁判所命令により、不動産仲介大手エイビソン・ヤングの銀行口座が未納税を理由に凍結された。",
+          "その後、裁判官が凍結を解除し、同社の英国法人が未払い税を納付できるようになった。",
+          "政府に対する未払い税額は数百万ポンド規模とされている。"
+        ]
+      },
+      "zh": {
+        "title": "Avison Young英国账户因欠税被冻结",
+        "bullets": [
+          "英国法院此前下令冻结房地产经纪公司Avison Young的银行账户,原因是该公司欠缴税款。",
+          "此后法官解除了冻结令,使该公司英国子公司得以偿还所欠税款。",
+          "据报道,该公司拖欠英国政府的税款达数百万英镑。"
+        ]
+      },
+      "ko": {
+        "title": "에이비슨 영, 세금 체납으로 英 계좌 동결",
+        "bullets": [
+          "영국 법원이 부동산 중개업체 에이비슨 영의 은행 계좌를 세금 체납을 이유로 동결한 바 있다.",
+          "이후 판사가 동결 조치를 해제해 회사의 영국 법인들이 밀린 세금을 납부할 수 있게 됐다.",
+          "영국 정부에 체납한 세액은 수백만 파운드에 달하는 것으로 알려졌다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Commercial Observer",
+    "url": "https://commercialobserver.com/2026/07/eurostars-buys-chemists-club-hotel-52-east-41st-street/",
+    "image": "https://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Chemists-Club-Hotel-52-E-41st-St-RF-GettyImages-2278838652-WEB.jpg?quality=80&crop=0px%2C57px%2C2000px%2C1050px&resize=1200%2C630&strip",
+    "i18n": {
+      "en": {
+        "title": "Spanish Hotel Operator Buys Chemists' Club Hotel in Midtown Manhattan for $95M",
+        "bullets": [
+          "Eurostars Hotel Company purchased the 107-key Chemists' Club Hotel at 52 East 41st Street for approximately $95 million.",
+          "The seller, Azora, is another Spanish firm specializing in large-scale hotel investments.",
+          "Eastdil Secured was involved in facilitating the transaction, according to a source familiar with the deal."
+        ]
+      },
+      "ja": {
+        "title": "スペインのホテル運営会社、ミッドタウンのケミスツ・クラブ・ホテルを9500万ドルで取得",
+        "bullets": [
+          "ユーロスターズ・ホテル・カンパニーが、52イースト41丁目にある107室のケミスツ・クラブ・ホテルを約9500万ドルで購入した。",
+          "売却元は大規模ホテル投資を専門とする同じくスペイン企業のアゾラである。",
+          "取引には関係筋によるとイーストディル・セキュアードが関与したという。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu2",
+    "date": "2026-07-31",
     "region": "na",
     "category": "estate",
     "source": "Bisnow",
-    "url": "https://www.bisnow.com/news/denver/commercial-real-estate/federal-government-to-sell-nearly-31k-sf-in-five-points-the-denver-deal-sheet-135653",
-    "image": "https://a-us.storyblok.com/f/571151439874644/1696x1155/971adbf6c2/6202c57b3b7fa-skyline.jpeg",
+    "url": "https://www.bisnow.com/chicago/news/commercial-real-estate/mars-factory-overhaul-stalls-as-candy-makers-chicago-expansion-accelerates-135647",
+    "image": "https://cdn.bisnow.net/fit?height=736&type=png&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2026%2F07%2F6a6ce59736700-screenshot-capture-2026-07-31-14-10-51.png&width=1080&sign=mtguBCCcV8Hf5m5CsZ3DIU9Py0JG80BgnuFF0kz3XRY",
     "i18n": {
       "en": {
-        "title": "Federal Government to Sell Nearly 31K SF Office Property in Denver's Five Points",
+        "title": "Chicago Mars Wrigley Factory Redevelopment Stalls Amid Public Opposition",
         "bullets": [
-          "The U.S. federal government is putting a nearly 31,000-square-foot property in Denver's Five Points neighborhood up for sale.",
-          "The listing is part of this week's roundup of top commercial real estate deals in the Denver area.",
-          "The sale reflects ongoing federal efforts to offload underutilized office space amid changing space needs."
+          "The former Mars Wrigley candy factory at 2019 N. Oak Park Ave. in Chicago's Galewood neighborhood has been shuttered and is slated for redevelopment.",
+          "Plans to convert the site have stalled following a series of contentious public meetings with local residents.",
+          "The stall comes even as Mars Wrigley separately accelerates expansion elsewhere in the Chicago area."
         ]
       },
       "ja": {
-        "title": "米連邦政府、デンバーのファイブポインツ地区で約2,880㎡のオフィス物件を売却へ",
+        "title": "シカゴのマーズ・リグリー旧工場再開発、住民の反発で停滞",
         "bullets": [
-          "米連邦政府がデンバーのファイブポインツ地区にある約31,000平方フィート（約2,880㎡)の物件を売却に出した。",
-          "この売却案件は、デンバー地域における今週の主要商業不動産取引まとめの一つとして紹介されている。",
-          "この売却は、利用率の低いオフィススペースを削減しようとする連邦政府の継続的な取り組みを反映している。"
-        ]
-      },
-      "zh": {
-        "title": "美国联邦政府拟出售丹佛五点区约2880平方米办公物业",
-        "bullets": [
-          "美国联邦政府正将丹佛五点区（Five Points）一处约31,000平方英尺（约2880平方米）的物业挂牌出售。",
-          "该交易是本周丹佛地区主要商业地产交易汇总中的一项。",
-          "此次出售反映了联邦政府持续清理利用率低的办公空间的做法。"
-        ]
-      },
-      "ko": {
-        "title": "美 연방정부, 덴버 파이브포인츠 지역 약 2,880㎡ 오피스 매각 추진",
-        "bullets": [
-          "미국 연방정부가 덴버 파이브포인츠 지역의 약 31,000평방피트(약 2,880㎡) 규모 부동산을 매각 대상으로 내놓았다.",
-          "이번 매각은 덴버 지역의 이번 주 주요 상업용 부동산 거래 목록에 포함됐다.",
-          "이는 활용도가 낮은 연방정부 오피스 공간을 정리하려는 지속적인 노력의 일환으로 풀이된다."
+          "シカゴ・ゲールウッド地区にあるマーズ・リグリーの旧キャンディ工場(2019 N. Oak Park Ave.)は閉鎖され、再開発が計画されている。",
+          "地元住民との対立を招いた公聴会が相次いだ結果、再開発計画は停滞している。",
+          "一方でマーズ・リグリーはシカゴ都市圏の他地域での事業拡大を加速させている。"
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "id": "a_aHR0cHM6Ly93d3cu3",
     "date": "2026-07-31",
-    "region": "na",
+    "region": "eu",
     "category": "estate",
-    "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/schuckman-realty-buys-153-15-cross-island-parkway-queens/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Kenneth-Schuckman-Whitestone-Queens-credit-Getty-Images.jpg?quality=80&amp;crop=0px%2C29px%2C2000px%2C1051px&amp;resize=1200%2C630&amp;strip\t",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/dublin/news/commercial-real-estate/artificial-intelligence-companies-reshaping-dublin-office-demand-as-openai-confirms-hq-135642",
     "i18n": {
       "en": {
-        "title": "Schuckman-Led Fund Buys Queens Shopping Center for $56M",
+        "title": "OpenAI Confirms Dublin HQ as AI Firms Boost Office Demand",
         "bullets": [
-          "BTF Capital Fund, led by Kenneth Schuckman and Aaron Malinsky, acquired the Whitestone Shopping Center in Queens for $56 million.",
-          "The property, anchored by a Key Food supermarket, is located at 153-15 Cross Island Parkway.",
-          "The seller was Punia & Marx Real Estate, according to a deed transfer filed in property records."
+          "OpenAI has leased the Tropical Fruit Warehouse building as its new European headquarters.",
+          "The lease covers 88,000 square feet to accommodate the company's growing Dublin workforce.",
+          "OpenAI currently employs about 100 people in Dublin and plans to add 250 new roles."
         ]
       },
       "ja": {
-        "title": "シャックマン率いるファンド、クイーンズのショッピングセンターを5600万ドルで取得",
+        "title": "OpenAI、ダブリン欧州本社を正式決定 AI企業がオフィス需要押し上げ",
         "bullets": [
-          "ケネス・シャックマン氏とアーロン・マリンスキー氏率いるBTFキャピタルファンドが、クイーンズのホワイトストーン・ショッピングセンターを5600万ドルで買収した。",
-          "同物件はキー・フードのスーパーマーケットを核店舗とし、クロス・アイランド・パークウェイ153-15番地に位置する。",
-          "売主はプニア&マークス・リアルエステートで、不動産記録に登録された譲渡証書により明らかになった。"
-        ]
-      },
-      "zh": {
-        "title": "舒克曼旗下基金以5600万美元收购皇后区购物中心",
-        "bullets": [
-          "由肯尼斯·舒克曼和亚伦·马林斯基领导的BTF资本基金，以5600万美元收购了皇后区的白石购物中心。",
-          "该物业以Key Food超市为主力店，位于Cross Island Parkway 153-15号。",
-          "卖方为Punia & Marx地产公司，交易信息来自房产记录中提交的产权转让文件。"
-        ]
-      },
-      "ko": {
-        "title": "슈크먼 주도 펀드, 퀸즈 쇼핑센터 5600만 달러에 인수",
-        "bullets": [
-          "케네스 슈크먼과 아론 말린스키가 이끄는 BTF캐피털펀드가 퀸즈의 화이트스톤 쇼핑센터를 5600만 달러에 매입했다.",
-          "이 부동산은 키푸드 슈퍼마켓을 앵커로 두고 있으며, 크로스 아일랜드 파크웨이 153-15번지에 위치한다.",
-          "매도자는 푸니아앤드마크스 부동산으로, 금요일 등록된 부동산 양도 증서를 통해 확인됐다."
+          "OpenAIはダブリンの「トロピカル・フルーツ・ウェアハウス」ビルを欧州本社として賃借した。",
+          "契約面積は約8.8万平方フィートで、増加する従業員に対応する。",
+          "現在ダブリンには約100人の従業員がおり、今後250人の新規採用を計画している。"
         ]
       }
     }
   },
   {
-    "id": "a_aHR0cHM6Ly9jb21tZXJjaWFsb2JzZXJ2",
+    "id": "a_aHR0cHM6Ly93d3cu4",
+    "date": "2026-07-31",
+    "region": "eu",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/national/news/commercial-real-estate/uk-bank-froze-avison-young-assets-over-unpaid-taxes-135648",
+    "i18n": {
+      "en": {
+        "title": "Avison Young's UK Units Face Asset Freeze Over Unpaid Taxes",
+        "bullets": [
+          "A bank froze assets of Avison Young's UK companies following unpaid tax bills.",
+          "The move reflects ongoing cash flow problems at the commercial real estate services firm.",
+          "The freeze highlights financial pressures facing the company's UK operations."
+        ]
+      },
+      "ja": {
+        "title": "エイビソン・ヤング英国法人、未払い税金で資産凍結",
+        "bullets": [
+          "銀行が未払いの税金を理由にエイビソン・ヤングの英国法人の資産を凍結した。",
+          "この措置は同社の資金繰り問題が続いていることを示している。",
+          "資産凍結により、同社の英国事業が財務的圧力に直面していることが浮き彫りになった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly9jb21t2",
     "date": "2026-07-31",
     "region": "na",
     "category": "estate",
     "source": "Commercial Observer",
-    "url": "https://commercialobserver.com/2026/07/kimco-kpr-sunshine-plaza-pompano-marketplace-florida-retail/",
-    "image": "\n\t\thttps://commercialobserver.com/wp-content/uploads/sites/3/2026/07/Publix-Walmart-Neighborhood-Market-credit-Getty-Images.jpg?quality=80&amp;w=1200&amp;h=630&amp;crop=1\t",
+    "url": "https://commercialobserver.com/2026/07/cw-realty-buys-55-smith-street-brooklyn/",
     "i18n": {
       "en": {
-        "title": "Kimco Realty Acquires Two Broward County Retail Centers for $109M",
+        "title": "CW Realty Closes $58M Purchase of 55 Smith Street in Downtown Brooklyn",
         "bullets": [
-          "Kimco Realty purchased two grocery-anchored retail centers in Broward County, Florida from KPR Centers for a combined $109 million.",
-          "The largest deal involved a $56 million payment for Sunshine Plaza, a 245,744-square-foot property on West Commercial Boulevard.",
-          "Kimco is one of the largest owners of grocery-anchored retail centers in the United States."
+          "CW Realty Group, led by Cheskie Weisz, completed the acquisition of a parking facility at 55 Smith Street in Downtown Brooklyn.",
+          "The deal, valued at $58 million, closed on Friday after a contract was signed in December.",
+          "The seller was Edison Properties, a New Jersey-based real estate firm."
         ]
       },
       "ja": {
-        "title": "キムコ・リアルティ、フロリダ州ブロワード郡の小売センター2棟を1億900万ドルで取得",
+        "title": "CWリアルティ、ブルックリンのスミス通り55番地を5800万ドルで取得完了",
         "bullets": [
-          "キムコ・リアルティは、KPRセンターズからフロリダ州ブロワード郡のグロサリー併設型小売センター2棟を合計1億900万ドルで購入した。",
-          "最大の取引はサンシャイン・プラザで、ウェスト・コマーシャル・ブールバード沿いの延べ床面積24万5744平方フィートの物件を5600万ドルで取得した。",
-          "キムコは全米最大級のグロサリー併設型小売センター保有企業の一つである。"
+          "チェスキー・ワイズ氏率いるCWリアルティ・グループが、ダウンタウン・ブルックリンの駐車施設「スミス通り55番地」の取得を完了した。",
+          "取引額は5800万ドルで、昨年12月に契約を締結後、金曜日に成約した。",
+          "売主はニュージャージーを拠点とする不動産会社エジソン・プロパティーズだった。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu5",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "work",
+    "source": "Fast Company - Work Life",
+    "url": "https://www.fastcompany.com/91582618/american-workers-are-more-disillusioned-with-ai-the-more-they-use-it?partner=rss&utm_source=rss&utm_medium=feed&utm_campaign=rss+fastcompany&utm_content=rss",
+    "i18n": {
+      "en": {
+        "title": "American workers grow more skeptical of AI even as usage rises",
+        "bullets": [
+          "A Gallup poll finds 39% of Americans now believe AI does more harm than good, up from 31% in 2024-2025.",
+          "Skepticism is highest among 18-29 year-olds, with 47% saying AI causes more harm than benefit.",
+          "Federal Reserve data shows 41% of employees now use generative AI at work, up 31% year over year, even as distrust grows."
+        ]
+      },
+      "ja": {
+        "title": "AI利用が増える一方、米国の労働者の不信感も高まる",
+        "bullets": [
+          "ギャラップの調査によると、AIが害の方が大きいと考える米国人は39%に増加し、2024〜25年の31%から上昇した。",
+          "特に18〜29歳の若年層では47%がAIの弊害を懸念しており、他の年齢層より高い割合となっている。",
+          "米連邦準備制度理事会（FRB）のデータでは、職場で生成AIを使う従業員が41%に達し前年から31%増加したが、それでも不信感は強まっている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu6",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/south-florida/office/boston-firm-with-ties-to-sfl-businesses-airlines-offers-88m-for-former-spirit-hq-135650",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1562x1065/05a280a83d/69f4d3be2e3dd-screenshot-2026-05-01-at-12-12-59-pm.png",
+    "i18n": {
+      "en": {
+        "title": "Hedge Fund Bids $88M for Spirit Airlines' Former Headquarters",
+        "bullets": [
+          "A hedge fund has placed an $88 million bid on Spirit Airlines' former headquarters building.",
+          "This marks the first bid received since the property was scheduled for auction in June.",
+          "The auction follows Spirit Airlines' departure from the office space."
+        ]
+      },
+      "ja": {
+        "title": "ヘッジファンド、スピリット航空の旧本社ビルに8800万ドルで入札",
+        "bullets": [
+          "あるヘッジファンドが、スピリット航空の旧本社ビルに8800万ドルの入札を行った。",
+          "この物件は6月に競売にかけられることが決まっており、今回が初の入札となる。",
+          "スピリット航空が同オフィスから撤退したことを受けての競売実施となる。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cu7",
+    "date": "2026-07-31",
+    "region": "global",
+    "category": "estate",
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/national/ai/ai-adoption-jeopardizes-half-a-million-property-management-jobs-135656",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1503x1024/94c16b4cea/6a6d0e83aed65-chatgpt-image-jul-31-2026-05_05_34-pm.png",
+    "i18n": {
+      "en": {
+        "title": "AI Adoption in Property Management Threatens Half a Million Jobs",
+        "bullets": [
+          "Property management firms are increasingly integrating AI tools into daily workflows.",
+          "Roughly half a million property manager positions could be affected by this shift.",
+          "The trend offers an early signal of how AI may reshape labor demand across the real estate sector."
+        ]
+      },
+      "ja": {
+        "title": "AI導入で不動産管理業界の50万人分の雇用に影響か",
+        "bullets": [
+          "不動産管理会社では日常業務へのAIツールの導入が急速に進んでいる。",
+          "この変化により、約50万人の不動産管理職が影響を受ける可能性がある。",
+          "この動向は、AIが不動産業界の労働需要をどう変えるかを示す先行事例となっている。"
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93d3cuYmlzbm93LmNvbS9u",
+    "date": "2026-07-31",
+    "region": "na",
+    "category": "estate",
+    "caseStudy": false,
+    "source": "Bisnow",
+    "url": "https://www.bisnow.com/news/washington-dc/deal-sheet/manassas-gated-community-sale-dc-deal-sheet-135646",
+    "image": "https://a-us.storyblok.com/f/571151439874644/1474x1004/64496d0ab1/6a6cdd067a7d2-screenshot-2026-07-31-at-1-35-19-pm.png",
+    "i18n": {
+      "en": {
+        "title": "D.C. Deal Sheet: Office Sale and Leasing Activity Highlight Weekly Roundup",
+        "bullets": [
+          "A downtown Washington, D.C. office building sold for $26 million this week.",
+          "New leasing activity was reported at the 1800 M Street office property.",
+          "The roundup also covers a 270-unit gated residential sale in Manassas and a new head of Prince George's County Planning Board."
+        ]
+      },
+      "ja": {
+        "title": "DCディールシート：オフィス売却とリース活動が今週のハイライト",
+        "bullets": [
+          "ワシントンD.C.中心部のオフィスビルが今週2600万ドルで売却された。",
+          "1800 Mストリートのオフィス物件で新たなリース契約が報告された。",
+          "このほかマナサスの270戸のゲーテッドコミュニティ売却や、プリンスジョージズ郡計画委員会の新委員長就任も取り上げられている。"
         ]
       },
       "zh": {
-        "title": "金科房地产以1.09亿美元收购布劳沃德县两处零售中心",
+        "title": "华盛顿地产周报：市中心写字楼售价2600万美元，租赁活跃",
         "bullets": [
-          "金科房地产(Kimco Realty)从KPR Centers手中收购了佛罗里达州布劳沃德县两处以超市为主力店的零售中心,总价1.09亿美元。",
-          "其中最大一笔交易为以5600万美元收购Sunshine Plaza,该物业位于西商业大道,建筑面积达245,744平方英尺。",
-          "金科是美国最大的超市主力店零售中心业主之一。"
+          "华盛顿特区市中心一栋写字楼本周以2600万美元售出。",
+          "1800 M街办公物业出现新的租赁活动。",
+          "报告还提及马纳萨斯一处270户封闭式社区的出售，以及乔治王子县规划委员会新任负责人的任命。"
         ]
       },
       "ko": {
-        "title": "킴코 리얼티, 브로워드 카운티 소매 센터 2곳 1억 900만 달러에 인수",
+        "title": "워싱턴 DC 부동산 딜시트: 오피스 빌딩 2600만 달러에 매각, 임대 활동도 활발",
         "bullets": [
-          "킴코 리얼티는 KPR 센터스로부터 플로리다주 브로워드 카운티의 식료품점 앵커형 소매 센터 2곳을 총 1억 900만 달러에 인수했다.",
-          "최대 규모 거래는 웨스트 커머셜 대로에 위치한 24만 5744평방피트 규모의 선샤인 플라자로, 매입가는 5600만 달러였다.",
-          "킴코는 미국에서 식료품점 앵커형 소매 센터를 가장 많이 보유한 기업 중 하나다."
+          "이번 주 워싱턴 DC 도심의 한 오피스 빌딩이 2600만 달러에 매각됐다.",
+          "1800 M 스트리트 오피스 자산에서 새로운 임대 계약이 체결됐다.",
+          "이 외에도 매너서스의 270세대 게이티드 커뮤니티 매각과 프린스조지 카운티 계획위원회 신임 위원장 소식도 다뤄졌다."
         ]
       }
     }
@@ -1977,45 +2065,45 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
+    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
     "date": "2026-07-27",
-    "region": "global",
-    "category": "work",
+    "region": "eu",
+    "category": "design",
     "caseStudy": false,
-    "source": "Workplace Insight",
-    "url": "https://workplaceinsight.net/resilience-the-expanding-global-mandate-for-facility-management/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-the-expanding-global-mandate-for-facility-management",
-    "image": "https://workplaceinsight.net/wp-content/uploads/2026/07/mbll-lone-tree-1934897_1920.jpg",
+    "source": "OnOffice Magazine",
+    "url": "https://www.onofficemagazine.com/design/__trashed",
+    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/07/Vipp-Swivel-Chair-Article-Hero-Img-e1785141944491.jpeg",
     "i18n": {
       "en": {
-        "title": "Facility management's global mandate grows amid resilience challenges",
+        "title": "Vipp Expands Swivel Chair Series with New Executive Models",
         "bullets": [
-          "The facility management sector has gained prominence this decade due to pandemics, climate events and geopolitical instability.",
-          "Facility managers have been tasked with demonstrating strategic planning and operational competence during these disruptions.",
-          "The article frames resilience as an expanding core mandate for FM professionals worldwide."
+          "Danish design brand Vipp will launch new executive office chairs in September, expanding its Swivel chair line.",
+          "The Vipp 454 has no armrests while the Vipp 455 features slender armrests blending into the padded backrest.",
+          "Both models feature a lengthened backrest and enlarged seat designed for improved ergonomics during long desk hours."
         ]
       },
       "ja": {
-        "title": "レジリエンスの重要性増す、施設管理(FM)業界の世界的使命",
+        "title": "ヴィップ、スウィベルチェアシリーズに新エグゼクティブモデルを追加",
         "bullets": [
-          "パンデミックや気候変動、地政学的不安定化により、この10年でファシリティマネジメント業界の重要性が高まっている。",
-          "施設管理者はこうした混乱の中で戦略的計画能力と実務対応力を示すことを求められてきた。",
-          "記事はレジリエンスをFM専門家にとって拡大し続ける中核的使命として位置づけている。"
+          "デンマークのデザインブランド、ヴィップが9月に新しいエグゼクティブオフィスチェアを発売し、スウィベルチェアシリーズを拡張する。",
+          "アームレスト無しのVipp 454と、パッド入りの背もたれに滑らかに繋がる細身のアームレストを備えたVipp 455の2モデルが登場する。",
+          "両モデルとも背もたれを長くし座面を拡大するなど、長時間のデスクワークでの快適性向上を図った設計となっている。"
         ]
       },
       "zh": {
-        "title": "设施管理行业的全球使命随韧性挑战不断扩大",
+        "title": "丹麦品牌Vipp推出新款高管办公椅 扩展Swivel系列",
         "bullets": [
-          "本十年间，疫情、气候事件和地缘政治不稳定使设施管理（FM）行业获得前所未有的关注。",
-          "设施管理者被要求在这些冲击中展现战略规划能力和运营能力。",
-          "文章将韧性视为FM专业人士日益扩大的核心使命。"
+          "丹麦设计品牌Vipp将于9月推出新款高管办公椅,扩充其Swivel旋转椅系列产品线。",
+          "Vipp 454不带扶手,而Vipp 455配有纤细扶手,与带软垫的靠背自然衔接。",
+          "两款椅子均加长了靠背并加大了座椅面积,旨在提升长时间伏案办公的舒适度。"
         ]
       },
       "ko": {
-        "title": "회복력 강화로 확대되는 시설관리(FM) 업계의 글로벌 책무",
+        "title": "빕, 스위블 체어 시리즈에 새로운 임원용 모델 출시",
         "bullets": [
-          "이번 10년간 팬데믹, 기후 위기, 지정학적 불안정 속에서 시설관리(FM) 업계가 전례 없는 주목을 받고 있다.",
-          "시설관리자들은 이러한 혼란 속에서 전략적 계획 수립과 운영 역량을 입증해야 했다.",
-          "기사는 회복력을 FM 전문가들의 점점 확대되는 핵심 책무로 규정하고 있다."
+          "덴마크 디자인 브랜드 빕이 9월 새로운 임원용 사무용 의자를 출시하며 스위블 체어 라인을 확장한다.",
+          "팔걸이가 없는 Vipp 454와 패딩 처리된 등받이로 매끄럽게 이어지는 얇은 팔걸이를 갖춘 Vipp 455 두 가지 모델로 구성된다.",
+          "두 모델 모두 등받이를 길게 하고 좌석을 넓혀 장시간 데스크 근무 시 인체공학적 편안함을 높였다."
         ]
       }
     }
@@ -2065,45 +2153,45 @@
     }
   },
   {
-    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
+    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
     "date": "2026-07-27",
-    "region": "eu",
-    "category": "design",
+    "region": "global",
+    "category": "work",
     "caseStudy": false,
-    "source": "OnOffice Magazine",
-    "url": "https://www.onofficemagazine.com/design/__trashed",
-    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/07/Vipp-Swivel-Chair-Article-Hero-Img-e1785141944491.jpeg",
+    "source": "Workplace Insight",
+    "url": "https://workplaceinsight.net/resilience-the-expanding-global-mandate-for-facility-management/?utm_source=rss&utm_medium=rss&utm_campaign=resilience-the-expanding-global-mandate-for-facility-management",
+    "image": "https://workplaceinsight.net/wp-content/uploads/2026/07/mbll-lone-tree-1934897_1920.jpg",
     "i18n": {
       "en": {
-        "title": "Vipp Expands Swivel Chair Series with New Executive Models",
+        "title": "Facility management's global mandate grows amid resilience challenges",
         "bullets": [
-          "Danish design brand Vipp will launch new executive office chairs in September, expanding its Swivel chair line.",
-          "The Vipp 454 has no armrests while the Vipp 455 features slender armrests blending into the padded backrest.",
-          "Both models feature a lengthened backrest and enlarged seat designed for improved ergonomics during long desk hours."
+          "The facility management sector has gained prominence this decade due to pandemics, climate events and geopolitical instability.",
+          "Facility managers have been tasked with demonstrating strategic planning and operational competence during these disruptions.",
+          "The article frames resilience as an expanding core mandate for FM professionals worldwide."
         ]
       },
       "ja": {
-        "title": "ヴィップ、スウィベルチェアシリーズに新エグゼクティブモデルを追加",
+        "title": "レジリエンスの重要性増す、施設管理(FM)業界の世界的使命",
         "bullets": [
-          "デンマークのデザインブランド、ヴィップが9月に新しいエグゼクティブオフィスチェアを発売し、スウィベルチェアシリーズを拡張する。",
-          "アームレスト無しのVipp 454と、パッド入りの背もたれに滑らかに繋がる細身のアームレストを備えたVipp 455の2モデルが登場する。",
-          "両モデルとも背もたれを長くし座面を拡大するなど、長時間のデスクワークでの快適性向上を図った設計となっている。"
+          "パンデミックや気候変動、地政学的不安定化により、この10年でファシリティマネジメント業界の重要性が高まっている。",
+          "施設管理者はこうした混乱の中で戦略的計画能力と実務対応力を示すことを求められてきた。",
+          "記事はレジリエンスをFM専門家にとって拡大し続ける中核的使命として位置づけている。"
         ]
       },
       "zh": {
-        "title": "丹麦品牌Vipp推出新款高管办公椅 扩展Swivel系列",
+        "title": "设施管理行业的全球使命随韧性挑战不断扩大",
         "bullets": [
-          "丹麦设计品牌Vipp将于9月推出新款高管办公椅,扩充其Swivel旋转椅系列产品线。",
-          "Vipp 454不带扶手,而Vipp 455配有纤细扶手,与带软垫的靠背自然衔接。",
-          "两款椅子均加长了靠背并加大了座椅面积,旨在提升长时间伏案办公的舒适度。"
+          "本十年间，疫情、气候事件和地缘政治不稳定使设施管理（FM）行业获得前所未有的关注。",
+          "设施管理者被要求在这些冲击中展现战略规划能力和运营能力。",
+          "文章将韧性视为FM专业人士日益扩大的核心使命。"
         ]
       },
       "ko": {
-        "title": "빕, 스위블 체어 시리즈에 새로운 임원용 모델 출시",
+        "title": "회복력 강화로 확대되는 시설관리(FM) 업계의 글로벌 책무",
         "bullets": [
-          "덴마크 디자인 브랜드 빕이 9월 새로운 임원용 사무용 의자를 출시하며 스위블 체어 라인을 확장한다.",
-          "팔걸이가 없는 Vipp 454와 패딩 처리된 등받이로 매끄럽게 이어지는 얇은 팔걸이를 갖춘 Vipp 455 두 가지 모델로 구성된다.",
-          "두 모델 모두 등받이를 길게 하고 좌석을 넓혀 장시간 데스크 근무 시 인체공학적 편안함을 높였다."
+          "이번 10년간 팬데믹, 기후 위기, 지정학적 불안정 속에서 시설관리(FM) 업계가 전례 없는 주목을 받고 있다.",
+          "시설관리자들은 이러한 혼란 속에서 전략적 계획 수립과 운영 역량을 입증해야 했다.",
+          "기사는 회복력을 FM 전문가들의 점점 확대되는 핵심 책무로 규정하고 있다."
         ]
       }
     }
@@ -2192,6 +2280,50 @@
           "이탈리아 디자이너 미켈레 메네스카르디와 크리스티안 고리가 처음으로 협업해 Actiu의 새로운 테이블 시스템 TRAYY를 선보였다.",
           "이 아이디어는 음악가들이 곡을 함께 작곡하듯 디자이너도 협업할 수 있지 않을까 하는 비공식적인 대화에서 시작됐다.",
           "두 사람은 그동안 무역 박람회와 업계 행사에서 오래 알고 지냈지만 공동 프로젝트는 이번이 처음이다."
+        ]
+      }
+    }
+  },
+  {
+    "id": "a_aHR0cHM6Ly93b3JrcGxhY2VpbnNpZ2h0",
+    "date": "2026-07-22",
+    "region": "eu",
+    "category": "culture",
+    "caseStudy": false,
+    "source": "Workplace Insight",
+    "url": "https://workplaceinsight.net/gen-z-workers-are-socialising-more-after-returning-to-the-office-study-suggests/?utm_source=rss&utm_medium=rss&utm_campaign=gen-z-workers-are-socialising-more-after-returning-to-the-office-study-suggests",
+    "image": "https://workplaceinsight.net/wp-content/uploads/2020/11/Younger-workers.png",
+    "i18n": {
+      "en": {
+        "title": "Gen Z Workers Socialising More Since Return to Office, Study Finds",
+        "bullets": [
+          "A Careerminds UK poll of 600 UK employees found 31.7% of Gen Z respondents socialise more with colleagues since returning to the office more often.",
+          "The survey suggests increased in-person attendance is strengthening workplace relationships among younger employees.",
+          "The findings add to ongoing debate about the social benefits of office-based work compared with remote arrangements."
+        ]
+      },
+      "ja": {
+        "title": "Z世代、オフィス復帰で同僚との交流が増加と調査結果",
+        "bullets": [
+          "英キャリアマインズUKが英国の従業員600人を対象に行った調査で、Z世代の31.7%がオフィス勤務の増加以降、同僚との交流が増えたと回答した。",
+          "この結果は、対面勤務の増加が若手社員間の職場での関係構築を強化していることを示唆している。",
+          "調査結果は、リモートワークと比較したオフィス勤務の社会的メリットに関する議論に新たな材料を加えている。"
+        ]
+      },
+      "zh": {
+        "title": "调查显示Z世代员工返回办公室后社交活动增多",
+        "bullets": [
+          "英国Careerminds UK对600名英国员工的调查发现，31.7%的Z世代受访者表示，随着更频繁地返回办公室，他们与同事的社交互动增多。",
+          "调查结果表明，线下出勤增加有助于加强年轻员工之间的职场关系。",
+          "这一发现为关于办公室办公与远程办公在社交益处方面的持续讨论提供了新证据。"
+        ]
+      },
+      "ko": {
+        "title": "Z세대, 사무실 복귀 후 동료와의 교류 증가",
+        "bullets": [
+          "영국 Careerminds UK가 영국 직장인 600명을 대상으로 실시한 조사에서 Z세대의 31.7%가 사무실 근무가 늘어난 이후 동료와의 사교활동이 증가했다고 답했다.",
+          "이 조사는 대면 근무 증가가 젊은 직원들 사이의 직장 내 관계 형성을 강화하고 있음을 시사한다.",
+          "이번 결과는 원격근무와 비교한 사무실 근무의 사회적 이점에 대한 논의에 새로운 근거를 더한다."
         ]
       }
     }
@@ -2324,139 +2456,6 @@
           "가구업체 사보의 CEO 크레이그 하워스는 매일 오래 사용하는 업무용 의자가 정작 디자인계에서 소외되고 있다고 지적한다.",
           "그는 상징적인 라운지 체어는 찬사를 받는 반면 인체공학적 사무용 의자는 외면받는 현실을 대조한다.",
           "그는 사람들이 업무 시간의 대부분을 보내는 의자에 더 많은 디자인적 관심이 필요하다고 주장한다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly93d3cub25vZmZpY2VtYWdh",
-    "date": "2026-06-22",
-    "region": "eu",
-    "category": "design",
-    "caseStudy": true,
-    "source": "OnOffice Magazine",
-    "url": "https://www.onofficemagazine.com/design/british-design-brand-deadgood-enters-a-new-chapter-with-the-launch-of-several-new-products-furniture-passports-and-a-refreshed-london-showroom-courtesy-of-creative-studio-trifle",
-    "image": "https://www.onofficemagazine.com/wp-content/uploads/2026/06/Deadgood-CDW-01-scaled.jpg",
-    "i18n": {
-      "en": {
-        "title": "British Furniture Brand Deadgood Unveils New Products and Redesigned London Showroom",
-        "bullets": [
-          "Deadgood launched several new products including the Lollipop chair, inspired by a wooden lolly stick.",
-          "The brand introduced furniture 'passports' documenting materials and provenance for each piece.",
-          "Creative studio Trifle* redesigned Deadgood's London showroom as part of the relaunch."
-        ]
-      },
-      "ja": {
-        "title": "英家具ブランドDeadgood、新製品とロンドンショールームを刷新",
-        "bullets": [
-          "Deadgoodは木製ロリポップスティックに着想を得た椅子「Lollipop」など新製品を発表した。",
-          "同ブランドは各製品の素材や由来を記録する家具用「パスポート」を導入した。",
-          "クリエイティブスタジオTrifle*がロンドンのショールームをリニューアルした。"
-        ]
-      },
-      "zh": {
-        "title": "英国家具品牌Deadgood推出新品并翻新伦敦展厅",
-        "bullets": [
-          "Deadgood推出多款新产品，其中包括灵感来自木质棒棒糖棍的Lollipop椅。",
-          "该品牌为每件家具引入记录材料与产地信息的“护照”。",
-          "创意工作室Trifle*负责重新设计Deadgood位于伦敦的展厅。"
-        ]
-      },
-      "ko": {
-        "title": "영국 가구 브랜드 Deadgood, 신제품 출시 및 런던 쇼룸 리뉴얼",
-        "bullets": [
-          "Deadgood는 나무 막대 아이스크림에서 착안한 의자 'Lollipop' 등 신제품을 출시했다.",
-          "브랜드는 각 제품의 소재와 출처를 기록하는 가구용 '패스포트'를 도입했다.",
-          "크리에이티브 스튜디오 Trifle*가 런던 쇼룸을 새롭게 디자인했다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9vZmZpY2Vjb25jZXB0ZGVz",
-    "date": "2026-06-11",
-    "region": "global",
-    "category": "design",
-    "caseStudy": false,
-    "source": "Office Concept Design",
-    "url": "https://officeconceptdesign.com/designing-for-every-activity/",
-    "image": null,
-    "i18n": {
-      "en": {
-        "title": "Acoustic Pods Enable Activity-Based Workplace Design",
-        "bullets": [
-          "Wintech's Winpod system is built on Activity-Based Working principles to support varied workplace tasks.",
-          "The product offers acoustic spaces designed for different zones beyond standard open-plan desks and meeting rooms.",
-          "It targets a common office layout gap between open workstations and enclosed perimeter meeting rooms."
-        ]
-      },
-      "ja": {
-        "title": "アクティビティ・ベースド・ワーキングを支える防音ポッド",
-        "ja_bullets": [],
-        "bullets": [
-          "Wintech社のWinpodは、アクティビティ・ベースド・ワーキング(ABW)の考え方に基づき設計されている。",
-          "このシステムは、オープンプランのデスクや会議室にとどまらない、ゾーンごとの防音スペースを提供する。",
-          "開放的な作業スペースと壁で囲まれた会議室の間に生じがちなギャップを埋めることを狙っている。"
-        ]
-      },
-      "zh": {
-        "title": "隔音舱助力活动导向型办公空间设计",
-        "bullets": [
-          "Wintech公司的Winpod产品基于活动导向型办公(ABW)理念设计。",
-          "该产品为不同功能区提供专门设计的隔音空间,不局限于开放式工位和封闭会议室。",
-          "它旨在填补开放式工位与周边封闭会议室之间常见的办公布局空白。"
-        ]
-      },
-      "ko": {
-        "title": "활동중심업무(ABW)를 지원하는 방음 포드",
-        "bullets": [
-          "Wintech사의 Winpod는 활동중심업무(ABW) 원칙을 기반으로 설계되었다.",
-          "이 제품은 개방형 워크스테이션과 회의실을 넘어 다양한 구역에 맞춘 방음 공간을 제공한다.",
-          "개방형 업무공간과 외곽의 밀폐형 회의실 사이에 흔히 나타나는 사무공간 설계의 공백을 해결하고자 한다."
-        ]
-      }
-    }
-  },
-  {
-    "id": "a_aHR0cHM6Ly9vZmZpY2Vjb25jZXB0ZGVz",
-    "date": "2026-05-30",
-    "region": "eu",
-    "category": "design",
-    "caseStudy": false,
-    "source": "Office Concept Design",
-    "url": "https://officeconceptdesign.com/simple-social-ease/",
-    "image": "https://officeconceptdesign.com/wp-content/uploads/1-Scoop-Brunner.jpg",
-    "i18n": {
-      "en": {
-        "title": "Brunner Unveils 'Scoop' Seating Collection for Flexible Workspaces",
-        "bullets": [
-          "Brunner has launched 'scoop,' a seating collection with a sculpted, half-open backrest design.",
-          "The collection is designed for adaptability across meeting rooms, cafés, learning spaces and workplaces.",
-          "It emphasizes comfort, visual lightness and flexible configuration for contemporary interiors."
-        ]
-      },
-      "ja": {
-        "title": "ブルンナー、柔軟なオフィス空間向け新座席コレクション「スクープ」を発表",
-        "bullets": [
-          "ブルンナーは、彫刻的で半開放型の背もたれを特徴とする座席コレクション「スクープ」を発表した。",
-          "このコレクションは会議室、カフェ、学習スペース、職場など多様な用途への適応性を重視して設計されている。",
-          "快適性、視覚的な軽さ、柔軟な配置構成が現代的なインテリアに調和するよう工夫されている。"
-        ]
-      },
-      "zh": {
-        "title": "布鲁纳推出适应现代办公空间的“Scoop”座椅系列",
-        "bullets": [
-          "布鲁纳（Brunner）推出了名为“scoop”的座椅系列，其特点是雕塑感十足的半开放式靠背设计。",
-          "该系列旨在灵活适应会议室、咖啡厅、学习空间和办公场所等多种环境。",
-          "该设计强调舒适性、视觉轻盈感以及适合现代室内空间的灵活配置方式。"
-        ]
-      },
-      "ko": {
-        "title": "브루너, 유연한 업무공간을 위한 신규 좌석 컬렉션 '스쿱' 출시",
-        "bullets": [
-          "브루너(Brunner)가 조각적인 형태의 반개방형 등받이가 특징인 좌석 컬렉션 '스쿱'을 출시했다.",
-          "이 컬렉션은 회의실, 카페, 학습 공간, 사무 공간 등 다양한 환경에 유연하게 적용되도록 설계됐다.",
-          "편안함과 시각적 경쾌함, 유연한 배치 구성을 강조해 현대적인 인테리어에 어울리도록 만들어졌다."
         ]
       }
     }
