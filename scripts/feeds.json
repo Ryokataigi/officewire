@@ -12,5 +12,7 @@
   { "source": "Workplace Insight", "url": "https://workplaceinsight.net/feed/" },
   { "source": "Allwork.Space", "url": "https://allwork.space/feed/" },
   { "source": "designboom", "url": "https://www.designboom.com/architecture/feed/" },
-  { "source": "ArchDaily", "url": "https://www.archdaily.com/rss" }
+  { "source": "ArchDaily", "url": "https://www.archdaily.com/rss" },
+  { "source": "Architizer", "url": "https://architizer.com/blog/feed" },
+  { "source": "Design Milk", "url": "https://design-milk.com/category/architecture/feed/" }
 ]
