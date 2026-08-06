@@ -314,6 +314,28 @@ header.masthead {
 
 .article ul li { margin-bottom: 3px; }
 
+.insight {
+  background: var(--teal-bg);
+  border-left: 3px solid var(--teal);
+  border-radius: 0 6px 6px 0;
+  padding: 10px 12px;
+  margin: 0 0 10px;
+  font-size: 13px;
+  font-style: italic;
+  color: var(--ink);
+  line-height: 1.6;
+}
+
+.insight-label {
+  font-style: normal;
+  font-weight: 700;
+  font-family: 'IBM Plex Mono', monospace;
+  color: var(--teal);
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  margin-right: 4px;
+}
+
 .article-actions {
   display: flex;
   gap: 12px;

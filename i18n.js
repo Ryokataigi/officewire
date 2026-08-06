@@ -49,6 +49,7 @@ const I18N = {
     footerAboutText: "OfficeWire collects and summarizes global office, real estate, and workplace news from multiple sources every day using AI. Always check the original article for full context.",
     footerCopyright: "© {year} OfficeWire. All article rights belong to their original publishers.",
     caseStudy: "Case Study",
+    insightLabel: "OfficeWire's Take: ",
   },
   ja: {
     tagline: "世界のオフィスニュースを毎日3行で。",
@@ -89,6 +90,7 @@ const I18N = {
     footerAboutText: "OfficeWireは、世界各地のオフィス・不動産・働き方に関するニュースを、AIが複数のメディアから収集・要約して毎日お届けしています。詳細は必ず原文をご確認ください。",
     footerCopyright: "© {year} OfficeWire. 各記事の権利は原著作者に帰属します。",
     caseStudy: "事例",
+    insightLabel: "OfficeWireの視点：",
   },
   zh: {
     tagline: "每日三行，速览全球办公室新闻。",
@@ -123,6 +125,7 @@ const I18N = {
     footerAboutText: "OfficeWire 通过 AI 每日从多个媒体收集并总结全球办公室、房地产与职场相关新闻。详情请务必查阅原文。",
     footerCopyright: "© {year} OfficeWire。文章版权归原作者所有。",
     caseStudy: "案例",
+    insightLabel: "OfficeWire视角：",
   },
   ko: {
     tagline: "전 세계 오피스 뉴스를 매일 3줄로.",
@@ -157,6 +160,7 @@ const I18N = {
     footerAboutText: "OfficeWire는 AI가 매일 여러 매체로부터 전 세계 오피스·부동산·근무 방식 관련 뉴스를 수집·요약하여 전해드립니다. 자세한 내용은 반드시 원문을 확인해 주세요.",
     footerCopyright: "© {year} OfficeWire. 각 기사의 저작권은 원저작자에게 있습니다.",
     caseStudy: "사례",
+    insightLabel: "OfficeWire의 시각: ",
   },
 };
 

@@ -106,6 +106,7 @@ function renderFeed() {
             </div>
             <h3><a href="${a.url}" target="_blank" rel="noopener">${localized.title}</a></h3>
             <ul>${localized.bullets.map((b) => `<li>${b}</li>`).join("")}</ul>
+            ${localized.insight ? `<div class="insight"><span class="insight-label">${t(currentLang, "insightLabel")}</span>${localized.insight}</div>` : ""}
             <div class="article-actions">
               <button data-fav="${a.id}" class="${isFav ? "active" : ""}">
                 ${isFav ? "★ " + t(currentLang, "saved") : "☆ " + t(currentLang, "save")}
