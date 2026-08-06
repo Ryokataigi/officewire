@@ -33,10 +33,10 @@ Given this article, respond with ONLY a JSON object (no markdown, no commentary)
   "region": "na" | "eu" | "asia" | "jp" | "global",
   "category": "design" | "work" | "estate" | "culture" | "ai",
   "caseStudy": boolean,
-  "en": { "title": string, "bullets": [string, string, string] },
-  "ja": { "title": string, "bullets": [string, string, string] },
-  "zh": { "title": string, "bullets": [string, string, string] },
-  "ko": { "title": string, "bullets": [string, string, string] }
+  "en": { "title": string, "bullets": [string, string, string], "insight": string },
+  "ja": { "title": string, "bullets": [string, string, string], "insight": string },
+  "zh": { "title": string, "bullets": [string, string, string], "insight": string },
+  "ko": { "title": string, "bullets": [string, string, string], "insight": string }
 }
 
 Rules:
@@ -44,9 +44,10 @@ Rules:
 - "category": "design" = office space/architecture, "work" = general hybrid/remote/work policy (not AI-driven), "estate" = office building/commercial office space (leasing, vacancy, rent, office REITs, office construction/conversion) — NOT hotels, warehouses/industrial, retail, residential, or parking facilities, "culture" = HR/company culture/org policy, "ai" = how AI or digital tools/automation are specifically changing offices, jobs, workflows, or office real estate demand. If a story is about work policy or real estate but AI/automation is the central driver, prefer "ai" over "work" or "estate".
 - "caseStudy": true if the article describes a SPECIFIC, named company or organization's completed, opened, or renovated office project (a concrete example — e.g. "Company X unveils new headquarters", "Company Y redesigns its Tokyo office"). false for general trend pieces, market data, policy news, or anything not tied to one specific named office project.
 - If the article is not actually about office space, office buildings, office-adjacent commercial real estate, workplace culture/policy, or hybrid work — for example if it's about hotels, industrial/warehouse property, retail, residential real estate, parking facilities, or general business news unrelated to offices — respond with {"skip": true} instead.
+- "bullets": exactly 3, purely factual, no interpretation — what happened, who, numbers.
+- "insight": ONE sentence of genuine analysis, written as OfficeWire's own editorial voice — NOT a restatement of the bullets. It must do one of: (a) explain why this matters for the office/workplace industry, (b) connect it to a broader trend readers would recognize, or (c) offer a critical or forward-looking perspective (e.g. a risk, a contradiction, an open question). If you cannot produce a genuinely analytical sentence that adds something beyond the facts, write the most defensible interpretation you can rather than restating a bullet.
 - Titles: concise, factual, no clickbait.
-- Bullets: exactly 3, each one factual sentence, no fluff.
-- "ja" must be natural Japanese, "zh" natural Simplified Chinese, "ko" natural Korean — all real translations, not literal word-for-word ones.
+- "ja" must be natural Japanese, "zh" natural Simplified Chinese, "ko" natural Korean — all real translations, not literal word-for-word ones. Translate "insight" too, keeping its analytical tone.
 
 Article source: ${source}
 Article title: ${item.title}
@@ -61,7 +62,7 @@ Article summary/content: ${(item.contentSnippet || item.content || "").slice(0, 
     },
     body: JSON.stringify({
       model: MODEL,
-      max_tokens: 1600,
+      max_tokens: 2000,
       messages: [{ role: "user", content: prompt }],
     }),
   });
@@ -206,7 +207,12 @@ async function main() {
             source: feed.source,
             url: originalUrl,
             image: extractImage(item) || (await fetchPageImage(originalUrl)),
-            i18n: { en: result.en, ja: result.ja, zh: result.zh, ko: result.ko },
+            i18n: {
+              en: result.en,
+              ja: result.ja,
+              zh: result.zh,
+              ko: result.ko,
+            },
           });
           knownUrls.add(originalUrl);
         } catch (err) {
