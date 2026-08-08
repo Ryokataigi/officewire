@@ -164,6 +164,17 @@ async function main() {
   const existing = await loadJson(DATA_PATH);
   const knownUrls = new Set(existing.map((a) => a.url));
 
+  // Cap non-case-study articles to 1 per source per day, so a single site
+  // can't flood the feed with several similar trend pieces on the same day.
+  // Case-study articles (concrete office project examples) are not capped here.
+  const todayStr = new Date().toISOString().slice(0, 10);
+  const nonCaseStudyCountToday = new Map();
+  for (const a of existing) {
+    if (a.date === todayStr && !a.caseStudy) {
+      nonCaseStudyCountToday.set(a.source, (nonCaseStudyCountToday.get(a.source) || 0) + 1);
+    }
+  }
+
   const parser = new Parser({
     timeout: 15000,
     headers: {
@@ -198,12 +209,24 @@ async function main() {
           const result = await classifyAndSummarize(item, feed.source);
           if (result.skip) continue;
 
+          const articleDate = (item.isoDate || new Date().toISOString()).slice(0, 10);
+          const isCaseStudy = !!result.caseStudy;
+
+          if (!isCaseStudy && articleDate === todayStr) {
+            const countSoFar = nonCaseStudyCountToday.get(feed.source) || 0;
+            if (countSoFar >= 1) {
+              knownUrls.add(originalUrl); // don't re-process this one again tomorrow
+              continue;
+            }
+            nonCaseStudyCountToday.set(feed.source, countSoFar + 1);
+          }
+
           collected.push({
             id: slugId(originalUrl),
-            date: (item.isoDate || new Date().toISOString()).slice(0, 10),
+            date: articleDate,
             region: result.region,
             category: result.category,
-            caseStudy: !!result.caseStudy,
+            caseStudy: isCaseStudy,
             source: feed.source,
             url: originalUrl,
             image: extractImage(item) || (await fetchPageImage(originalUrl)),
