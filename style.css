@@ -167,6 +167,34 @@ header.masthead {
   .ticker-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 }
 
+.search-bar {
+  padding-top: 8px;
+}
+
+.search-bar input {
+  width: 100%;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-size: 14px;
+  padding: 10px 14px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--paper-raised);
+  color: var(--ink);
+}
+
+.search-bar input:focus {
+  outline: none;
+  border-color: var(--teal);
+}
+
+.search-bar input::placeholder {
+  color: var(--ink-faint);
+}
+
+.tabs.top-tabs {
+  padding-top: 24px;
+}
+
 /* Region tabs */
 .tabs {
   display: flex;
