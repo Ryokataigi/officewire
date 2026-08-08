@@ -50,6 +50,7 @@ const I18N = {
     footerCopyright: "© {year} OfficeWire. All article rights belong to their original publishers.",
     caseStudy: "Case Study",
     insightLabel: "OfficeWire's Take: ",
+    headerTagline: "Curated sources. All in one place.",
   },
   ja: {
     tagline: "世界のオフィスニュースを毎日3行で。",
@@ -91,6 +92,8 @@ const I18N = {
     footerCopyright: "© {year} OfficeWire. 各記事の権利は原著作者に帰属します。",
     caseStudy: "事例",
     insightLabel: "OfficeWireの視点：",
+    searchPlaceholder: "記事を検索…",
+    headerTagline: "Curated sources. All in one place.",
   },
   zh: {
     tagline: "每日三行，速览全球办公室新闻。",
@@ -126,6 +129,8 @@ const I18N = {
     footerCopyright: "© {year} OfficeWire。文章版权归原作者所有。",
     caseStudy: "案例",
     insightLabel: "OfficeWire视角：",
+    searchPlaceholder: "搜索文章…",
+    headerTagline: "Curated sources. All in one place.",
   },
   ko: {
     tagline: "전 세계 오피스 뉴스를 매일 3줄로.",
@@ -161,6 +166,8 @@ const I18N = {
     footerCopyright: "© {year} OfficeWire. 각 기사의 저작권은 원저작자에게 있습니다.",
     caseStudy: "사례",
     insightLabel: "OfficeWire의 시각: ",
+    searchPlaceholder: "기사 검색…",
+    headerTagline: "Curated sources. All in one place.",
   },
 };
 
