@@ -107,39 +107,6 @@ header.masthead {
 
 .masthead-actions button:hover { border-color: var(--ink-faint); }
 
-/* World clock strip */
-.clock-strip {
-  display: flex;
-  gap: 0;
-  border-top: 1px solid var(--line);
-  font-family: 'IBM Plex Mono', monospace;
-  font-size: 12px;
-}
-
-.clock-item {
-  flex: 1;
-  padding: 10px 0;
-  border-right: 1px solid var(--line);
-  text-align: center;
-  color: var(--ink-soft);
-}
-
-.clock-item:last-child { border-right: none; }
-
-.clock-item .city {
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: var(--ink-faint);
-  font-size: 10px;
-}
-
-.clock-item .time {
-  color: var(--ink);
-  font-size: 15px;
-  font-weight: 500;
-  margin-top: 2px;
-}
-
 .ticker-strip {
   display: flex;
   border-top: 1px solid var(--line);
@@ -194,9 +161,9 @@ header.masthead {
 @media (max-width: 760px) {
   .hero p { max-width: 100%; }
   .hero h1 { font-size: 26px; }
-  .clock-strip, .ticker-strip { flex-wrap: wrap; }
-  .clock-item, .ticker-item { flex: 0 0 50%; border-bottom: 1px solid var(--line); }
-  .clock-item:nth-child(2n), .ticker-item:nth-child(2n) { border-right: none; }
+  .ticker-strip { flex-wrap: wrap; }
+  .ticker-item { flex: 0 0 50%; border-bottom: 1px solid var(--line); }
+  .ticker-item:nth-child(2n) { border-right: none; }
   .ticker-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 }
 
@@ -254,6 +221,33 @@ header.masthead {
 .article {
   padding: 18px 0;
   border-bottom: 1px solid var(--line);
+}
+
+.article.featured {
+  padding-bottom: 26px;
+  margin-bottom: 4px;
+  border-bottom: 2px solid var(--ink);
+}
+
+.article.featured .article-thumb {
+  max-height: 380px;
+}
+
+.article.featured h3 {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.25;
+  letter-spacing: -0.01em;
+}
+
+.article.featured ul {
+  font-size: 15px;
+}
+
+.article.featured .insight {
+  font-size: 14px;
+  padding: 14px 16px;
 }
 
 .article-thumb {

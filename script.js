@@ -89,15 +89,18 @@ function renderFeed() {
     return;
   }
 
+  let articleIndex = -1;
   feed.innerHTML = grouped
     .map(([date, articles]) => {
       const items = articles
         .map((a) => {
+          articleIndex += 1;
+          const isFeatured = articleIndex === 0;
           const cat = categoryMeta(a.category);
           const isFav = favorites.includes(a.id);
           const localized = getLocalized(a);
           return `
-          <div class="article">
+          <div class="article ${isFeatured ? "featured" : ""}">
             ${a.image ? `<img class="article-thumb" src="${a.image}" alt="" loading="lazy" onerror="this.remove()">` : ""}
             <div class="article-meta">
               <span class="tag ${cat.color}">${categoryLabels[a.category]}</span>
@@ -149,28 +152,6 @@ function renderCategories() {
       <p>${descriptions[c.id]}</p>
     </div>`
   ).join("");
-}
-
-function updateClocks() {
-  const cities = t(currentLang, "cities");
-  const zones = [
-    { id: "tokyo", tz: "Asia/Tokyo" },
-    { id: "london", tz: "Europe/London" },
-    { id: "newyork", tz: "America/New_York" },
-    { id: "singapore", tz: "Asia/Singapore" },
-  ];
-  const el = document.getElementById("clock-strip");
-  el.innerHTML = zones
-    .map((z) => {
-      const time = new Intl.DateTimeFormat(currentLang, {
-        hour: "2-digit",
-        minute: "2-digit",
-        hour12: false,
-        timeZone: z.tz,
-      }).format(new Date());
-      return `<div class="clock-item"><div class="city">${cities[z.id]}</div><div class="time">${time}</div></div>`;
-    })
-    .join("");
 }
 
 function renderTicker() {
@@ -262,7 +243,6 @@ function renderAll() {
   renderTabs();
   renderFeed();
   renderCategories();
-  updateClocks();
   renderTicker();
   renderFooter();
 }
@@ -286,9 +266,7 @@ renderStaticText();
 renderToday();
 renderTabs();
 renderCategories();
-updateClocks();
 renderFeed(); // shows the loading state immediately
 renderFooter();
 loadArticles(); // then fetches real data and re-renders the feed
-setInterval(updateClocks, 30000);
 initDarkMode();
