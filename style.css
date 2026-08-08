@@ -60,9 +60,15 @@ header.masthead {
 
 .masthead-top {
   display: flex;
-  align-items: baseline;
+  align-items: flex-end;
   justify-content: space-between;
   padding-bottom: 16px;
+}
+
+.logo-block {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 
 .logo {
@@ -73,6 +79,13 @@ header.masthead {
 }
 
 .logo span { color: var(--teal); }
+
+.tagline {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 11px;
+  letter-spacing: 0.02em;
+  color: var(--ink-faint);
+}
 
 .masthead-actions {
   display: flex;

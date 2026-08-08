@@ -38,6 +38,7 @@ function formatDateLabel(dateStr) {
 }
 
 function renderStaticText() {
+  document.getElementById("header-tagline").textContent = t(currentLang, "headerTagline");
   document.getElementById("categories-heading").textContent = t(currentLang, "categories");
   document.getElementById("mode-toggle").textContent =
     document.documentElement.dataset.mode === "dark" ? t(currentLang, "lightMode") : t(currentLang, "darkMode");
