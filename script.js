@@ -1,4 +1,5 @@
 let activeRegion = "all";
+let activeCategory = "all";
 let currentLang = localStorage.getItem("officewire_lang") || detectBrowserLang();
 let favorites = JSON.parse(localStorage.getItem("officewire_favs") || "[]");
 let ARTICLES = null;
@@ -72,6 +73,26 @@ function renderTabs() {
   });
 }
 
+function renderCategoryTabs() {
+  const el = document.getElementById("category-tabs");
+  const categoryLabels = t(currentLang, "categoryLabels");
+  const allLabel = t(currentLang, "regions").all;
+  const options = [{ id: "all", label: allLabel }, ...CATEGORIES.map((c) => ({ id: c.id, label: categoryLabels[c.id] }))];
+  el.innerHTML = options
+    .map(
+      (o) =>
+        `<button class="tab ${o.id === activeCategory ? "active" : ""}" data-category="${o.id}">${o.label}</button>`
+    )
+    .join("");
+  el.querySelectorAll(".tab").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      activeCategory = btn.dataset.category;
+      renderCategoryTabs();
+      renderFeed();
+    });
+  });
+}
+
 function renderFeed() {
   const feed = document.getElementById("feed");
 
@@ -80,7 +101,11 @@ function renderFeed() {
     return;
   }
 
-  const filtered = ARTICLES.filter((a) => activeRegion === "all" || a.region === activeRegion);
+  const filtered = ARTICLES.filter(
+    (a) =>
+      (activeRegion === "all" || a.region === activeRegion) &&
+      (activeCategory === "all" || a.category === activeCategory)
+  );
   const grouped = groupByDate(filtered);
   const categoryLabels = t(currentLang, "categoryLabels");
 
@@ -241,6 +266,7 @@ function renderAll() {
   renderStaticText();
   renderToday();
   renderTabs();
+  renderCategoryTabs();
   renderFeed();
   renderCategories();
   renderTicker();
@@ -265,6 +291,7 @@ renderLangSwitcher();
 renderStaticText();
 renderToday();
 renderTabs();
+renderCategoryTabs();
 renderCategories();
 renderFeed(); // shows the loading state immediately
 renderFooter();
